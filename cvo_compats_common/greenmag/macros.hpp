@@ -1,4 +1,4 @@
-#include "\cvo\cvo_compats_rhsafrf\macros_common.hpp"
+#include "\cvo\cvo_compats_common\macros_common.hpp"
 
 #define GREENMAG_LOADED __has_include("\z\greenmag\addons\main\script_component.hpp")
 
