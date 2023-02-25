@@ -371,6 +371,265 @@
         <Russian>5.45x39мм - 60 птр. [7У1]</Russian>
       </Key>
     </Container>
+    <Container name="Ammo 5.56 M193">
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M193_1Rnd_name">
+        <Original>5.56x45mm - 1 Rnd [M193]</Original>
+        <English>5.56x45mm - 1 Rnd [M193]</English>
+        <Russian>5.56x45мм - 1 птр. [M193]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M193_10Rnd_name">
+        <Original>5.56x45mm - 10 Rnd [M193]</Original>
+        <English>5.56x45mm - 10 Rnd [M193]</English>
+        <Russian>5.56x45мм - 10 птр. [M193]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M193_20Rnd_name">
+        <Original>5.56x45mm - 20 Rnd [M193]</Original>
+        <English>5.56x45mm - 20 Rnd [M193]</English>
+        <Russian>5.56x45мм - 20 птр. [M193]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M193_30Rnd_name">
+        <Original>5.56x45mm - 30 Rnd [M193]</Original>
+        <English>5.56x45mm - 30 Rnd [M193]</English>
+        <Russian>5.56x45мм - 30 птр. [M193]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M193_40Rnd_name">
+        <Original>5.56x45mm - 40 Rnd [M193]</Original>
+        <English>5.56x45mm - 40 Rnd [M193]</English>
+        <Russian>5.56x45мм - 40 птр. [M193]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M193_50Rnd_name">
+        <Original>5.56x45mm - 50 Rnd [M193]</Original>
+        <English>5.56x45mm - 50 Rnd [M193]</English>
+        <Russian>5.56x45мм - 50 птр. [M193]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M193_60Rnd_name">
+        <Original>5.56x45mm - 60 Rnd [M193]</Original>
+        <English>5.56x45mm - 60 Rnd [M193]</English>
+        <Russian>5.56x45мм - 60 птр. [M193]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.56 M196">
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M196_1Rnd_name">
+        <Original>5.56x45mm - 1 Rnd [M196]</Original>
+        <English>5.56x45mm - 1 Rnd [M196]</English>
+        <Russian>5.56x45мм - 1 птр. [M196]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M196_10Rnd_name">
+        <Original>5.56x45mm - 10 Rnd [M196]</Original>
+        <English>5.56x45mm - 10 Rnd [M196]</English>
+        <Russian>5.56x45мм - 10 птр. [M196]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M196_20Rnd_name">
+        <Original>5.56x45mm - 20 Rnd [M196]</Original>
+        <English>5.56x45mm - 20 Rnd [M196]</English>
+        <Russian>5.56x45мм - 20 птр. [M196]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M196_30Rnd_name">
+        <Original>5.56x45mm - 30 Rnd [M196]</Original>
+        <English>5.56x45mm - 30 Rnd [M196]</English>
+        <Russian>5.56x45мм - 30 птр. [M196]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M196_40Rnd_name">
+        <Original>5.56x45mm - 40 Rnd [M196]</Original>
+        <English>5.56x45mm - 40 Rnd [M196]</English>
+        <Russian>5.56x45мм - 40 птр. [M196]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M196_50Rnd_name">
+        <Original>5.56x45mm - 50 Rnd [M196]</Original>
+        <English>5.56x45mm - 50 Rnd [M196]</English>
+        <Russian>5.56x45мм - 50 птр. [M196]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M196_60Rnd_name">
+        <Original>5.56x45mm - 60 Rnd [M196]</Original>
+        <English>5.56x45mm - 60 Rnd [M196]</English>
+        <Russian>5.56x45мм - 60 птр. [M196]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.56 M200">
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M200_1Rnd_name">
+        <Original>5.56x45mm - 1 Rnd [M200]</Original>
+        <English>5.56x45mm - 1 Rnd [M200]</English>
+        <Russian>5.56x45мм - 1 птр. [M200]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M200_10Rnd_name">
+        <Original>5.56x45mm - 10 Rnd [M200]</Original>
+        <English>5.56x45mm - 10 Rnd [M200]</English>
+        <Russian>5.56x45мм - 10 птр. [M200]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M200_20Rnd_name">
+        <Original>5.56x45mm - 20 Rnd [M200]</Original>
+        <English>5.56x45mm - 20 Rnd [M200]</English>
+        <Russian>5.56x45мм - 20 птр. [M200]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M200_30Rnd_name">
+        <Original>5.56x45mm - 30 Rnd [M200]</Original>
+        <English>5.56x45mm - 30 Rnd [M200]</English>
+        <Russian>5.56x45мм - 30 птр. [M200]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M200_40Rnd_name">
+        <Original>5.56x45mm - 40 Rnd [M200]</Original>
+        <English>5.56x45mm - 40 Rnd [M200]</English>
+        <Russian>5.56x45мм - 40 птр. [M200]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M200_50Rnd_name">
+        <Original>5.56x45mm - 50 Rnd [M200]</Original>
+        <English>5.56x45mm - 50 Rnd [M200]</English>
+        <Russian>5.56x45мм - 50 птр. [M200]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M200_60Rnd_name">
+        <Original>5.56x45mm - 60 Rnd [M200]</Original>
+        <English>5.56x45mm - 60 Rnd [M200]</English>
+        <Russian>5.56x45мм - 60 птр. [M200]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.56 M855">
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855_1Rnd_name">
+        <Original>5.56x45mm - 1 Rnd [M855]</Original>
+        <English>5.56x45mm - 1 Rnd [M855]</English>
+        <Russian>5.56x45мм - 1 птр. [M855]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855_10Rnd_name">
+        <Original>5.56x45mm - 10 Rnd [M855]</Original>
+        <English>5.56x45mm - 10 Rnd [M855]</English>
+        <Russian>5.56x45мм - 10 птр. [M855]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855_20Rnd_name">
+        <Original>5.56x45mm - 20 Rnd [M855]</Original>
+        <English>5.56x45mm - 20 Rnd [M855]</English>
+        <Russian>5.56x45мм - 20 птр. [M855]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855_30Rnd_name">
+        <Original>5.56x45mm - 30 Rnd [M855]</Original>
+        <English>5.56x45mm - 30 Rnd [M855]</English>
+        <Russian>5.56x45мм - 30 птр. [M855]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855_40Rnd_name">
+        <Original>5.56x45mm - 40 Rnd [M855]</Original>
+        <English>5.56x45mm - 40 Rnd [M855]</English>
+        <Russian>5.56x45мм - 40 птр. [M855]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855_50Rnd_name">
+        <Original>5.56x45mm - 50 Rnd [M855]</Original>
+        <English>5.56x45mm - 50 Rnd [M855]</English>
+        <Russian>5.56x45мм - 50 птр. [M855]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855_60Rnd_name">
+        <Original>5.56x45mm - 60 Rnd [M855]</Original>
+        <English>5.56x45mm - 60 Rnd [M855]</English>
+        <Russian>5.56x45мм - 60 птр. [M855]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.56 M856">
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856_1Rnd_name">
+        <Original>5.56x45mm - 1 Rnd [M856]</Original>
+        <English>5.56x45mm - 1 Rnd [M856]</English>
+        <Russian>5.56x45мм - 1 птр. [M856]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856_10Rnd_name">
+        <Original>5.56x45mm - 10 Rnd [M856]</Original>
+        <English>5.56x45mm - 10 Rnd [M856]</English>
+        <Russian>5.56x45мм - 10 птр. [M856]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856_20Rnd_name">
+        <Original>5.56x45mm - 20 Rnd [M856]</Original>
+        <English>5.56x45mm - 20 Rnd [M856]</English>
+        <Russian>5.56x45мм - 20 птр. [M856]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856_30Rnd_name">
+        <Original>5.56x45mm - 30 Rnd [M856]</Original>
+        <English>5.56x45mm - 30 Rnd [M856]</English>
+        <Russian>5.56x45мм - 30 птр. [M856]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856_40Rnd_name">
+        <Original>5.56x45mm - 40 Rnd [M856]</Original>
+        <English>5.56x45mm - 40 Rnd [M856]</English>
+        <Russian>5.56x45мм - 40 птр. [M856]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856_50Rnd_name">
+        <Original>5.56x45mm - 50 Rnd [M856]</Original>
+        <English>5.56x45mm - 50 Rnd [M856]</English>
+        <Russian>5.56x45мм - 50 птр. [M856]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856_60Rnd_name">
+        <Original>5.56x45mm - 60 Rnd [M856]</Original>
+        <English>5.56x45mm - 60 Rnd [M856]</English>
+        <Russian>5.56x45мм - 60 птр. [M856]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.56 M855A1">
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855A1_1Rnd_name">
+        <Original>5.56x45mm - 1 Rnd [M855A1]</Original>
+        <English>5.56x45mm - 1 Rnd [M855A1]</English>
+        <Russian>5.56x45мм - 1 птр. [M855A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855A1_10Rnd_name">
+        <Original>5.56x45mm - 10 Rnd [M855A1]</Original>
+        <English>5.56x45mm - 10 Rnd [M855A1]</English>
+        <Russian>5.56x45мм - 10 птр. [M855A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855A1_20Rnd_name">
+        <Original>5.56x45mm - 20 Rnd [M855A1]</Original>
+        <English>5.56x45mm - 20 Rnd [M855A1]</English>
+        <Russian>5.56x45мм - 20 птр. [M855A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855A1_30Rnd_name">
+        <Original>5.56x45mm - 30 Rnd [M855A1]</Original>
+        <English>5.56x45mm - 30 Rnd [M855A1]</English>
+        <Russian>5.56x45мм - 30 птр. [M855A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855A1_40Rnd_name">
+        <Original>5.56x45mm - 40 Rnd [M855A1]</Original>
+        <English>5.56x45mm - 40 Rnd [M855A1]</English>
+        <Russian>5.56x45мм - 40 птр. [M855A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855A1_50Rnd_name">
+        <Original>5.56x45mm - 50 Rnd [M855A1]</Original>
+        <English>5.56x45mm - 50 Rnd [M855A1]</English>
+        <Russian>5.56x45мм - 50 птр. [M855A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M855A1_60Rnd_name">
+        <Original>5.56x45mm - 60 Rnd [M855A1]</Original>
+        <English>5.56x45mm - 60 Rnd [M855A1]</English>
+        <Russian>5.56x45мм - 60 птр. [M855A1]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.56 M856A1">
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856A1_1Rnd_name">
+        <Original>5.56x45mm - 1 Rnd [M856A1]</Original>
+        <English>5.56x45mm - 1 Rnd [M856A1]</English>
+        <Russian>5.56x45мм - 1 птр. [M856A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856A1_10Rnd_name">
+        <Original>5.56x45mm - 10 Rnd [M856A1]</Original>
+        <English>5.56x45mm - 10 Rnd [M856A1]</English>
+        <Russian>5.56x45мм - 10 птр. [M856A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856A1_20Rnd_name">
+        <Original>5.56x45mm - 20 Rnd [M856A1]</Original>
+        <English>5.56x45mm - 20 Rnd [M856A1]</English>
+        <Russian>5.56x45мм - 20 птр. [M856A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856A1_30Rnd_name">
+        <Original>5.56x45mm - 30 Rnd [M856A1]</Original>
+        <English>5.56x45mm - 30 Rnd [M856A1]</English>
+        <Russian>5.56x45мм - 30 птр. [M856A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856A1_40Rnd_name">
+        <Original>5.56x45mm - 40 Rnd [M856A1]</Original>
+        <English>5.56x45mm - 40 Rnd [M856A1]</English>
+        <Russian>5.56x45мм - 40 птр. [M856A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856A1_50Rnd_name">
+        <Original>5.56x45mm - 50 Rnd [M856A1]</Original>
+        <English>5.56x45mm - 50 Rnd [M856A1]</English>
+        <Russian>5.56x45мм - 50 птр. [M856A1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_556x45_M856A1_60Rnd_name">
+        <Original>5.56x45mm - 60 Rnd [M856A1]</Original>
+        <English>5.56x45mm - 60 Rnd [M856A1]</English>
+        <Russian>5.56x45мм - 60 птр. [M856A1]</Russian>
+      </Key>
+    </Container>
     <Container name="Ammo 7.62x39 57N231">
       <Key ID="STR_CVO_greenmag_ammo_762x39_57N231_1Rnd_name">
         <Original>7.62x39mm - 1 Rnd [57-N-231]</Original>
