@@ -298,13 +298,13 @@ class CfgWeapons {
 	#include "ammo\545x39_7T3M.hpp"
 	#include "ammo\545x39_7U1.hpp"
 
-	#include "ammo\556x46_M193.hpp"
-	#include "ammo\556x46_M196.hpp"
-	#include "ammo\556x46_M200.hpp"
-	#include "ammo\556x46_M855.hpp"
-	#include "ammo\556x46_M855A1.hpp"
-	#include "ammo\556x46_M856.hpp"
-	#include "ammo\556x46_M856A1.hpp"
+	#include "ammo\556x45_M193.hpp"
+	#include "ammo\556x45_M196.hpp"
+	#include "ammo\556x45_M200.hpp"
+	#include "ammo\556x45_M855.hpp"
+	#include "ammo\556x45_M855A1.hpp"
+	#include "ammo\556x45_M856.hpp"
+	#include "ammo\556x45_M856A1.hpp"
 
 	#include "ammo\762x25_Basic.hpp"
 
