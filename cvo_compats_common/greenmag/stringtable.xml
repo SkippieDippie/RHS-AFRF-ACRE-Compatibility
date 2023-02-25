@@ -781,259 +781,259 @@
     <Container name="Ammo 762x54 57N323S">
       <Key ID="STR_CVO_greenmag_ammo_762x54_57N323S_1Rnd_name">
         <Original>7.62x54mm - 1 Rnd [57-N-323S]</Original>
-        <English>7.62x39mm - 1 Rnd [57-N-323S]</English>
+        <English>7.62x54mm - 1 Rnd [57-N-323S]</English>
         <Russian>7.62x54мм - 1 птр. [57-Н-323С]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_57N323S_10Rnd_name">
         <Original>7.62x54mm - 10 Rnd [57-N-323S]</Original>
-        <English>7.62x39mm - 10 Rnd [57-N-323S]</English>
+        <English>7.62x54mm - 10 Rnd [57-N-323S]</English>
         <Russian>7.62x54мм - 10 птр. [57-Н-323С]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_57N323S_20Rnd_name">
         <Original>7.62x54mm - 20 Rnd [57-N-323S]</Original>
-        <English>7.62x39mm - 20 Rnd [57-N-323S]</English>
+        <English>7.62x54mm - 20 Rnd [57-N-323S]</English>
         <Russian>7.62x54мм - 20 птр. [57-Н-323С]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_57N323S_30Rnd_name">
         <Original>7.62x54mm - 30 Rnd [57-N-323S]</Original>
-        <English>7.62x39mm - 30 Rnd [57-N-323S]</English>
+        <English>7.62x54mm - 30 Rnd [57-N-323S]</English>
         <Russian>7.62x54мм - 30 птр. [57-Н-323С]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_57N323S_40Rnd_name">
         <Original>7.62x54mm - 40 Rnd [57-N-323S]</Original>
-        <English>7.62x39mm - 40 Rnd [57-N-323S]</English>
+        <English>7.62x54mm - 40 Rnd [57-N-323S]</English>
         <Russian>7.62x54мм - 40 птр. [57-Н-323С]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_57N323S_50Rnd_name">
         <Original>7.62x54mm - 50 Rnd [57-N-323S]</Original>
-        <English>7.62x39mm - 50 Rnd [57-N-323S]</English>
+        <English>7.62x54mm - 50 Rnd [57-N-323S]</English>
         <Russian>7.62x54мм - 50 птр. [57-Н-323С]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_57N323S_60Rnd_name">
         <Original>7.62x54mm - 60 Rnd [57-N-323S]</Original>
-        <English>7.62x39mm - 60 Rnd [57-N-323S]</English>
+        <English>7.62x54mm - 60 Rnd [57-N-323S]</English>
         <Russian>7.62x54мм - 60 птр. [57-Н-323С]</Russian>
       </Key>
     </Container>
     <Container name="Ammo 762x54 7BZ3">
       <Key ID="STR_CVO_greenmag_ammo_762x54_7BZ3_1Rnd_name">
         <Original>7.62x54mm - 1 Rnd [7BZ-3]</Original>
-        <English>7.62x39mm - 1 Rnd [7BZ-3]</English>
+        <English>7.62x54mm - 1 Rnd [7BZ-3]</English>
         <Russian>7.62x54мм - 1 птр. [7БЗ-3]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7BZ3_10Rnd_name">
         <Original>7.62x54mm - 10 Rnd [7BZ-3]</Original>
-        <English>7.62x39mm - 10 Rnd [7BZ-3]</English>
+        <English>7.62x54mm - 10 Rnd [7BZ-3]</English>
         <Russian>7.62x54мм - 10 птр. [7БЗ-3]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7BZ3_20Rnd_name">
         <Original>7.62x54mm - 20 Rnd [7BZ-3]</Original>
-        <English>7.62x39mm - 20 Rnd [7BZ-3]</English>
+        <English>7.62x54mm - 20 Rnd [7BZ-3]</English>
         <Russian>7.62x54мм - 20 птр. [7БЗ-3]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7BZ3_30Rnd_name">
         <Original>7.62x54mm - 30 Rnd [7BZ-3]</Original>
-        <English>7.62x39mm - 30 Rnd [7BZ-3]</English>
+        <English>7.62x54mm - 30 Rnd [7BZ-3]</English>
         <Russian>7.62x54мм - 30 птр. [7БЗ-3]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7BZ3_40Rnd_name">
         <Original>7.62x54mm - 40 Rnd [7BZ-3]</Original>
-        <English>7.62x39mm - 40 Rnd [7BZ-3]</English>
+        <English>7.62x54mm - 40 Rnd [7BZ-3]</English>
         <Russian>7.62x54мм - 40 птр. [7БЗ-3]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7BZ3_50Rnd_name">
         <Original>7.62x54mm - 50 Rnd [7BZ-3]</Original>
-        <English>7.62x39mm - 50 Rnd [7BZ-3]</English>
+        <English>7.62x54mm - 50 Rnd [7BZ-3]</English>
         <Russian>7.62x54мм - 50 птр. [7БЗ-3]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7BZ3_60Rnd_name">
         <Original>7.62x54mm - 60 Rnd [7BZ-3]</Original>
-        <English>7.62x39mm - 60 Rnd [7BZ-3]</English>
+        <English>7.62x54mm - 60 Rnd [7BZ-3]</English>
         <Russian>7.62x54мм - 60 птр. [7БЗ-3]</Russian>
       </Key>
     </Container>
     <Container name="Ammo 762x54 7N1">
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N1_1Rnd_name">
         <Original>7.62x54mm - 1 Rnd [7N1]</Original>
-        <English>7.62x39mm - 1 Rnd [7N1]</English>
+        <English>7.62x54mm - 1 Rnd [7N1]</English>
         <Russian>7.62x54мм - 1 птр. [7Н1]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N1_10Rnd_name">
         <Original>7.62x54mm - 10 Rnd [7N1]</Original>
-        <English>7.62x39mm - 10 Rnd [7N1]</English>
+        <English>7.62x54mm - 10 Rnd [7N1]</English>
         <Russian>7.62x54мм - 10 птр. [7Н1]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N1_20Rnd_name">
         <Original>7.62x54mm - 20 Rnd [7N1]</Original>
-        <English>7.62x39mm - 20 Rnd [7N1]</English>
+        <English>7.62x54mm - 20 Rnd [7N1]</English>
         <Russian>7.62x54мм - 20 птр. [7Н1]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N1_30Rnd_name">
         <Original>7.62x54mm - 30 Rnd [7N1]</Original>
-        <English>7.62x39mm - 30 Rnd [7N1]</English>
+        <English>7.62x54mm - 30 Rnd [7N1]</English>
         <Russian>7.62x54мм - 30 птр. [7Н1]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N1_40Rnd_name">
         <Original>7.62x54mm - 40 Rnd [7N1]</Original>
-        <English>7.62x39mm - 40 Rnd [7N1]</English>
+        <English>7.62x54mm - 40 Rnd [7N1]</English>
         <Russian>7.62x54мм - 40 птр. [7Н1]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N1_50Rnd_name">
         <Original>7.62x54mm - 50 Rnd [7N1]</Original>
-        <English>7.62x39mm - 50 Rnd [7N1]</English>
+        <English>7.62x54mm - 50 Rnd [7N1]</English>
         <Russian>7.62x54мм - 50 птр. [7Н1]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N1_60Rnd_name">
         <Original>7.62x54mm - 60 Rnd [7N1]</Original>
-        <English>7.62x39mm - 60 Rnd [7N1]</English>
+        <English>7.62x54mm - 60 Rnd [7N1]</English>
         <Russian>7.62x54мм - 60 птр. [7Н1]</Russian>
       </Key>
     </Container>
     <Container name="Ammo 762x54 7N13">
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N13_1Rnd_name">
         <Original>7.62x54mm - 1 Rnd [7N13]</Original>
-        <English>7.62x39mm - 1 Rnd [7N13]</English>
+        <English>7.62x54mm - 1 Rnd [7N13]</English>
         <Russian>7.62x54мм - 1 птр. [7Н13]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N13_10Rnd_name">
         <Original>7.62x54mm - 10 Rnd [7N13]</Original>
-        <English>7.62x39mm - 10 Rnd [7N13]</English>
+        <English>7.62x54mm - 10 Rnd [7N13]</English>
         <Russian>7.62x54мм - 10 птр. [7Н13]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N13_20Rnd_name">
         <Original>7.62x54mm - 20 Rnd [7N13]</Original>
-        <English>7.62x39mm - 20 Rnd [7N13]</English>
+        <English>7.62x54mm - 20 Rnd [7N13]</English>
         <Russian>7.62x54мм - 20 птр. [7Н13]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N13_30Rnd_name">
         <Original>7.62x54mm - 30 Rnd [7N13]</Original>
-        <English>7.62x39mm - 30 Rnd [7N13]</English>
+        <English>7.62x54mm - 30 Rnd [7N13]</English>
         <Russian>7.62x54мм - 30 птр. [7Н13]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N13_40Rnd_name">
         <Original>7.62x54mm - 40 Rnd [7N13]</Original>
-        <English>7.62x39mm - 40 Rnd [7N13]</English>
+        <English>7.62x54mm - 40 Rnd [7N13]</English>
         <Russian>7.62x54мм - 40 птр. [7Н13]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N13_50Rnd_name">
         <Original>7.62x54mm - 50 Rnd [7N13]</Original>
-        <English>7.62x39mm - 50 Rnd [7N13]</English>
+        <English>7.62x54mm - 50 Rnd [7N13]</English>
         <Russian>7.62x54мм - 50 птр. [7Н13]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N13_60Rnd_name">
         <Original>7.62x54mm - 60 Rnd [7N13]</Original>
-        <English>7.62x39mm - 60 Rnd [7N13]</English>
+        <English>7.62x54mm - 60 Rnd [7N13]</English>
         <Russian>7.62x54мм - 60 птр. [7Н13]</Russian>
       </Key>
     </Container>
     <Container name="Ammo 762x54 7N14">
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N14_1Rnd_name">
         <Original>7.62x54mm - 1 Rnd [7N14]</Original>
-        <English>7.62x39mm - 1 Rnd [7N14]</English>
+        <English>7.62x54mm - 1 Rnd [7N14]</English>
         <Russian>7.62x54мм - 1 птр. [7Н14]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N14_10Rnd_name">
         <Original>7.62x54mm - 10 Rnd [7N14]</Original>
-        <English>7.62x39mm - 10 Rnd [7N14]</English>
+        <English>7.62x54mm - 10 Rnd [7N14]</English>
         <Russian>7.62x54мм - 10 птр. [7Н14]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N14_20Rnd_name">
         <Original>7.62x54mm - 20 Rnd [7N14]</Original>
-        <English>7.62x39mm - 20 Rnd [7N14]</English>
+        <English>7.62x54mm - 20 Rnd [7N14]</English>
         <Russian>7.62x54мм - 20 птр. [7Н14]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N14_30Rnd_name">
         <Original>7.62x54mm - 30 Rnd [7N14]</Original>
-        <English>7.62x39mm - 30 Rnd [7N14]</English>
+        <English>7.62x54mm - 30 Rnd [7N14]</English>
         <Russian>7.62x54мм - 30 птр. [7Н14]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N14_40Rnd_name">
         <Original>7.62x54mm - 40 Rnd [7N14]</Original>
-        <English>7.62x39mm - 40 Rnd [7N14]</English>
+        <English>7.62x54mm - 40 Rnd [7N14]</English>
         <Russian>7.62x54мм - 40 птр. [7Н14]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N14_50Rnd_name">
         <Original>7.62x54mm - 50 Rnd [7N14]</Original>
-        <English>7.62x39mm - 50 Rnd [7N14]</English>
+        <English>7.62x54mm - 50 Rnd [7N14]</English>
         <Russian>7.62x54мм - 50 птр. [7Н14]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N14_60Rnd_name">
         <Original>7.62x54mm - 60 Rnd [7N14]</Original>
-        <English>7.62x39mm - 60 Rnd [7N14]</English>
+        <English>7.62x54mm - 60 Rnd [7N14]</English>
         <Russian>7.62x54мм - 60 птр. [7Н14]</Russian>
       </Key>
     </Container>
     <Container name="Ammo 762x54 7N26">
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N26_1Rnd_name">
         <Original>7.62x54mm - 1 Rnd [7N26]</Original>
-        <English>7.62x39mm - 1 Rnd [7N26]</English>
+        <English>7.62x54mm - 1 Rnd [7N26]</English>
         <Russian>7.62x54мм - 1 птр. [7Н26]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N26_10Rnd_name">
         <Original>7.62x54mm - 10 Rnd [7N26]</Original>
-        <English>7.62x39mm - 10 Rnd [7N26]</English>
+        <English>7.62x54mm - 10 Rnd [7N26]</English>
         <Russian>7.62x54мм - 10 птр. [7Н26]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N26_20Rnd_name">
         <Original>7.62x54mm - 20 Rnd [7N26]</Original>
-        <English>7.62x39mm - 20 Rnd [7N26]</English>
+        <English>7.62x54mm - 20 Rnd [7N26]</English>
         <Russian>7.62x54мм - 20 птр. [7Н26]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N26_30Rnd_name">
         <Original>7.62x54mm - 30 Rnd [7N26]</Original>
-        <English>7.62x39mm - 30 Rnd [7N26]</English>
+        <English>7.62x54mm - 30 Rnd [7N26]</English>
         <Russian>7.62x54мм - 30 птр. [7Н26]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N26_40Rnd_name">
         <Original>7.62x54mm - 40 Rnd [7N26]</Original>
-        <English>7.62x39mm - 40 Rnd [7N26]</English>
+        <English>7.62x54mm - 40 Rnd [7N26]</English>
         <Russian>7.62x54мм - 40 птр. [7Н26]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N26_50Rnd_name">
         <Original>7.62x54mm - 50 Rnd [7N26]</Original>
-        <English>7.62x39mm - 50 Rnd [7N26]</English>
+        <English>7.62x54mm - 50 Rnd [7N26]</English>
         <Russian>7.62x54мм - 50 птр. [7Н26]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7N26_60Rnd_name">
         <Original>7.62x54mm - 60 Rnd [7N26]</Original>
-        <English>7.62x39mm - 60 Rnd [7N26]</English>
+        <English>7.62x54mm - 60 Rnd [7N26]</English>
         <Russian>7.62x54мм - 60 птр. [7Н26]</Russian>
       </Key>
     </Container>
     <Container name="Ammo 762x54 7T2">
       <Key ID="STR_CVO_greenmag_ammo_762x54_7T2_1Rnd_name">
         <Original>7.62x54mm - 1 Rnd [7T2]</Original>
-        <English>7.62x39mm - 1 Rnd [7T2]</English>
+        <English>7.62x54mm - 1 Rnd [7T2]</English>
         <Russian>7.62x54мм - 1 птр. [7T2]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7T2_10Rnd_name">
         <Original>7.62x54mm - 10 Rnd [7T2]</Original>
-        <English>7.62x39mm - 10 Rnd [7T2]</English>
+        <English>7.62x54mm - 10 Rnd [7T2]</English>
         <Russian>7.62x54мм - 10 птр. [7T2]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7T2_20Rnd_name">
         <Original>7.62x54mm - 20 Rnd [7T2]</Original>
-        <English>7.62x39mm - 20 Rnd [7T2]</English>
+        <English>7.62x54mm - 20 Rnd [7T2]</English>
         <Russian>7.62x54мм - 20 птр. [7T2]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7T2_30Rnd_name">
         <Original>7.62x54mm - 30 Rnd [7T2]</Original>
-        <English>7.62x39mm - 30 Rnd [7T2]</English>
+        <English>7.62x54mm - 30 Rnd [7T2]</English>
         <Russian>7.62x54мм - 30 птр. [7T2]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7T2_40Rnd_name">
         <Original>7.62x54mm - 40 Rnd [7T2]</Original>
-        <English>7.62x39mm - 40 Rnd [7T2]</English>
+        <English>7.62x54mm - 40 Rnd [7T2]</English>
         <Russian>7.62x54мм - 40 птр. [7T2]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7T2_50Rnd_name">
         <Original>7.62x54mm - 50 Rnd [7T2]</Original>
-        <English>7.62x39mm - 50 Rnd [7T2]</English>
+        <English>7.62x54mm - 50 Rnd [7T2]</English>
         <Russian>7.62x54мм - 50 птр. [7T2]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x54_7T2_60Rnd_name">
         <Original>7.62x54mm - 60 Rnd [7T2]</Original>
-        <English>7.62x39mm - 60 Rnd [7T2]</English>
+        <English>7.62x54mm - 60 Rnd [7T2]</English>
         <Russian>7.62x54мм - 60 птр. [7T2]</Russian>
       </Key>
     </Container>
