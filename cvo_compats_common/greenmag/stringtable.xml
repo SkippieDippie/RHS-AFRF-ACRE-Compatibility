@@ -1629,6 +1629,43 @@
         <Russian>7.92x57 - 60 птр. [M75]</Russian>
       </Key>
     </Container>
+    <Container name="Ammo 8x22 Basic">
+      <Key ID="STR_CVO_greenmag_ammo_8x22_basic_1Rnd_name">
+        <Original>8x22mm - 1 Rnd</Original>
+        <English>8x22mm - 1 Rnd</English>
+        <Russian>8x22мм - 1 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_8x22_basic_10Rnd_name">
+        <Original>8x22mm - 10 Rnd</Original>
+        <English>8x22mm - 10 Rnd</English>
+        <Russian>8x22мм - 10 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_8x22_basic_20Rnd_name">
+        <Original>8x22mm - 20 Rnd</Original>
+        <English>8x22mm - 20 Rnd</English>
+        <Russian>8x22мм - 20 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_8x22_basic_30Rnd_name">
+        <Original>8x22mm - 30 Rnd</Original>
+        <English>8x22mm - 30 Rnd</English>
+        <Russian>8x22мм - 30 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_8x22_basic_40Rnd_name">
+        <Original>8x22mm - 40 Rnd</Original>
+        <English>8x22mm - 40 Rnd</English>
+        <Russian>8x22мм - 40 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_8x22_basic_50Rnd_name">
+        <Original>8x22mm - 50 Rnd</Original>
+        <English>8x22mm - 50 Rnd</English>
+        <Russian>8x22мм - 50 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_8x22_basic_60Rnd_name">
+        <Original>8x22mm - 60 Rnd</Original>
+        <English>8x22mm - 60 Rnd</English>
+        <Russian>8x22мм - 60 птр.</Russian>
+      </Key>
+    </Container>
     <Container name="Ammo 9x18 57N181S">
       <Key ID="STR_CVO_greenmag_ammo_9x18_57N181S_1Rnd_name">
         <Original>9x18mm - 1 Rnd [57-N-181S]</Original>
