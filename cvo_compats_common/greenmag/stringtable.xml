@@ -1814,6 +1814,80 @@
         <Russian>9x19мм - 60 птр. [7Н31]</Russian>
       </Key>
     </Container>
+    <Container name="Ammo 9x19 M882">
+      <Key ID="STR_CVO_greenmag_ammo_9x19_M882_1Rnd_name">
+        <Original>9x19mm - 1 Rnd [M882]</Original>
+        <English>9x19mm - 1 Rnd [M882]</English>
+        <Russian>9x19мм - 1 птр. [M882]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_M882_10Rnd_name">
+        <Original>9x19mm - 10 Rnd [M882]</Original>
+        <English>9x19mm - 10 Rnd [M882]</English>
+        <Russian>9x19мм - 10 птр. [M882]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_M882_20Rnd_name">
+        <Original>9x19mm - 20 Rnd [M882]</Original>
+        <English>9x19mm - 20 Rnd [M882]</English>
+        <Russian>9x19мм - 20 птр. [M882]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_M882_30Rnd_name">
+        <Original>9x19mm - 30 Rnd [M882]</Original>
+        <English>9x19mm - 30 Rnd [M882]</English>
+        <Russian>9x19мм - 30 птр. [M882]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_M882_40Rnd_name">
+        <Original>9x19mm - 40 Rnd [M882]</Original>
+        <English>9x19mm - 40 Rnd [M882]</English>
+        <Russian>9x19мм - 40 птр. [M882]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_M882_50Rnd_name">
+        <Original>9x19mm - 50 Rnd [M882]</Original>
+        <English>9x19mm - 50 Rnd [M882]</English>
+        <Russian>9x19мм - 50 птр. [M882]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_M882_60Rnd_name">
+        <Original>9x19mm - 60 Rnd [M882]</Original>
+        <English>9x19mm - 60 Rnd [M882]</English>
+        <Russian>9x19мм - 60 птр. [M882]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 9x19 Mk243">
+      <Key ID="STR_CVO_greenmag_ammo_9x19_Mk243_1Rnd_name">
+        <Original>9x19mm - 1 Rnd [Mk243]</Original>
+        <English>9x19mm - 1 Rnd [Mk243]</English>
+        <Russian>9x19мм - 1 птр. [Mk243]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_Mk243_10Rnd_name">
+        <Original>9x19mm - 10 Rnd [Mk243]</Original>
+        <English>9x19mm - 10 Rnd [Mk243]</English>
+        <Russian>9x19мм - 10 птр. [Mk243]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_Mk243_20Rnd_name">
+        <Original>9x19mm - 20 Rnd [Mk243]</Original>
+        <English>9x19mm - 20 Rnd [Mk243]</English>
+        <Russian>9x19мм - 20 птр. [Mk243]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_Mk243_30Rnd_name">
+        <Original>9x19mm - 30 Rnd [Mk243]</Original>
+        <English>9x19mm - 30 Rnd [Mk243]</English>
+        <Russian>9x19мм - 30 птр. [Mk243]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_Mk243_40Rnd_name">
+        <Original>9x19mm - 40 Rnd [Mk243]</Original>
+        <English>9x19mm - 40 Rnd [Mk243]</English>
+        <Russian>9x19мм - 40 птр. [Mk243]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_Mk243_50Rnd_name">
+        <Original>9x19mm - 50 Rnd [Mk243]</Original>
+        <English>9x19mm - 50 Rnd [Mk243]</English>
+        <Russian>9x19мм - 50 птр. [Mk243]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_9x19_Mk243_60Rnd_name">
+        <Original>9x19mm - 60 Rnd [Mk243]</Original>
+        <English>9x19mm - 60 Rnd [Mk243]</English>
+        <Russian>9x19мм - 60 птр. [Mk243]</Russian>
+      </Key>
+    </Container>
     <Container name="Ammo 9x21 7N28">
       <Key ID="STR_CVO_greenmag_ammo_9x21_7N28_1Rnd_name">
         <Original>9x21mm - 1 Rnd [7N28]</Original>
