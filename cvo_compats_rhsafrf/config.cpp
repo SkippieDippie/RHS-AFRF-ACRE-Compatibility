@@ -4,7 +4,7 @@ class CfgPatches {
 		name = "RHS AFRF - Compatibilities";
 		url = "https://github.com/SkippieDippie/CVO-Everything-Compats";
 
-		requiredAddons[] = {};
+		requiredAddons[] = {"CVO_Compats_Common"};
 		requiredVersion = 1.00;
 
 		units[] = {};
