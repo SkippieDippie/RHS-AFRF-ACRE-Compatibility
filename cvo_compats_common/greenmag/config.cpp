@@ -290,10 +290,13 @@ class CfgWeapons {
 
 
 	// Ammo
+	// 4.6x30
+	#include "ammo\46x30_Basic.hpp"
 	#include "ammo\46x30_AP.hpp"
 	#include "ammo\46x30_FMJ.hpp"
 	#include "ammo\46x30_JHP.hpp"
 
+	// 5.45x39
 	#include "ammo\545x39_7N6.hpp"
 	#include "ammo\545x39_7N6M.hpp"
 	#include "ammo\545x39_7N10.hpp"
@@ -301,6 +304,7 @@ class CfgWeapons {
 	#include "ammo\545x39_7T3M.hpp"
 	#include "ammo\545x39_7U1.hpp"
 
+	// 5.56x45 NATO
 	#include "ammo\556x45_M193.hpp"
 	#include "ammo\556x45_M196.hpp"
 	#include "ammo\556x45_M200.hpp"
@@ -309,12 +313,15 @@ class CfgWeapons {
 	#include "ammo\556x45_M856.hpp"
 	#include "ammo\556x45_M856A1.hpp"
 
+	// 7.62x25
 	#include "ammo\762x25_Basic.hpp"
 
+	// 7.62x39
 	#include "ammo\762x39_57N231.hpp"
 	#include "ammo\762x39_57N231P.hpp"
 	#include "ammo\762x39_57N231U.hpp"
 
+	// 7.62x51 NATO
 	#include "ammo\762x51_M118.hpp"
 	#include "ammo\762x51_M61.hpp"
 	#include "ammo\762x51_M62.hpp"
@@ -322,6 +329,7 @@ class CfgWeapons {
 	#include "ammo\762x51_M80A1.hpp"
 	#include "ammo\762x51_M82.hpp"
 
+	// 7.62x54
 	#include "ammo\762x54_57N323S.hpp"
 	#include "ammo\762x54_7BZ3.hpp"
 	#include "ammo\762x54_7N1.hpp"
@@ -329,25 +337,51 @@ class CfgWeapons {
 	#include "ammo\762x54_7N14.hpp"
 	#include "ammo\762x54_7N26.hpp"
 	#include "ammo\762x54_7T2.hpp"
+	#include "ammo\762x54_M30.hpp"
 
+	// .30-06 Springfield
+	#include "ammo\762x63_Basic.hpp"
+	#include "ammo\762x63_M1.hpp"
+	#include "ammo\762x63_M2.hpp"
+
+
+	// .300 Winchester
+	#include "ammo\762x67_Basic.hpp"
+	#include "ammo\762x67_Mk248.hpp"
+
+
+	// .32 ACP
 	#include "ammo\765x17_Basic.hpp"
+
+	// 7.92x57 Mauser
+	#include "ammo\7.92x57_Basic.hpp"
+	#include "ammo\7.92x57_M70.hpp"
+	#include "ammo\7.92x57_M75.hpp"
+
+	// 8x22 Nambu
+	#include "ammo\8x22_Basic.hpp"
 	
+	// 9x18
 	#include "ammo\9x18_57N181S.hpp"
 	#include "ammo\9x18_Basic.hpp"
 
+	// 9x19
 	#include "ammo\9x19_7N21.hpp"
 	#include "ammo\9x19_7N31.hpp"
 	#include "ammo\9x19_M882.hpp"
 	#include "ammo\9x19_Mk243.hpp"
 
+	// 9x21
 	#include "ammo\9x21_7N28.hpp"
 	#include "ammo\9x21_7N29.hpp"
 	#include "ammo\9x21_7BT3.hpp"
 
+	// 9x39
 	#include "ammo\9x39_Basic.hpp"
 	#include "ammo\9x39_SP5.hpp"
 	#include "ammo\9x39_SP6.hpp"
 
+	// .50 BMG
 	#include "ammo\127x99_M33.hpp"
 	#include "ammo\127x99_Mk211.hpp"
 
