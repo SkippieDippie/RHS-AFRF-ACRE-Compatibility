@@ -1,8 +1,8 @@
 class CfgPatches {
-	class CVO_RHSAFRF_Compats {
+	class CVO_Compats_RHSAFRF {
 		author = "Skippie [CVO]";
 		name = "RHS AFRF - Compatibilities";
-		url = "https://github.com/SkippieDippie/RHS-AFRF-Compatibilities";
+		url = "https://github.com/SkippieDippie/CVO-Everything-Compats";
 
 		requiredAddons[] = {};
 		requiredVersion = 1.00;

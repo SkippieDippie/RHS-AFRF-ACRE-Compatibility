@@ -1,9 +1,9 @@
-#include "\z\cvo_rhsafrf_compats\greenmag\macros.hpp"
+#include "\cvo\cvo_compats_rhsafrf\greenmag\macros.hpp"
 
 #if GREENMAG_LOADED
 class CfgPatches {
-	class CVO_RHSAFRF_Compats_GreenMag {
-		addonRootClass = "CVO_RHSAFRF_Compats";
+	class CVO_Compats_RHSAFRF_GreenMag {
+		addonRootClass = "CVO_Compats_RHSAFRF";
 
 		requiredAddons[] = {
 			"rhs_c_weapons",
