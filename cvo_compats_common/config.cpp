@@ -1,19 +1,13 @@
-#include "macros.hpp"
-
-#if RHS_AFRF_LOADED
-
 class CfgPatches {
-	class CVO_Compats_RHSAFRF {
+	class CVO_Compats_Common {
 		author = "Skippie [CVO]";
-		name = "RHS AFRF - Compatibilities";
+		name = "CVO Compatibilities - Common";
 		url = "https://github.com/SkippieDippie/CVO-Everything-Compats";
 
-		requiredAddons[] = {"CVO_Compats_Common"};
+		requiredAddons[] = {};
 		requiredVersion = 1.00;
 
 		units[] = {};
 		weapons[] = {};
 	};
 };
-
-#endif
