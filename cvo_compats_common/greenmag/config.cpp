@@ -1,4 +1,4 @@
-#include "\cvo\cvo_compats_common\greenmag\macros.hpp"
+#include "\cvo\compats\cvo_compats_common\greenmag\macros.hpp"
 
 #if GREENMAG_LOADED
 class CfgPatches {

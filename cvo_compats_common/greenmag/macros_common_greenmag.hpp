@@ -1,4 +1,8 @@
-#include "\cvo\cvo_compats_common\macros_common.hpp"
+#ifndef CVO_COMPAT_MACROS_COMMON_GREENMAG
+
+#define CVO_COMPAT_MACROS_COMMON_GREENMAG
+
+#include "\cvo\compats\cvo_compats_common\macros_common.hpp"
 
 #define GREENMAG_LOADED __has_include("\z\greenmag\addons\main\script_component.hpp")
 
@@ -11,3 +15,5 @@
 #define CESTRING(CLNAME) QUOTE(DOUBLES($STR_CVO_greenmag,CLNAME))
 #define CESTRING(PREFIX,CLNAME) QUOTE(TRIPLES($STR_CVO_greenmag,PREFIX,CLNAME))
 #define CESTRING(PREFIX,CLNAME,POSTFIX) QUOTE(QUADRUPLES($STR_CVO_greenmag,PREFIX,CLNAME,POSTFIX))
+
+#endif

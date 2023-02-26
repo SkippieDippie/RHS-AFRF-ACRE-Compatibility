@@ -1,3 +1,7 @@
+#include "macros.hpp"
+
+#if RHS_AFRF_LOADED
+
 class CfgPatches {
 	class CVO_Compats_RHSAFRF {
 		author = "Skippie [CVO]";
@@ -11,3 +15,5 @@ class CfgPatches {
 		weapons[] = {};
 	};
 };
+
+#endif

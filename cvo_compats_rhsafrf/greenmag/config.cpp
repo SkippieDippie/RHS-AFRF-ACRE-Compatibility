@@ -1,6 +1,8 @@
-#include "\cvo\cvo_compats_common\greenmag\macros.hpp"
+#include "macros_greenmag.hpp"
 
-#if GREENMAG_LOADED
+#if RHS_AFRF_LOADED
+# if GREENMAG_LOADED
+
 class CfgPatches {
 	class CVO_Compats_RHSAFRF_GreenMag {
 		addonRootClass = "CVO_Compats_RHSAFRF";
@@ -30,4 +32,6 @@ class CfgMagazines {
 	#include "magazines\rhs_afrf_338.hpp"
 
 };
+
+# endif
 #endif
