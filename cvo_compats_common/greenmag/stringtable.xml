@@ -16208,5 +16208,1012 @@
         <Russian>7.62x54мм лента - 200 птр. [7Т2]</Russian>
       </Key>
     </Container>
+    <Container name="Belt 7.62x54 M30">
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_Core_name">
+        <Original>7.62x54mm Belt [M30]</Original>
+        <English>7.62x54mm Belt [M30]</English>
+        <Russian>7.62x54мм лента [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_1_name">
+        <Original>7.62x54mm Belt - 1 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 1 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 1 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_2_name">
+        <Original>7.62x54mm Belt - 2 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 2 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 2 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_3_name">
+        <Original>7.62x54mm Belt - 3 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 3 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 3 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_4_name">
+        <Original>7.62x54mm Belt - 4 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 4 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 4 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_5_name">
+        <Original>7.62x54mm Belt - 5 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 5 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 5 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_6_name">
+        <Original>7.62x54mm Belt - 6 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 6 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 6 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_7_name">
+        <Original>7.62x54mm Belt - 7 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 7 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 7 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_8_name">
+        <Original>7.62x54mm Belt - 8 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 8 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 8 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_9_name">
+        <Original>7.62x54mm Belt - 9 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 9 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 9 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_10_name">
+        <Original>7.62x54mm Belt - 10 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 10 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 10 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_11_name">
+        <Original>7.62x54mm Belt - 11 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 11 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 11 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_12_name">
+        <Original>7.62x54mm Belt - 12 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 12 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 12 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_13_name">
+        <Original>7.62x54mm Belt - 31 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 13 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 13 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_14_name">
+        <Original>7.62x54mm Belt - 14 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 14 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 14 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_15_name">
+        <Original>7.62x54mm Belt - 15 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 15 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 15 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_16_name">
+        <Original>7.62x54mm Belt - 16 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 16 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 16 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_17_name">
+        <Original>7.62x54mm Belt - 17 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 17 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 17 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_18_name">
+        <Original>7.62x54mm Belt - 18 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 18 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 18 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_19_name">
+        <Original>7.62x54mm Belt - 19 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 19 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 19 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_20_name">
+        <Original>7.62x54mm Belt - 20 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 20 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 20 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_21_name">
+        <Original>7.62x54mm Belt - 21 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 21 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 21 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_22_name">
+        <Original>7.62x54mm Belt - 22 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 22 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 22 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_23_name">
+        <Original>7.62x54mm Belt - 23 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 23 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 23 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_24_name">
+        <Original>7.62x54mm Belt - 24 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 24 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 24 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_25_name">
+        <Original>7.62x54mm Belt - 25 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 25 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 25 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_26_name">
+        <Original>7.62x54mm Belt - 26 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 26 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 26 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_27_name">
+        <Original>7.62x54mm Belt - 27 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 27 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 27 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_28_name">
+        <Original>7.62x54mm Belt - 28 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 28 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 28 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_29_name">
+        <Original>7.62x54mm Belt - 29 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 29 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 29 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_30_name">
+        <Original>7.62x54mm Belt - 30 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 30 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 30 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_31_name">
+        <Original>7.62x54mm Belt - 31 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 31 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 31 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_32_name">
+        <Original>7.62x54mm Belt - 32 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 32 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 32 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_33_name">
+        <Original>7.62x54mm Belt - 33 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 33 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 33 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_34_name">
+        <Original>7.62x54mm Belt - 34 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 34 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 34 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_35_name">
+        <Original>7.62x54mm Belt - 35 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 35 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 35 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_36_name">
+        <Original>7.62x54mm Belt - 36 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 36 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 36 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_37_name">
+        <Original>7.62x54mm Belt - 37 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 37 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 37 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_38_name">
+        <Original>7.62x54mm Belt - 38 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 38 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 38 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_39_name">
+        <Original>7.62x54mm Belt - 39 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 39 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 39 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_40_name">
+        <Original>7.62x54mm Belt - 40 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 40 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 40 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_41_name">
+        <Original>7.62x54mm Belt - 41 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 41 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 41 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_42_name">
+        <Original>7.62x54mm Belt - 42 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 42 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 42 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_43_name">
+        <Original>7.62x54mm Belt - 43 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 43 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 43 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_44_name">
+        <Original>7.62x54mm Belt - 44 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 44 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 44 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_45_name">
+        <Original>7.62x54mm Belt - 45 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 45 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 45 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_46_name">
+        <Original>7.62x54mm Belt - 46 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 46 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 46 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_47_name">
+        <Original>7.62x54mm Belt - 47 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 47 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 47 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_48_name">
+        <Original>7.62x54mm Belt - 48 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 48 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 48 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_49_name">
+        <Original>7.62x54mm Belt - 49 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 49 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 49 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_50_name">
+        <Original>7.62x54mm Belt - 50 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 50 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 50 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_51_name">
+        <Original>7.62x54mm Belt - 51 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 51 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 51 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_52_name">
+        <Original>7.62x54mm Belt - 52 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 52 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 52 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_53_name">
+        <Original>7.62x54mm Belt - 53 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 53 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 53 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_54_name">
+        <Original>7.62x54mm Belt - 54 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 54 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 54 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_55_name">
+        <Original>7.62x54mm Belt - 55 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 55 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 55 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_56_name">
+        <Original>7.62x54mm Belt - 56 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 56 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 56 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_57_name">
+        <Original>7.62x54mm Belt - 57 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 57 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 57 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_58_name">
+        <Original>7.62x54mm Belt - 58 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 58 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 58 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_59_name">
+        <Original>7.62x54mm Belt - 59 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 59 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 59 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_60_name">
+        <Original>7.62x54mm Belt - 60 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 60 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 60 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_61_name">
+        <Original>7.62x54mm Belt - 61 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 61 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 61 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_62_name">
+        <Original>7.62x54mm Belt - 62 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 62 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 62 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_63_name">
+        <Original>7.62x54mm Belt - 63 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 63 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 63 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_64_name">
+        <Original>7.62x54mm Belt - 64 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 64 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 64 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_65_name">
+        <Original>7.62x54mm Belt - 65 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 65 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 65 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_66_name">
+        <Original>7.62x54mm Belt - 66 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 66 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 66 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_67_name">
+        <Original>7.62x54mm Belt - 67 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 67 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 67 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_68_name">
+        <Original>7.62x54mm Belt - 68 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 68 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 68 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_69_name">
+        <Original>7.62x54mm Belt - 69 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 69 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 69 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_70_name">
+        <Original>7.62x54mm Belt - 70 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 70 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 70 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_71_name">
+        <Original>7.62x54mm Belt - 71 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 71 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 71 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_72_name">
+        <Original>7.62x54mm Belt - 72 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 72 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 72 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_73_name">
+        <Original>7.62x54mm Belt - 73 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 73 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 73 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_74_name">
+        <Original>7.62x54mm Belt - 74 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 74 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 74 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_75_name">
+        <Original>7.62x54mm Belt - 75 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 75 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 75 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_76_name">
+        <Original>7.62x54mm Belt - 76 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 76 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 76 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_77_name">
+        <Original>7.62x54mm Belt - 77 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 77 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 77 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_78_name">
+        <Original>7.62x54mm Belt - 78 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 78 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 78 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_79_name">
+        <Original>7.62x54mm Belt - 79 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 79 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 79 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_80_name">
+        <Original>7.62x54mm Belt - 80 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 80 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 80 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_81_name">
+        <Original>7.62x54mm Belt - 81 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 81 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 81 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_82_name">
+        <Original>7.62x54mm Belt - 82 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 82 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 82 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_83_name">
+        <Original>7.62x54mm Belt - 83 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 83 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 83 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_84_name">
+        <Original>7.62x54mm Belt - 84 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 84 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 84 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_85_name">
+        <Original>7.62x54mm Belt - 85 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 85 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 85 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_86_name">
+        <Original>7.62x54mm Belt - 86 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 86 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 86 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_87_name">
+        <Original>7.62x54mm Belt - 87 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 87 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 87 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_88_name">
+        <Original>7.62x54mm Belt - 88 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 88 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 88 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_89_name">
+        <Original>7.62x54mm Belt - 89 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 89 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 89 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_90_name">
+        <Original>7.62x54mm Belt - 90 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 90 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 90 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_91_name">
+        <Original>7.62x54mm Belt - 91 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 91 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 91 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_92_name">
+        <Original>7.62x54mm Belt - 92 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 92 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 92 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_93_name">
+        <Original>7.62x54mm Belt - 93 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 93 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 93 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_94_name">
+        <Original>7.62x54mm Belt - 94 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 94 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 94 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_95_name">
+        <Original>7.62x54mm Belt - 95 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 95 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 95 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_96_name">
+        <Original>7.62x54mm Belt - 96 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 96 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 96 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_97_name">
+        <Original>7.62x54mm Belt - 97 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 97 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 97 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_98_name">
+        <Original>7.62x54mm Belt - 98 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 98 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 98 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_99_name">
+        <Original>7.62x54mm Belt - 99 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 99 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 99 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_100_name">
+        <Original>7.62x54mm Belt - 100 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 100 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 100 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_101_name">
+        <Original>7.62x54mm Belt - 101 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 101 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 101 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_102_name">
+        <Original>7.62x54mm Belt - 102 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 102 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 102 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_103_name">
+        <Original>7.62x54mm Belt - 103 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 103 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 103 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_104_name">
+        <Original>7.62x54mm Belt - 104 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 104 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 104 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_105_name">
+        <Original>7.62x54mm Belt - 105 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 105 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 105 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_106_name">
+        <Original>7.62x54mm Belt - 106 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 106 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 106 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_107_name">
+        <Original>7.62x54mm Belt - 107 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 107 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 107 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_108_name">
+        <Original>7.62x54mm Belt - 108 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 108 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 108 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_109_name">
+        <Original>7.62x54mm Belt - 109 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 109 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 109 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_110_name">
+        <Original>7.62x54mm Belt - 110 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 110 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 110 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_111_name">
+        <Original>7.62x54mm Belt - 111 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 111 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 111 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_112_name">
+        <Original>7.62x54mm Belt - 112 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 112 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 112 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_113_name">
+        <Original>7.62x54mm Belt - 131 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 113 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 113 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_114_name">
+        <Original>7.62x54mm Belt - 114 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 114 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 114 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_115_name">
+        <Original>7.62x54mm Belt - 115 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 115 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 115 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_116_name">
+        <Original>7.62x54mm Belt - 116 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 116 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 116 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_117_name">
+        <Original>7.62x54mm Belt - 117 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 117 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 117 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_118_name">
+        <Original>7.62x54mm Belt - 118 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 118 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 118 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_119_name">
+        <Original>7.62x54mm Belt - 119 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 119 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 119 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_120_name">
+        <Original>7.62x54mm Belt - 120 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 120 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 120 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_121_name">
+        <Original>7.62x54mm Belt - 121 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 121 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 121 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_122_name">
+        <Original>7.62x54mm Belt - 122 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 122 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 122 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_123_name">
+        <Original>7.62x54mm Belt - 123 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 123 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 123 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_124_name">
+        <Original>7.62x54mm Belt - 124 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 124 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 124 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_125_name">
+        <Original>7.62x54mm Belt - 125 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 125 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 125 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_126_name">
+        <Original>7.62x54mm Belt - 126 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 126 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 126 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_127_name">
+        <Original>7.62x54mm Belt - 127 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 127 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 127 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_128_name">
+        <Original>7.62x54mm Belt - 128 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 128 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 128 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_129_name">
+        <Original>7.62x54mm Belt - 129 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 129 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 129 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_130_name">
+        <Original>7.62x54mm Belt - 130 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 130 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 130 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_131_name">
+        <Original>7.62x54mm Belt - 131 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 131 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 131 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_132_name">
+        <Original>7.62x54mm Belt - 132 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 132 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 132 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_133_name">
+        <Original>7.62x54mm Belt - 133 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 133 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 133 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_134_name">
+        <Original>7.62x54mm Belt - 134 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 134 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 134 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_135_name">
+        <Original>7.62x54mm Belt - 135 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 135 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 135 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_136_name">
+        <Original>7.62x54mm Belt - 136 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 136 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 136 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_137_name">
+        <Original>7.62x54mm Belt - 137 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 137 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 137 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_138_name">
+        <Original>7.62x54mm Belt - 138 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 138 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 138 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_139_name">
+        <Original>7.62x54mm Belt - 139 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 139 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 139 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_140_name">
+        <Original>7.62x54mm Belt - 140 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 140 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 140 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_141_name">
+        <Original>7.62x54mm Belt - 141 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 141 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 141 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_142_name">
+        <Original>7.62x54mm Belt - 142 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 142 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 142 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_143_name">
+        <Original>7.62x54mm Belt - 143 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 143 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 143 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_144_name">
+        <Original>7.62x54mm Belt - 144 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 144 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 144 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_145_name">
+        <Original>7.62x54mm Belt - 145 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 145 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 145 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_146_name">
+        <Original>7.62x54mm Belt - 146 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 146 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 146 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_147_name">
+        <Original>7.62x54mm Belt - 147 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 147 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 147 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_148_name">
+        <Original>7.62x54mm Belt - 148 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 148 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 148 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_149_name">
+        <Original>7.62x54mm Belt - 149 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 149 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 149 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_150_name">
+        <Original>7.62x54mm Belt - 150 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 150 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 150 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_151_name">
+        <Original>7.62x54mm Belt - 151 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 151 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 151 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_152_name">
+        <Original>7.62x54mm Belt - 152 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 152 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 152 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_153_name">
+        <Original>7.62x54mm Belt - 153 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 153 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 153 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_154_name">
+        <Original>7.62x54mm Belt - 154 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 154 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 154 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_155_name">
+        <Original>7.62x54mm Belt - 155 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 155 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 155 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_156_name">
+        <Original>7.62x54mm Belt - 156 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 156 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 156 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_157_name">
+        <Original>7.62x54mm Belt - 157 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 157 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 157 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_158_name">
+        <Original>7.62x54mm Belt - 158 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 158 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 158 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_159_name">
+        <Original>7.62x54mm Belt - 159 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 159 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 159 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_160_name">
+        <Original>7.62x54mm Belt - 160 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 160 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 160 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_161_name">
+        <Original>7.62x54mm Belt - 161 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 161 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 161 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_162_name">
+        <Original>7.62x54mm Belt - 162 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 162 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 162 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_163_name">
+        <Original>7.62x54mm Belt - 163 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 163 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 163 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_164_name">
+        <Original>7.62x54mm Belt - 164 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 164 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 164 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_165_name">
+        <Original>7.62x54mm Belt - 165 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 165 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 165 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_166_name">
+        <Original>7.62x54mm Belt - 166 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 166 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 166 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_167_name">
+        <Original>7.62x54mm Belt - 167 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 167 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 167 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_168_name">
+        <Original>7.62x54mm Belt - 168 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 168 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 168 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_169_name">
+        <Original>7.62x54mm Belt - 169 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 169 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 169 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_170_name">
+        <Original>7.62x54mm Belt - 170 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 170 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 170 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_171_name">
+        <Original>7.62x54mm Belt - 171 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 171 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 171 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_172_name">
+        <Original>7.62x54mm Belt - 172 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 172 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 172 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_173_name">
+        <Original>7.62x54mm Belt - 173 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 173 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 173 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_174_name">
+        <Original>7.62x54mm Belt - 174 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 174 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 174 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_175_name">
+        <Original>7.62x54mm Belt - 175 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 175 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 175 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_176_name">
+        <Original>7.62x54mm Belt - 176 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 176 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 176 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_177_name">
+        <Original>7.62x54mm Belt - 177 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 177 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 177 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_178_name">
+        <Original>7.62x54mm Belt - 178 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 178 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 178 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_179_name">
+        <Original>7.62x54mm Belt - 179 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 179 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 179 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_180_name">
+        <Original>7.62x54mm Belt - 180 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 180 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 180 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_181_name">
+        <Original>7.62x54mm Belt - 181 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 181 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 181 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_182_name">
+        <Original>7.62x54mm Belt - 182 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 182 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 182 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_183_name">
+        <Original>7.62x54mm Belt - 183 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 183 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 183 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_184_name">
+        <Original>7.62x54mm Belt - 184 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 184 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 184 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_185_name">
+        <Original>7.62x54mm Belt - 185 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 185 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 185 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_186_name">
+        <Original>7.62x54mm Belt - 186 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 186 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 186 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_187_name">
+        <Original>7.62x54mm Belt - 187 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 187 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 187 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_188_name">
+        <Original>7.62x54mm Belt - 188 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 188 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 188 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_189_name">
+        <Original>7.62x54mm Belt - 189 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 189 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 189 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_190_name">
+        <Original>7.62x54mm Belt - 190 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 190 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 190 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_191_name">
+        <Original>7.62x54mm Belt - 191 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 191 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 191 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_192_name">
+        <Original>7.62x54mm Belt - 192 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 192 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 192 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_193_name">
+        <Original>7.62x54mm Belt - 193 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 193 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 193 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_194_name">
+        <Original>7.62x54mm Belt - 194 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 194 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 194 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_195_name">
+        <Original>7.62x54mm Belt - 195 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 195 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 195 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_196_name">
+        <Original>7.62x54mm Belt - 196 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 196 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 196 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_197_name">
+        <Original>7.62x54mm Belt - 197 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 197 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 197 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_198_name">
+        <Original>7.62x54mm Belt - 198 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 198 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 198 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_199_name">
+        <Original>7.62x54mm Belt - 199 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 199 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 199 птр. [M30]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x54_M30_200_name">
+        <Original>7.62x54mm Belt - 200 Rnd [M30]</Original>
+        <English>7.62x54mm Belt - 200 Rnd [M30]</English>
+        <Russian>7.62x54мм лента - 200 птр. [M30]</Russian>
+      </Key>
+    </Container>
   </Package>
 </Project>
