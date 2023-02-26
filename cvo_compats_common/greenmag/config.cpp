@@ -1,6 +1,6 @@
-#include "\cvo\compats\cvo_compats_common\greenmag\macros.hpp"
+#include "macros_greenmag.hpp"
 
-#if GREENMAG_LOADED
+//#if GREENMAG_LOADED
 class CfgPatches {
 	class CVO_Compats_Common_GreenMag {
 		addonRootClass = "CVO_Compats_Common";
@@ -224,21 +224,6 @@ class CfgPatches {
 	};
 };
 
-class CfgMagazines {
-	// External Classes
-	class CA_Magazine;
-
-	#include "magazines\rhs_afrf_545x39.hpp"
-	#include "magazines\rhs_afrf_762x39.hpp"
-	#include "magazines\rhs_afrf_762x54.hpp"
-	#include "magazines\rhs_afrf_9x19.hpp"
-	#include "magazines\rhs_afrf_9x18.hpp"
-	#include "magazines\rhs_afrf_9x21.hpp"
-	#include "magazines\rhs_afrf_9x39.hpp"
-	#include "magazines\rhs_afrf_338.hpp"
-
-};
-
 class CfgWeapons {
 	// External Classes
 	class CBA_MiscItem;
@@ -354,9 +339,9 @@ class CfgWeapons {
 	#include "ammo\765x17_Basic.hpp"
 
 	// 7.92x57 Mauser
-	#include "ammo\7.92x57_Basic.hpp"
-	#include "ammo\7.92x57_M70.hpp"
-	#include "ammo\7.92x57_M75.hpp"
+	#include "ammo\792x57_Basic.hpp"
+	#include "ammo\792x57_M70.hpp"
+	#include "ammo\792x57_M75.hpp"
 
 	// 8x22 Nambu
 	#include "ammo\8x22_Basic.hpp"
@@ -393,4 +378,4 @@ class CfgWeapons {
 	#include "belts\762x54_7T2.hpp"
 	
 };
-#endif
+//#endif

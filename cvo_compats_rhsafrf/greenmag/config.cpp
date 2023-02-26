@@ -1,7 +1,7 @@
-#include "macros_greenmag.hpp"
+#include "\cvo\compats\cvo_compats_common\greenmag\macros_greenmag.hpp"
 
 #if RHS_AFRF_LOADED
-# if GREENMAG_LOADED
+#if GREENMAG_LOADED
 
 class CfgPatches {
 	class CVO_Compats_RHSAFRF_GreenMag {
@@ -33,5 +33,5 @@ class CfgMagazines {
 
 };
 
-# endif
+#endif
 #endif

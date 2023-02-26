@@ -1,3 +1,5 @@
+#include "macros.hpp"
+
 class CfgPatches {
 	class CVO_Compats_Common {
 		author = "Skippie [CVO]";
@@ -11,3 +13,4 @@ class CfgPatches {
 		weapons[] = {};
 	};
 };
+
