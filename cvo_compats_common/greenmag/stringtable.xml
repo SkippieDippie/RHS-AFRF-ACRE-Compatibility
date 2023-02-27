@@ -5,148 +5,148 @@
       <Key ID="STR_CVO_greenmag_ammo_46x30_Basic_1Rnd_name">
         <Original>4.6x30mm - 1 Rnd</Original>
         <English>4.6x30mm - 1 Rnd</English>
-        <Russian>4.6x30mm - 1 птр.</Russian>
+        <Russian>4.6x30мм - 1 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_Basic_10Rnd_name">
         <Original>4.6x30mm - 10 Rnd</Original>
         <English>4.6x30mm - 10 Rnd</English>
-        <Russian>4.6x30mm - 10 птр.</Russian>
+        <Russian>4.6x30мм - 10 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_Basic_20Rnd_name">
         <Original>4.6x30mm - 20 Rnd</Original>
         <English>4.6x30mm - 20 Rnd</English>
-        <Russian>4.6x30mm - 20 птр.</Russian>
+        <Russian>4.6x30мм - 20 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_Basic_30Rnd_name">
         <Original>4.6x30mm - 30 Rnd</Original>
         <English>4.6x30mm - 30 Rnd</English>
-        <Russian>4.6x30mm - 30 птр.</Russian>
+        <Russian>4.6x30мм - 30 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_Basic_40Rnd_name">
         <Original>4.6x30mm - 40 Rnd</Original>
         <English>4.6x30mm - 40 Rnd</English>
-        <Russian>4.6x30mm - 40 птр.</Russian>
+        <Russian>4.6x30мм - 40 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_Basic_50Rnd_name">
         <Original>4.6x30mm - 50 Rnd</Original>
         <English>4.6x30mm - 50 Rnd</English>
-        <Russian>4.6x30mm - 50 птр.</Russian>
+        <Russian>4.6x30мм - 50 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_Basic_60Rnd_name">
         <Original>4.6x30mm - 60 Rnd</Original>
         <English>4.6x30mm - 60 Rnd</English>
-        <Russian>4.6x30mm - 60 птр.</Russian>
+        <Russian>4.6x30мм - 60 птр.</Russian>
       </Key>
     </Container>
     <Container name="Ammo 4.6x30 AP">
       <Key ID="STR_CVO_greenmag_ammo_46x30_AP_1Rnd_name">
         <Original>4.6x30mm - 1 Rnd [AP]</Original>
         <English>4.6x30mm - 1 Rnd [AP]</English>
-        <Russian>4.6x30mm - 1 птр. [AP]</Russian>
+        <Russian>4.6x30мм - 1 птр. [AP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_AP_10Rnd_name">
         <Original>4.6x30mm - 10 Rnd [AP]</Original>
         <English>4.6x30mm - 10 Rnd [AP]</English>
-        <Russian>4.6x30mm - 10 птр. [AP]</Russian>
+        <Russian>4.6x30мм - 10 птр. [AP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_AP_20Rnd_name">
         <Original>4.6x30mm - 20 Rnd [AP]</Original>
         <English>4.6x30mm - 20 Rnd [AP]</English>
-        <Russian>4.6x30mm - 20 птр. [AP]</Russian>
+        <Russian>4.6x30мм - 20 птр. [AP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_AP_30Rnd_name">
         <Original>4.6x30mm - 30 Rnd [AP]</Original>
         <English>4.6x30mm - 30 Rnd [AP]</English>
-        <Russian>4.6x30mm - 30 птр. [AP]</Russian>
+        <Russian>4.6x30мм - 30 птр. [AP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_AP_40Rnd_name">
         <Original>4.6x30mm - 40 Rnd [AP]</Original>
         <English>4.6x30mm - 40 Rnd [AP]</English>
-        <Russian>4.6x30mm - 40 птр. [AP]</Russian>
+        <Russian>4.6x30мм - 40 птр. [AP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_AP_50Rnd_name">
         <Original>4.6x30mm - 50 Rnd [AP]</Original>
         <English>4.6x30mm - 50 Rnd [AP]</English>
-        <Russian>4.6x30mm - 50 птр. [AP]</Russian>
+        <Russian>4.6x30мм - 50 птр. [AP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_AP_60Rnd_name">
         <Original>4.6x30mm - 60 Rnd [AP]</Original>
         <English>4.6x30mm - 60 Rnd [AP]</English>
-        <Russian>4.6x30mm - 60 птр. [AP]</Russian>
+        <Russian>4.6x30мм - 60 птр. [AP]</Russian>
       </Key>
     </Container>
     <Container name="Ammo 4.6x30 FMJ">
       <Key ID="STR_CVO_greenmag_ammo_46x30_FMJ_1Rnd_name">
         <Original>4.6x30mm - 1 Rnd [FMJ]</Original>
         <English>4.6x30mm - 1 Rnd [FMJ]</English>
-        <Russian>4.6x30mm - 1 птр. [FMJ]</Russian>
+        <Russian>4.6x30мм - 1 птр. [FMJ]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_FMJ_10Rnd_name">
         <Original>4.6x30mm - 10 Rnd [FMJ]</Original>
         <English>4.6x30mm - 10 Rnd [FMJ]</English>
-        <Russian>4.6x30mm - 10 птр. [FMJ]</Russian>
+        <Russian>4.6x30мм - 10 птр. [FMJ]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_FMJ_20Rnd_name">
         <Original>4.6x30mm - 20 Rnd [FMJ]</Original>
         <English>4.6x30mm - 20 Rnd [FMJ]</English>
-        <Russian>4.6x30mm - 20 птр. [FMJ]</Russian>
+        <Russian>4.6x30мм - 20 птр. [FMJ]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_FMJ_30Rnd_name">
         <Original>4.6x30mm - 30 Rnd [FMJ]</Original>
         <English>4.6x30mm - 30 Rnd [FMJ]</English>
-        <Russian>4.6x30mm - 30 птр. [FMJ]</Russian>
+        <Russian>4.6x30мм - 30 птр. [FMJ]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_FMJ_40Rnd_name">
         <Original>4.6x30mm - 40 Rnd [FMJ]</Original>
         <English>4.6x30mm - 40 Rnd [FMJ]</English>
-        <Russian>4.6x30mm - 40 птр. [FMJ]</Russian>
+        <Russian>4.6x30мм - 40 птр. [FMJ]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_FMJ_50Rnd_name">
         <Original>4.6x30mm - 50 Rnd [FMJ]</Original>
         <English>4.6x30mm - 50 Rnd [FMJ]</English>
-        <Russian>4.6x30mm - 50 птр. [FMJ]</Russian>
+        <Russian>4.6x30мм - 50 птр. [FMJ]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_FMJ_60Rnd_name">
         <Original>4.6x30mm - 60 Rnd [FMJ]</Original>
         <English>4.6x30mm - 60 Rnd [FMJ]</English>
-        <Russian>4.6x30mm - 60 птр. [FMJ]</Russian>
+        <Russian>4.6x30мм - 60 птр. [FMJ]</Russian>
       </Key>
     </Container>
     <Container name="Ammo 4.6x30 JHP">
       <Key ID="STR_CVO_greenmag_ammo_46x30_JHP_1Rnd_name">
         <Original>4.6x30mm - 1 Rnd [JHP]</Original>
         <English>4.6x30mm - 1 Rnd [JHP]</English>
-        <Russian>4.6x30mm - 1 птр. [JHP]</Russian>
+        <Russian>4.6x30мм - 1 птр. [JHP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_JHP_10Rnd_name">
         <Original>4.6x30mm - 10 Rnd [JHP]</Original>
         <English>4.6x30mm - 10 Rnd [JHP]</English>
-        <Russian>4.6x30mm - 10 птр. [JHP]</Russian>
+        <Russian>4.6x30мм - 10 птр. [JHP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_JHP_20Rnd_name">
         <Original>4.6x30mm - 20 Rnd [JHP]</Original>
         <English>4.6x30mm - 20 Rnd [JHP]</English>
-        <Russian>4.6x30mm - 20 птр. [JHP]</Russian>
+        <Russian>4.6x30мм - 20 птр. [JHP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_JHP_30Rnd_name">
         <Original>4.6x30mm - 30 Rnd [JHP]</Original>
         <English>4.6x30mm - 30 Rnd [JHP]</English>
-        <Russian>4.6x30mm - 30 птр. [JHP]</Russian>
+        <Russian>4.6x30мм - 30 птр. [JHP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_JHP_40Rnd_name">
         <Original>4.6x30mm - 40 Rnd [JHP]</Original>
         <English>4.6x30mm - 40 Rnd [JHP]</English>
-        <Russian>4.6x30mm - 40 птр. [JHP]</Russian>
+        <Russian>4.6x30мм - 40 птр. [JHP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_JHP_50Rnd_name">
         <Original>4.6x30mm - 50 Rnd [JHP]</Original>
         <English>4.6x30mm - 50 Rnd [JHP]</English>
-        <Russian>4.6x30mm - 50 птр. [JHP]</Russian>
+        <Russian>4.6x30мм - 50 птр. [JHP]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_46x30_JHP_60Rnd_name">
         <Original>4.6x30mm - 60 Rnd [JHP]</Original>
         <English>4.6x30mm - 60 Rnd [JHP]</English>
-        <Russian>4.6x30mm - 60 птр. [JHP]</Russian>
+        <Russian>4.6x30мм - 60 птр. [JHP]</Russian>
       </Key>
     </Container>
     <Container name="Ammo 5.45 7N10">
@@ -2074,40 +2074,114 @@
       </Key>
     </Container>
     <Container name="Ammo 9x39 Basic">
-      <Key ID="STR_CVO_greenmag_ammo_9x39_basic_1Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_9x39_Basic_1Rnd_name">
         <Original>9x39mm - 1 Rnd</Original>
         <English>9x39mm - 1 Rnd</English>
         <Russian>9x39мм - 1 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_9x39_basic_10Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_9x39_Basic_10Rnd_name">
         <Original>9x39mm - 10 Rnd</Original>
         <English>9x39mm - 10 Rnd</English>
         <Russian>9x39мм - 10 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_9x39_basic_20Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_9x39_Basic_20Rnd_name">
         <Original>9x39mm - 20 Rnd</Original>
         <English>9x39mm - 20 Rnd</English>
         <Russian>9x39мм - 20 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_9x39_basic_30Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_9x39_Basic_30Rnd_name">
         <Original>9x39mm - 30 Rnd</Original>
         <English>9x39mm - 30 Rnd</English>
         <Russian>9x39мм - 30 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_9x39_basic_40Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_9x39_Basic_40Rnd_name">
         <Original>9x39mm - 40 Rnd</Original>
         <English>9x39mm - 40 Rnd</English>
         <Russian>9x39мм - 40 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_9x39_basic_50Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_9x39_Basic_50Rnd_name">
         <Original>9x39mm - 50 Rnd</Original>
         <English>9x39mm - 50 Rnd</English>
         <Russian>9x39мм - 50 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_9x39_basic_60Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_9x39_Basic_60Rnd_name">
         <Original>9x39mm - 60 Rnd</Original>
         <English>9x39mm - 60 Rnd</English>
         <Russian>9x39мм - 60 птр.</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 12.7x99 M33">
+      <Key ID="STR_CVO_greenmag_ammo_127x99_M33_1Rnd_name">
+        <Original>12.7x99mm - 1 Rnd [M33]</Original>
+        <English>12.7x99mm - 1 Rnd [M33]</English>
+        <Russian>12.7x99мм - 1 птр. [M33]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_M33_10Rnd_name">
+        <Original>12.7x99mm - 10 Rnd [M33]</Original>
+        <English>12.7x99mm - 10 Rnd [M33]</English>
+        <Russian>12.7x99мм - 10 птр. [M33]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_M33_20Rnd_name">
+        <Original>12.7x99mm - 20 Rnd [M33]</Original>
+        <English>12.7x99mm - 20 Rnd [M33]</English>
+        <Russian>12.7x99мм - 20 птр. [M33]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_M33_30Rnd_name">
+        <Original>12.7x99mm - 30 Rnd [M33]</Original>
+        <English>12.7x99mm - 30 Rnd [M33]</English>
+        <Russian>12.7x99мм - 30 птр. [M33]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_M33_40Rnd_name">
+        <Original>12.7x99mm - 40 Rnd [M33]</Original>
+        <English>12.7x99mm - 40 Rnd [M33]</English>
+        <Russian>12.7x99мм - 40 птр. [M33]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_M33_50Rnd_name">
+        <Original>12.7x99mm - 50 Rnd [M33]</Original>
+        <English>12.7x99mm - 50 Rnd [M33]</English>
+        <Russian>12.7x99мм - 50 птр. [M33]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_M33_60Rnd_name">
+        <Original>12.7x99mm - 60 Rnd [M33]</Original>
+        <English>12.7x99mm - 60 Rnd [M33]</English>
+        <Russian>12.7x99мм - 60 птр. [M33]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 12.7x99 Mk211">
+      <Key ID="STR_CVO_greenmag_ammo_127x99_Mk211_1Rnd_name">
+        <Original>12.7x99mm - 1 Rnd [Mk211]</Original>
+        <English>12.7x99mm - 1 Rnd [Mk211]</English>
+        <Russian>12.7x99мм - 1 птр. [Mk211]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_Mk211_10Rnd_name">
+        <Original>12.7x99mm - 10 Rnd [Mk211]</Original>
+        <English>12.7x99mm - 10 Rnd [Mk211]</English>
+        <Russian>12.7x99мм - 10 птр. [Mk211]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_Mk211_20Rnd_name">
+        <Original>12.7x99mm - 20 Rnd [Mk211]</Original>
+        <English>12.7x99mm - 20 Rnd [Mk211]</English>
+        <Russian>12.7x99мм - 20 птр. [Mk211]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_Mk211_30Rnd_name">
+        <Original>12.7x99mm - 30 Rnd [Mk211]</Original>
+        <English>12.7x99mm - 30 Rnd [Mk211]</English>
+        <Russian>12.7x99мм - 30 птр. [Mk211]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_Mk211_40Rnd_name">
+        <Original>12.7x99mm - 40 Rnd [Mk211]</Original>
+        <English>12.7x99mm - 40 Rnd [Mk211]</English>
+        <Russian>12.7x99мм - 40 птр. [Mk211]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_Mk211_50Rnd_name">
+        <Original>12.7x99mm - 50 Rnd [Mk211]</Original>
+        <English>12.7x99mm - 50 Rnd [Mk211]</English>
+        <Russian>12.7x99мм - 50 птр. [Mk211]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_Mk211_60Rnd_name">
+        <Original>12.7x99mm - 60 Rnd [Mk211]</Original>
+        <English>12.7x99mm - 60 Rnd [Mk211]</English>
+        <Russian>12.7x99мм - 60 птр. [Mk211]</Russian>
       </Key>
     </Container>
     <Container name="Belt 5.56x45 M200">
