@@ -1407,115 +1407,115 @@
         <Russian>.30-06 - 60 птр. [M2]</Russian>
       </Key>
     </Container>
-    <Container name="Ammo .300 Win Basic">
+    <Container name="Ammo .300WM Basic">
       <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_1Rnd_name">
-        <Original>.300 Win - 1 Rnd</Original>
-        <English>.300 Win - 1 Rnd</English>
-        <Russian>.300 Win - 1 птр.</Russian>
+        <Original>.300WM - 1 Rnd</Original>
+        <English>.300WM - 1 Rnd</English>
+        <Russian>.300WM - 1 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_1Rnd_name">
-        <Original>.300 Win - 10 Rnd</Original>
-        <English>.300 Win - 10 Rnd</English>
-        <Russian>.300 Win - 10 птр.</Russian>
+        <Original>.300WM - 10 Rnd</Original>
+        <English>.300WM - 10 Rnd</English>
+        <Russian>.300WM - 10 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_20Rnd_name">
-        <Original>.300 Win - 20 Rnd</Original>
-        <English>.300 Win - 20 Rnd</English>
-        <Russian>.300 Win - 20 птр.</Russian>
+        <Original>.300WM - 20 Rnd</Original>
+        <English>.300WM - 20 Rnd</English>
+        <Russian>.300WM - 20 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_30Rnd_name">
-        <Original>.300 Win - 30 Rnd</Original>
-        <English>.300 Win - 30 Rnd</English>
-        <Russian>.300 Win - 30 птр.</Russian>
+        <Original>.300WM - 30 Rnd</Original>
+        <English>.300WM - 30 Rnd</English>
+        <Russian>.300WM - 30 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_40Rnd_name">
-        <Original>.300 Win - 40 Rnd</Original>
-        <English>.300 Win - 40 Rnd</English>
-        <Russian>.300 Win - 40 птр.</Russian>
+        <Original>.300WM - 40 Rnd</Original>
+        <English>.300WM - 40 Rnd</English>
+        <Russian>.300WM - 40 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_50Rnd_name">
-        <Original>.300 Win - 50 Rnd</Original>
-        <English>.300 Win - 50 Rnd</English>
-        <Russian>.300 Win - 50 птр.</Russian>
+        <Original>.300WM - 50 Rnd</Original>
+        <English>.300WM - 50 Rnd</English>
+        <Russian>.300WM - 50 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_60Rnd_name">
-        <Original>.300 Win - 60 Rnd</Original>
-        <English>.300 Win - 60 Rnd</English>
-        <Russian>.300 Win - 60 птр.</Russian>
+        <Original>.300WM - 60 Rnd</Original>
+        <English>.300WM - 60 Rnd</English>
+        <Russian>.300WM - 60 птр.</Russian>
       </Key>
     </Container>
-    <Container name="Ammo .300 Win Mk248">
+    <Container name="Ammo .300WM Mk248">
       <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_1Rnd_name">
-        <Original>.300 Win - 1 Rnd [Mk248]</Original>
-        <English>.300 Win - 1 Rnd [Mk248]</English>
-        <Russian>.300 Win - 1 птр. [Mk248]</Russian>
+        <Original>.300WM - 1 Rnd [Mk248]</Original>
+        <English>.300WM - 1 Rnd [Mk248]</English>
+        <Russian>.300WM - 1 птр. [Mk248]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_10Rnd_name">
-        <Original>.300 Win - 10 Rnd [Mk248]</Original>
-        <English>.300 Win - 10 Rnd [Mk248]</English>
-        <Russian>.300 Win - 10 птр. [Mk248]</Russian>
+        <Original>.300WM - 10 Rnd [Mk248]</Original>
+        <English>.300WM - 10 Rnd [Mk248]</English>
+        <Russian>.300WM - 10 птр. [Mk248]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_20Rnd_name">
-        <Original>.300 Win - 20 Rnd [Mk248]</Original>
-        <English>.300 Win - 20 Rnd [Mk248]</English>
-        <Russian>.300 Win - 20 птр. [Mk248]</Russian>
+        <Original>.300WM - 20 Rnd [Mk248]</Original>
+        <English>.300WM - 20 Rnd [Mk248]</English>
+        <Russian>.300WM - 20 птр. [Mk248]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_30Rnd_name">
-        <Original>.300 Win - 30 Rnd [Mk248]</Original>
-        <English>.300 Win - 30 Rnd [Mk248]</English>
-        <Russian>.300 Win - 30 птр. [Mk248]</Russian>
+        <Original>.300WM - 30 Rnd [Mk248]</Original>
+        <English>.300WM - 30 Rnd [Mk248]</English>
+        <Russian>.300WM - 30 птр. [Mk248]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_40Rnd_name">
-        <Original>.300 Win - 40 Rnd [Mk248]</Original>
-        <English>.300 Win - 40 Rnd [Mk248]</English>
-        <Russian>.300 Win - 40 птр. [Mk248]</Russian>
+        <Original>.300WM - 40 Rnd [Mk248]</Original>
+        <English>.300WM - 40 Rnd [Mk248]</English>
+        <Russian>.300WM - 40 птр. [Mk248]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_50Rnd_name">
-        <Original>.300 Win - 50 Rnd [Mk248]</Original>
-        <English>.300 Win - 50 Rnd [Mk248]</English>
-        <Russian>.300 Win - 50 птр. [Mk248]</Russian>
+        <Original>.300WM - 50 Rnd [Mk248]</Original>
+        <English>.300WM - 50 Rnd [Mk248]</English>
+        <Russian>.300WM - 50 птр. [Mk248]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_60Rnd_name">
-        <Original>.300 Win - 60 Rnd [Mk248]</Original>
-        <English>.300 Win - 60 Rnd [Mk248]</English>
-        <Russian>.300 Win - 60 птр. [Mk248]</Russian>
+        <Original>.300WM - 60 Rnd [Mk248]</Original>
+        <English>.300WM - 60 Rnd [Mk248]</English>
+        <Russian>.300WM - 60 птр. [Mk248]</Russian>
       </Key>
     </Container>
-    <Container name="Ammo .32 ACP Basic">
+    <Container name="Ammo .32ACP Basic">
       <Key ID="STR_CVO_greenmag_ammo_765x17_Basic_1Rnd_name">
-        <Original>.32 ACP - 1 Rnd</Original>
-        <English>.32 ACP - 1 Rnd</English>
-        <Russian>.32 ACP - 1 птр.</Russian>
+        <Original>.32ACP - 1 Rnd</Original>
+        <English>.32ACP - 1 Rnd</English>
+        <Russian>.32ACP - 1 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_765x17_Basic_10Rnd_name">
-        <Original>.32 ACP - 10 Rnd</Original>
-        <English>.32 ACP - 10 Rnd</English>
-        <Russian>.32 ACP - 10 птр.</Russian>
+        <Original>.32ACP - 10 Rnd</Original>
+        <English>.32ACP - 10 Rnd</English>
+        <Russian>.32ACP - 10 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_765x17_Basic_20Rnd_name">
-        <Original>.32 ACP - 20 Rnd</Original>
-        <English>.32 ACP - 20 Rnd</English>
-        <Russian>.32 ACP - 20 птр.</Russian>
+        <Original>.32ACP - 20 Rnd</Original>
+        <English>.32ACP - 20 Rnd</English>
+        <Russian>.32ACP - 20 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_765x17_Basic_30Rnd_name">
-        <Original>.32 ACP - 30 Rnd</Original>
-        <English>.32 ACP - 30 Rnd</English>
-        <Russian>.32 ACP - 30 птр.</Russian>
+        <Original>.32ACP - 30 Rnd</Original>
+        <English>.32ACP - 30 Rnd</English>
+        <Russian>.32ACP - 30 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_765x17_Basic_40Rnd_name">
-        <Original>.32 ACP - 40 Rnd</Original>
-        <English>.32 ACP - 40 Rnd</English>
-        <Russian>.32 ACP - 40 птр.</Russian>
+        <Original>.32ACP - 40 Rnd</Original>
+        <English>.32ACP - 40 Rnd</English>
+        <Russian>.32ACP - 40 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_765x17_Basic_50Rnd_name">
-        <Original>.32 ACP - 50 Rnd</Original>
-        <English>.32 ACP - 50 Rnd</English>
-        <Russian>.32 ACP - 50 птр.</Russian>
+        <Original>.32ACP - 50 Rnd</Original>
+        <English>.32ACP - 50 Rnd</English>
+        <Russian>.32ACP - 50 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_765x17_Basic_60Rnd_name">
-        <Original>.32 ACP - 60 Rnd</Original>
-        <English>.32 ACP - 60 Rnd</English>
-        <Russian>.32 ACP - 60 птр.</Russian>
+        <Original>.32ACP - 60 Rnd</Original>
+        <English>.32ACP - 60 Rnd</English>
+        <Russian>.32ACP - 60 птр.</Russian>
       </Key>
     </Container>
     <Container name="Ammo 7.92x57 Basic">
