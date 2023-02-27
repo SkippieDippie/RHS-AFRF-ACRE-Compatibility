@@ -1413,32 +1413,32 @@
         <English>.300 Win - 1 Rnd</English>
         <Russian>.300 Win - 1 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_10Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_1Rnd_name">
         <Original>.300 Win - 10 Rnd</Original>
         <English>.300 Win - 10 Rnd</English>
         <Russian>.300 Win - 10 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_20Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_20Rnd_name">
         <Original>.300 Win - 20 Rnd</Original>
         <English>.300 Win - 20 Rnd</English>
         <Russian>.300 Win - 20 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_30Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_30Rnd_name">
         <Original>.300 Win - 30 Rnd</Original>
         <English>.300 Win - 30 Rnd</English>
         <Russian>.300 Win - 30 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_40Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_40Rnd_name">
         <Original>.300 Win - 40 Rnd</Original>
         <English>.300 Win - 40 Rnd</English>
         <Russian>.300 Win - 40 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_50Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_50Rnd_name">
         <Original>.300 Win - 50 Rnd</Original>
         <English>.300 Win - 50 Rnd</English>
         <Russian>.300 Win - 50 птр.</Russian>
       </Key>
-      <Key ID="STR_CVO_greenmag_ammo_762x67_Mk248_60Rnd_name">
+      <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_60Rnd_name">
         <Original>.300 Win - 60 Rnd</Original>
         <English>.300 Win - 60 Rnd</English>
         <Russian>.300 Win - 60 птр.</Russian>
