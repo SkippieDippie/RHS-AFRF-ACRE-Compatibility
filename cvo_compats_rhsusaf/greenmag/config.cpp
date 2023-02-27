@@ -22,7 +22,9 @@ class CfgMagazines {
 	// External Classes
 	class CA_Magazine;
 
+	#include "magazines\rhs_usaf_127x99.hpp"
 	#include "magazines\rhs_usaf_556x45.hpp"
+	#include "magazines\rhs_usaf_762x51.hpp"
 	
 };
 
