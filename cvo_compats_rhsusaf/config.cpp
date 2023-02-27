@@ -1,11 +1,11 @@
 #include "\cvo\compats\cvo_compats_common\macros.hpp"
 
-#if RHS_AFRF_LOADED
+#if RHS_USAF_LOADED
 
 class CfgPatches {
-	class CVO_Compats_RHSAFRF {
+	class CVO_Compats_RHSUSAF {
 		author = "Skippie [CVO]";
-		name = "CVO Compatibilities - RHS AFRF";
+		name = "CVO Compatibilities - RHS USAF";
 		url = "https://github.com/SkippieDippie/CVO-Everything-Compats";
 
 		requiredAddons[] = {"CVO_Compats_Common"};

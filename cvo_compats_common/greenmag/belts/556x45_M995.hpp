@@ -3,7 +3,7 @@ class CVO_AFRF_greenmag_CoreBelt_556x45_M995 : CVO_GreenMag_Belt_Core {
 
 	greenmag_item = QBELT_CLASS(556x45_M995);
 	greenmag_basicammo = "greenmag_ammo_556x45_basic_1Rnd";
-	greenmag_ammo = QAMMO_CLASS(556x45_M995_1Rnd);
+	greenmag_ammo = "greenmag_ammo_556x45_m995ap_1Rnd";
 	greenmag_typeName = "556x45_M995";
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
