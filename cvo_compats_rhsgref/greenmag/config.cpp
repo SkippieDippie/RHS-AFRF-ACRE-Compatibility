@@ -23,6 +23,7 @@ class CfgMagazines {
 	class CA_Magazine;
 
 	#include "magazines\rhs_gref_1143x23.hpp"
+	#include "magazines\rhs_gref_556x45.hpp"
 	#include "magazines\rhs_gref_762x25.hpp"
 	#include "magazines\rhs_gref_762x39.hpp"
 	#include "magazines\rhs_gref_762x51.hpp"
