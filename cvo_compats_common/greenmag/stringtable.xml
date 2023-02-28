@@ -778,6 +778,117 @@
         <Russian>7.62x39мм - 60 птр. [57-Н-231У]</Russian>
       </Key>
     </Container>
+    <Container name="Ammo 7.62x39 M67">
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M67_1Rnd_name">
+        <Original>7.62x39mm - 1 Rnd [M67]</Original>
+        <English>7.62x39mm - 1 Rnd [M67]</English>
+        <Russian>7.62x39мм - 1 птр. [M67]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M67_10Rnd_name">
+        <Original>7.62x39mm - 10 Rnd [M67]</Original>
+        <English>7.62x39mm - 10 Rnd [M67]</English>
+        <Russian>7.62x39мм - 10 птр. [M67]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M67_20Rnd_name">
+        <Original>7.62x39mm - 20 Rnd [M67]</Original>
+        <English>7.62x39mm - 20 Rnd [M67]</English>
+        <Russian>7.62x39мм - 20 птр. [M67]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M67_30Rnd_name">
+        <Original>7.62x39mm - 30 Rnd [M67]</Original>
+        <English>7.62x39mm - 30 Rnd [M67]</English>
+        <Russian>7.62x39мм - 30 птр. [M67]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M67_40Rnd_name">
+        <Original>7.62x39mm - 40 Rnd [M67]</Original>
+        <English>7.62x39mm - 40 Rnd [M67]</English>
+        <Russian>7.62x39мм - 40 птр. [M67]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M67_50Rnd_name">
+        <Original>7.62x39mm - 50 Rnd [M67]</Original>
+        <English>7.62x39mm - 50 Rnd [M67]</English>
+        <Russian>7.62x39мм - 50 птр. [M67]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M67_60Rnd_name">
+        <Original>7.62x39mm - 60 Rnd [M67]</Original>
+        <English>7.62x39mm - 60 Rnd [M67]</English>
+        <Russian>7.62x39мм - 60 птр. [M67]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 7.62x39 M78">
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M78_1Rnd_name">
+        <Original>7.62x39mm - 1 Rnd [M78]</Original>
+        <English>7.62x39mm - 1 Rnd [M78]</English>
+        <Russian>7.62x39мм - 1 птр. [M78]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M78_10Rnd_name">
+        <Original>7.62x39mm - 10 Rnd [M78]</Original>
+        <English>7.62x39mm - 10 Rnd [M78]</English>
+        <Russian>7.62x39мм - 10 птр. [M78]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M78_20Rnd_name">
+        <Original>7.62x39mm - 20 Rnd [M78]</Original>
+        <English>7.62x39mm - 20 Rnd [M78]</English>
+        <Russian>7.62x39мм - 20 птр. [M78]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M78_30Rnd_name">
+        <Original>7.62x39mm - 30 Rnd [M78]</Original>
+        <English>7.62x39mm - 30 Rnd [M78]</English>
+        <Russian>7.62x39мм - 30 птр. [M78]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M78_40Rnd_name">
+        <Original>7.62x39mm - 40 Rnd [M78]</Original>
+        <English>7.62x39mm - 40 Rnd [M78]</English>
+        <Russian>7.62x39мм - 40 птр. [M78]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M78_50Rnd_name">
+        <Original>7.62x39mm - 50 Rnd [M78]</Original>
+        <English>7.62x39mm - 50 Rnd [M78]</English>
+        <Russian>7.62x39мм - 50 птр. [M78]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M78_60Rnd_name">
+        <Original>7.62x39mm - 60 Rnd [M78]</Original>
+        <English>7.62x39mm - 60 Rnd [M78]</English>
+        <Russian>7.62x39мм - 60 птр. [M78]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 7.62x39 M82">
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M82_1Rnd_name">
+        <Original>7.62x39mm - 1 Rnd [M82]</Original>
+        <English>7.62x39mm - 1 Rnd [M82]</English>
+        <Russian>7.62x39мм - 1 птр. [M82]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M82_10Rnd_name">
+        <Original>7.62x39mm - 10 Rnd [M82]</Original>
+        <English>7.62x39mm - 10 Rnd [M82]</English>
+        <Russian>7.62x39мм - 10 птр. [M82]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M82_20Rnd_name">
+        <Original>7.62x39mm - 20 Rnd [M82]</Original>
+        <English>7.62x39mm - 20 Rnd [M82]</English>
+        <Russian>7.62x39мм - 20 птр. [M82]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M82_30Rnd_name">
+        <Original>7.62x39mm - 30 Rnd [M82]</Original>
+        <English>7.62x39mm - 30 Rnd [M82]</English>
+        <Russian>7.62x39мм - 30 птр. [M82]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M82_40Rnd_name">
+        <Original>7.62x39mm - 40 Rnd [M82]</Original>
+        <English>7.62x39mm - 40 Rnd [M82]</English>
+        <Russian>7.62x39мм - 40 птр. [M82]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M82_50Rnd_name">
+        <Original>7.62x39mm - 50 Rnd [M82]</Original>
+        <English>7.62x39mm - 50 Rnd [M82]</English>
+        <Russian>7.62x39мм - 50 птр. [M82]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_762x39_M82_60Rnd_name">
+        <Original>7.62x39mm - 60 Rnd [M82]</Original>
+        <English>7.62x39mm - 60 Rnd [M82]</English>
+        <Russian>7.62x39мм - 60 птр. [M82]</Russian>
+      </Key>
+    </Container>
     <Container name="Ammo 7.62x51 M118">
       <Key ID="STR_CVO_greenmag_ammo_762x51_M118_1Rnd_name">
         <Original>7.62x51mm - 1 Rnd [M118]</Original>
