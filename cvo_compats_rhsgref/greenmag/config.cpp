@@ -22,7 +22,7 @@ class CfgMagazines {
 	// External Classes
 	class CA_Magazine;
 
-	
+	#include "magazines\rhs_gref_762x39.hpp"	
 };
 
 # endif
