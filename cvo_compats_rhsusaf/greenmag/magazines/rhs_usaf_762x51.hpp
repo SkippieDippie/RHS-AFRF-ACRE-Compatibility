@@ -30,13 +30,6 @@ class rhs_mag_20Rnd_SCAR_762x51_m80_ball : CA_Magazine {
 	greenmag_canSpeedload = 1;
 };
 
-class rhs_mag_20Rnd_762x51_m80_fnfal : CA_Magazine {
-	greenmag_ammo = QAMMO_CLASS(762x51_M80_1Rnd);
-	greenmag_basicammo = "greenmag_ammo_762x51_basic_1Rnd";
-	greenmag_needBelt = 0;
-	greenmag_canSpeedload = 1;
-};
-
 class rhsusf_20Rnd_762x51_m80_Mag : rhsusf_20Rnd_762x51_m118_special_Mag {
 	greenmag_ammo = QAMMO_CLASS(762x51_M80_1Rnd);
 };
@@ -48,10 +41,6 @@ class rhs_mag_20Rnd_SCAR_762x51_m118_special : rhs_mag_20Rnd_SCAR_762x51_m80_bal
 
 // M80A1
 class rhs_mag_20Rnd_SCAR_762x51_m80a1_epr : rhs_mag_20Rnd_SCAR_762x51_m80_ball {
-	greenmag_ammo = QAMMO_CLASS(762x51_M80A1_1Rnd);
-};
-
-class rhs_mag_20Rnd_762x51_m80a1_fnfal : rhs_mag_20Rnd_762x51_m80_fnfal {
 	greenmag_ammo = QAMMO_CLASS(762x51_M80A1_1Rnd);
 };
 
@@ -76,10 +65,6 @@ class rhsusf_10Rnd_762x51_m62_Mag : rhsusf_5Rnd_762x51_m118_special_Mag {
 };
 
 class rhsusf_20Rnd_762x51_m62_Mag : rhsusf_20Rnd_762x51_m118_special_Mag {
-	greenmag_ammo = QAMMO_CLASS(762x51_M62_1Rnd);
-};
-
-class rhs_mag_20Rnd_762x51_m62_fnfal : rhs_mag_20Rnd_762x51_m80_fnfal {
 	greenmag_ammo = QAMMO_CLASS(762x51_M62_1Rnd);
 };
 
