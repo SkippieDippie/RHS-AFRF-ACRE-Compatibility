@@ -305,6 +305,10 @@ class CfgWeapons {
 	#include "ammo\762x39_57N231.hpp"
 	#include "ammo\762x39_57N231P.hpp"
 	#include "ammo\762x39_57N231U.hpp"
+	#include "ammo\762x39_M67.hpp"
+	#include "ammo\762x39_M78.hpp"
+	#include "ammo\762x39_M82.hpp"
+
 
 	// 7.62x51 NATO
 	#include "ammo\762x51_M118.hpp"

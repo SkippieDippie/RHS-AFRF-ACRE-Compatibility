@@ -14,3 +14,5 @@
 #define RHS_USAF_LOADED __has_include("\rhsusf\addons\rhsusf_main\script_component.hpp")
 
 #define RHS_GREF_LOADED __has_include("\rhsgref\addons\rhsgref_main\script_component.hpp")
+
+#define RHS_SAF_LOADED __has_include("\rhssaf\addons\rhssaf_main\script_component.hpp")
