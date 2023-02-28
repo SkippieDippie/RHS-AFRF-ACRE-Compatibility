@@ -24,6 +24,7 @@ class CfgMagazines {
 
 	#include "magazines\rhs_saf_556x45.hpp"
 	#include "magazines\rhs_saf_762x39.hpp"
+	#include "magazines\rhs_saf_762x54.hpp"
 	#include "magazines\rhs_saf_9x19.hpp"
 	
 };
