@@ -1,6 +1,6 @@
 #include "macros_greenmag.hpp"
 
-//#if GREENMAG_LOADED
+#if GREENMAG_LOADED
 class CfgPatches {
 	class CVO_Compats_Common_GreenMag {
 		addonRootClass = "CVO_Compats_Common";
@@ -378,4 +378,4 @@ class CfgWeapons {
 	#include "belts\762x54_7T2.hpp"
 	
 };
-//#endif
+#endif
