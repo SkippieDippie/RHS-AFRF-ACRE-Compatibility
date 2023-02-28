@@ -23,6 +23,7 @@ class CfgMagazines {
 	class CA_Magazine;
 
 	#include "magazines\rhs_saf_556x45.hpp"
+	#include "magazines\rhs_saf_762x39.hpp"
 	#include "magazines\rhs_saf_9x19.hpp"
 	
 };
