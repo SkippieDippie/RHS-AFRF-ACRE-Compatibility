@@ -31,6 +31,7 @@ class CfgMagazines {
 	#include "magazines\rhs_gref_762x63.hpp"
 	#include "magazines\rhs_gref_765x17.hpp"
 	#include "magazines\rhs_gref_792x33.hpp"
+	#include "magazines\rhs_gref_8x22.hpp"
 };
 
 # endif
