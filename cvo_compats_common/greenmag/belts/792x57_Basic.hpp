@@ -1,9 +1,10 @@
 class CVO_AFRF_greenmag_CoreBelt_792x57_Basic : CVO_GreenMag_Belt_Core {
 	displayName = CESTRING(beltlinked,792x57_Basic_Core,name);
 
-	greenmag_item = QBELT_CLASS(792x57_Basic);
-	greenmag_basicammo = "greenmag_ammo_762x54_basic_1Rnd";
 	greenmag_ammo = QAMMO_CLASS(792x57_Basic_1Rnd);
+	greenmag_basicammo = "greenmag_ammo_762x54_basic_1Rnd";
+	
+	greenmag_item = QBELT_CLASS(792x57_Basic);
 	greenmag_typeName = "792x57_Basic";
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {

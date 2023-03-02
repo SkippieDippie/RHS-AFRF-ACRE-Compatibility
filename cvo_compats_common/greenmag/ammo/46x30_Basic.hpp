@@ -1,5 +1,7 @@
 class AMMO_CLASS(46x30_Basic_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
 	displayName = CESTRING(ammo,46x30_Basic_1Rnd,name);
+	descriptionShort = CESTRING(ammo,46x30_Basic,desc);
+	
 	picture = "\z\greenmag\addons\main\data\556mm.paa";
 
 	scope = 2;
