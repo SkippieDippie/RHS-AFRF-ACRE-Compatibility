@@ -1,6 +1,6 @@
-class AMMO_CLASS(545x39_Match_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
-	displayName = CESTRING(ammo,545x39_Match_1Rnd,name);
-	descriptionShort = CESTRING(ammo,545x39_Match,desc);
+class AMMO_CLASS(556x45_Match_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
+	displayName = CESTRING(ammo,556x45_Match_1Rnd,name);
+	descriptionShort = CESTRING(ammo,556x45_Match,desc);
 
 	picture = "\z\greenmag\addons\main\data\556mm.paa";
 
@@ -11,76 +11,76 @@ class AMMO_CLASS(545x39_Match_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
 	};
 };
 
-class AMMO_CLASS(545x39_Match_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
-	displayName = CESTRING(ammo,545x39_Match_10Rnd,name);
+class AMMO_CLASS(556x45_Match_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
+	displayName = CESTRING(ammo,556x45_Match_10Rnd,name);
 
 	scope = 2;
 
-	greenmag_ammotype = QAMMO_CLASS(545x39_Match_1Rnd);
+	greenmag_ammotype = QAMMO_CLASS(556x45_Match_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
 		mass = 2.2;
 	};
 };
 
-class AMMO_CLASS(545x39_Match_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
-	displayName = CESTRING(ammo,545x39_Match_20Rnd,name);
+class AMMO_CLASS(556x45_Match_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
+	displayName = CESTRING(ammo,556x45_Match_20Rnd,name);
 
 	scope = 2;
 
-	greenmag_ammotype = QAMMO_CLASS(545x39_Match_1Rnd);
+	greenmag_ammotype = QAMMO_CLASS(556x45_Match_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
 		mass = 4.4;
 	};
 };
 
-class AMMO_CLASS(545x39_Match_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
-	displayName = CESTRING(ammo,545x39_Match_30Rnd,name);
+class AMMO_CLASS(556x45_Match_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
+	displayName = CESTRING(ammo,556x45_Match_30Rnd,name);
 
 	scope = 2;
 	scopeArsenal=2;
 	scopeCurator=2;
 
-	greenmag_ammotype = QAMMO_CLASS(545x39_Match_1Rnd);
+	greenmag_ammotype = QAMMO_CLASS(556x45_Match_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
 		mass = 6.6;
 	};
 };
 
-class AMMO_CLASS(545x39_Match_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
-	displayName = CESTRING(ammo,545x39_Match_40Rnd,name);
+class AMMO_CLASS(556x45_Match_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
+	displayName = CESTRING(ammo,556x45_Match_40Rnd,name);
 
 	scope = 2;
 
-	greenmag_ammotype = QAMMO_CLASS(545x39_Match_1Rnd);
+	greenmag_ammotype = QAMMO_CLASS(556x45_Match_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
 		mass = 8.8;
 	};
 };
 
-class AMMO_CLASS(545x39_Match_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
-	displayName = CESTRING(ammo,545x39_Match_50Rnd,name);
+class AMMO_CLASS(556x45_Match_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
+	displayName = CESTRING(ammo,556x45_Match_50Rnd,name);
 
 	scope = 2;
 
-	greenmag_ammotype = QAMMO_CLASS(545x39_Match_1Rnd);
+	greenmag_ammotype = QAMMO_CLASS(556x45_Match_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
 		mass = 11.0;
 	};
 };
 
-class AMMO_CLASS(545x39_Match_60Rnd) : CVO_GreenMag_Ammo_Core_60Rnd {
-	displayName = CESTRING(ammo,545x39_Match_60Rnd,name);
+class AMMO_CLASS(556x45_Match_60Rnd) : CVO_GreenMag_Ammo_Core_60Rnd {
+	displayName = CESTRING(ammo,556x45_Match_60Rnd,name);
 
 	scope = 2;
 	scopeArsenal=2;
 	scopeCurator=2;
 
-	greenmag_ammotype = QAMMO_CLASS(545x39_Match_1Rnd);
+	greenmag_ammotype = QAMMO_CLASS(556x45_Match_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
 		mass = 13.2;

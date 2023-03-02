@@ -30,6 +30,10 @@
         <Original>12.7x99mm - 60 Rnd [AP]</Original>
         <Russian>12.7x99мм - 60 птр. [БП]</Russian>
       </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_AP_desc">
+        <Original>Cartridge: 12.7x99mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: Mk211</Original>
+        <Russian>Калибр: 12.7x99мм&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: Mk211</Russian>
+      </Key>
     </Container>
     <Container name="Ammo 12.7x99 Match">
       <Key ID="STR_CVO_greenmag_ammo_127x99_Match_1Rnd_name">
@@ -59,6 +63,10 @@
       <Key ID="STR_CVO_greenmag_ammo_127x99_Match_60Rnd_name">
         <Original>12.7x99mm - 60 Rnd [Match]</Original>
         <Russian>12.7x99мм - 60 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_127x99_Match_desc">
+        <Original>Cartridge: 12.7x99mm&lt;br/&gt;Bullet type: Match Grade&lt;br/&gt;Identical to: M33</Original>
+        <Russian>Калибр: 12.7x99мм&lt;br/&gt;Тип пули: снайперская&lt;br/&gt;Аналогичен: M33</Russian>
       </Key>
     </Container>
     <Container name="Ammo 4.6x30 Basic">
@@ -506,8 +514,8 @@
         <Russian>5.56x45мм - 60 птр. [ПС]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_556x45_FMJ_desc">
-        <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: M855</Original>
-        <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: M855</Russian>
+        <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: M193, M855</Original>
+        <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: M193, M855</Russian>
       </Key>
     </Container>
     <Container name="Ammo 5.56 JHP">
@@ -642,8 +650,8 @@
         <Russian>5.56x45мм - 60 птр. [Трассер]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_556x45_Tracer_desc">
-        <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Tracer&lt;br/&gt;Identical to: M856, M856A1</Original>
-        <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: трассирующая&lt;br/&gt;Аналогичен: M856, M856A1</Russian>
+        <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Tracer&lt;br/&gt;Identical to: M196, M856, M856A1</Original>
+        <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: трассирующая&lt;br/&gt;Аналогичен: M196, M856, M856A1</Russian>
       </Key>
     </Container>
     <Container name="Ammo 7.62x25 AP">
@@ -914,8 +922,8 @@
         <Russian>7.62x51мм - 60 птр. [БП]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x51_AP_desc">
-        <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: EP</Original>
-        <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: EP</Russian>
+        <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: M61, M993</Original>
+        <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: M61, M993</Russian>
       </Key>
     </Container>
     <Container name="Ammo 7.62x51 Blank">
@@ -982,8 +990,8 @@
         <Russian>7.62x51мм - 60 птр. [ПП]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x51_EP_desc">
-        <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Enhanced Penetration&lt;br/&gt;Identical to: Tracer</Original>
-        <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: повышенной пробиваемости&lt;br/&gt;Аналогичен: Tracer</Russian>
+        <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Enhanced Penetration&lt;br/&gt;Identical to: M80A1</Original>
+        <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: повышенной пробиваемости&lt;br/&gt;Аналогичен: M80A1</Russian>
       </Key>
     </Container>
     <Container name="Ammo 7.62x51 FMJ">
@@ -1016,8 +1024,8 @@
         <Russian>7.62x51мм - 60 птр. [ПС]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x51_FMJ_desc">
-        <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: Match</Original>
-        <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: Match</Russian>
+        <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: M80</Original>
+        <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: M80</Russian>
       </Key>
     </Container>
     <Container name="Ammo 7.62x51 Match">
@@ -1050,8 +1058,8 @@
         <Russian>7.62x51мм - 60 птр. [Снайп.]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x51_Match_desc">
-        <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Match Grade&lt;br/&gt;Identical to: M118</Original>
-        <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: снайперский&lt;br/&gt;Аналогичен: M118</Russian>
+        <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Match Grade&lt;br/&gt;Identical to: M118, Mk316</Original>
+        <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: снайперский&lt;br/&gt;Аналогичен: M118, Mk316</Russian>
       </Key>
     </Container>
     <Container name="Ammo 7.62x51 Tracer">
@@ -8384,6 +8392,812 @@
       <Key ID="STR_CVO_greenmag_beltlinked_762x51_FMJ_200_name">
         <Original>7.62x51mm Belt - 200 Rnd [FMJ]</Original>
         <Russian>7.62x51мм лента - 200 птр. [ПС]</Russian>
+      </Key>
+    </Container>
+    <Container name="Belt 7.62x51 Match">
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_Core_name">
+        <Original>7.62x51mm Belt [Match]</Original>
+        <Russian>7.62x51мм лента [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_1_name">
+        <Original>7.62x51mm Belt - 1 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 1 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_2_name">
+        <Original>7.62x51mm Belt - 2 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 2 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_3_name">
+        <Original>7.62x51mm Belt - 3 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 3 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_4_name">
+        <Original>7.62x51mm Belt - 4 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 4 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_5_name">
+        <Original>7.62x51mm Belt - 5 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 5 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_6_name">
+        <Original>7.62x51mm Belt - 6 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 6 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_7_name">
+        <Original>7.62x51mm Belt - 7 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 7 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_8_name">
+        <Original>7.62x51mm Belt - 8 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 8 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_9_name">
+        <Original>7.62x51mm Belt - 9 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 9 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_10_name">
+        <Original>7.62x51mm Belt - 10 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 10 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_11_name">
+        <Original>7.62x51mm Belt - 11 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 11 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_12_name">
+        <Original>7.62x51mm Belt - 12 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 12 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_13_name">
+        <Original>7.62x51mm Belt - 31 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 13 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_14_name">
+        <Original>7.62x51mm Belt - 14 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 14 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_15_name">
+        <Original>7.62x51mm Belt - 15 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 15 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_16_name">
+        <Original>7.62x51mm Belt - 16 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 16 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_17_name">
+        <Original>7.62x51mm Belt - 17 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 17 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_18_name">
+        <Original>7.62x51mm Belt - 18 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 18 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_19_name">
+        <Original>7.62x51mm Belt - 19 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 19 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_20_name">
+        <Original>7.62x51mm Belt - 20 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 20 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_21_name">
+        <Original>7.62x51mm Belt - 21 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 21 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_22_name">
+        <Original>7.62x51mm Belt - 22 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 22 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_23_name">
+        <Original>7.62x51mm Belt - 23 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 23 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_24_name">
+        <Original>7.62x51mm Belt - 24 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 24 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_25_name">
+        <Original>7.62x51mm Belt - 25 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 25 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_26_name">
+        <Original>7.62x51mm Belt - 26 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 26 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_27_name">
+        <Original>7.62x51mm Belt - 27 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 27 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_28_name">
+        <Original>7.62x51mm Belt - 28 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 28 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_29_name">
+        <Original>7.62x51mm Belt - 29 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 29 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_30_name">
+        <Original>7.62x51mm Belt - 30 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 30 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_31_name">
+        <Original>7.62x51mm Belt - 31 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 31 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_32_name">
+        <Original>7.62x51mm Belt - 32 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 32 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_33_name">
+        <Original>7.62x51mm Belt - 33 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 33 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_34_name">
+        <Original>7.62x51mm Belt - 34 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 34 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_35_name">
+        <Original>7.62x51mm Belt - 35 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 35 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_36_name">
+        <Original>7.62x51mm Belt - 36 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 36 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_37_name">
+        <Original>7.62x51mm Belt - 37 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 37 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_38_name">
+        <Original>7.62x51mm Belt - 38 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 38 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_39_name">
+        <Original>7.62x51mm Belt - 39 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 39 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_40_name">
+        <Original>7.62x51mm Belt - 40 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 40 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_41_name">
+        <Original>7.62x51mm Belt - 41 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 41 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_42_name">
+        <Original>7.62x51mm Belt - 42 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 42 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_43_name">
+        <Original>7.62x51mm Belt - 43 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 43 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_44_name">
+        <Original>7.62x51mm Belt - 44 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 44 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_45_name">
+        <Original>7.62x51mm Belt - 45 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 45 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_46_name">
+        <Original>7.62x51mm Belt - 46 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 46 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_47_name">
+        <Original>7.62x51mm Belt - 47 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 47 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_48_name">
+        <Original>7.62x51mm Belt - 48 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 48 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_49_name">
+        <Original>7.62x51mm Belt - 49 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 49 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_50_name">
+        <Original>7.62x51mm Belt - 50 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 50 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_51_name">
+        <Original>7.62x51mm Belt - 51 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 51 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_52_name">
+        <Original>7.62x51mm Belt - 52 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 52 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_53_name">
+        <Original>7.62x51mm Belt - 53 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 53 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_54_name">
+        <Original>7.62x51mm Belt - 54 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 54 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_55_name">
+        <Original>7.62x51mm Belt - 55 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 55 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_56_name">
+        <Original>7.62x51mm Belt - 56 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 56 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_57_name">
+        <Original>7.62x51mm Belt - 57 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 57 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_58_name">
+        <Original>7.62x51mm Belt - 58 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 58 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_59_name">
+        <Original>7.62x51mm Belt - 59 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 59 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_60_name">
+        <Original>7.62x51mm Belt - 60 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 60 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_61_name">
+        <Original>7.62x51mm Belt - 61 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 61 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_62_name">
+        <Original>7.62x51mm Belt - 62 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 62 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_63_name">
+        <Original>7.62x51mm Belt - 63 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 63 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_64_name">
+        <Original>7.62x51mm Belt - 64 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 64 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_65_name">
+        <Original>7.62x51mm Belt - 65 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 65 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_66_name">
+        <Original>7.62x51mm Belt - 66 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 66 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_67_name">
+        <Original>7.62x51mm Belt - 67 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 67 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_68_name">
+        <Original>7.62x51mm Belt - 68 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 68 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_69_name">
+        <Original>7.62x51mm Belt - 69 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 69 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_70_name">
+        <Original>7.62x51mm Belt - 70 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 70 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_71_name">
+        <Original>7.62x51mm Belt - 71 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 71 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_72_name">
+        <Original>7.62x51mm Belt - 72 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 72 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_73_name">
+        <Original>7.62x51mm Belt - 73 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 73 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_74_name">
+        <Original>7.62x51mm Belt - 74 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 74 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_75_name">
+        <Original>7.62x51mm Belt - 75 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 75 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_76_name">
+        <Original>7.62x51mm Belt - 76 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 76 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_77_name">
+        <Original>7.62x51mm Belt - 77 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 77 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_78_name">
+        <Original>7.62x51mm Belt - 78 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 78 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_79_name">
+        <Original>7.62x51mm Belt - 79 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 79 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_80_name">
+        <Original>7.62x51mm Belt - 80 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 80 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_81_name">
+        <Original>7.62x51mm Belt - 81 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 81 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_82_name">
+        <Original>7.62x51mm Belt - 82 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 82 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_83_name">
+        <Original>7.62x51mm Belt - 83 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 83 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_84_name">
+        <Original>7.62x51mm Belt - 84 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 84 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_85_name">
+        <Original>7.62x51mm Belt - 85 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 85 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_86_name">
+        <Original>7.62x51mm Belt - 86 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 86 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_87_name">
+        <Original>7.62x51mm Belt - 87 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 87 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_88_name">
+        <Original>7.62x51mm Belt - 88 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 88 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_89_name">
+        <Original>7.62x51mm Belt - 89 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 89 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_90_name">
+        <Original>7.62x51mm Belt - 90 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 90 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_91_name">
+        <Original>7.62x51mm Belt - 91 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 91 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_92_name">
+        <Original>7.62x51mm Belt - 92 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 92 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_93_name">
+        <Original>7.62x51mm Belt - 93 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 93 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_94_name">
+        <Original>7.62x51mm Belt - 94 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 94 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_95_name">
+        <Original>7.62x51mm Belt - 95 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 95 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_96_name">
+        <Original>7.62x51mm Belt - 96 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 96 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_97_name">
+        <Original>7.62x51mm Belt - 97 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 97 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_98_name">
+        <Original>7.62x51mm Belt - 98 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 98 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_99_name">
+        <Original>7.62x51mm Belt - 99 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 99 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_100_name">
+        <Original>7.62x51mm Belt - 100 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 100 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_101_name">
+        <Original>7.62x51mm Belt - 101 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 101 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_102_name">
+        <Original>7.62x51mm Belt - 102 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 102 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_103_name">
+        <Original>7.62x51mm Belt - 103 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 103 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_104_name">
+        <Original>7.62x51mm Belt - 104 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 104 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_105_name">
+        <Original>7.62x51mm Belt - 105 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 105 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_106_name">
+        <Original>7.62x51mm Belt - 106 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 106 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_107_name">
+        <Original>7.62x51mm Belt - 107 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 107 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_108_name">
+        <Original>7.62x51mm Belt - 108 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 108 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_109_name">
+        <Original>7.62x51mm Belt - 109 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 109 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_110_name">
+        <Original>7.62x51mm Belt - 110 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 110 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_111_name">
+        <Original>7.62x51mm Belt - 111 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 111 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_112_name">
+        <Original>7.62x51mm Belt - 112 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 112 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_113_name">
+        <Original>7.62x51mm Belt - 131 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 113 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_114_name">
+        <Original>7.62x51mm Belt - 114 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 114 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_115_name">
+        <Original>7.62x51mm Belt - 115 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 115 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_116_name">
+        <Original>7.62x51mm Belt - 116 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 116 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_117_name">
+        <Original>7.62x51mm Belt - 117 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 117 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_118_name">
+        <Original>7.62x51mm Belt - 118 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 118 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_119_name">
+        <Original>7.62x51mm Belt - 119 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 119 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_120_name">
+        <Original>7.62x51mm Belt - 120 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 120 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_121_name">
+        <Original>7.62x51mm Belt - 121 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 121 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_122_name">
+        <Original>7.62x51mm Belt - 122 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 122 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_123_name">
+        <Original>7.62x51mm Belt - 123 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 123 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_124_name">
+        <Original>7.62x51mm Belt - 124 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 124 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_125_name">
+        <Original>7.62x51mm Belt - 125 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 125 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_126_name">
+        <Original>7.62x51mm Belt - 126 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 126 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_127_name">
+        <Original>7.62x51mm Belt - 127 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 127 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_128_name">
+        <Original>7.62x51mm Belt - 128 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 128 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_129_name">
+        <Original>7.62x51mm Belt - 129 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 129 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_130_name">
+        <Original>7.62x51mm Belt - 130 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 130 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_131_name">
+        <Original>7.62x51mm Belt - 131 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 131 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_132_name">
+        <Original>7.62x51mm Belt - 132 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 132 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_133_name">
+        <Original>7.62x51mm Belt - 133 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 133 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_134_name">
+        <Original>7.62x51mm Belt - 134 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 134 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_135_name">
+        <Original>7.62x51mm Belt - 135 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 135 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_136_name">
+        <Original>7.62x51mm Belt - 136 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 136 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_137_name">
+        <Original>7.62x51mm Belt - 137 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 137 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_138_name">
+        <Original>7.62x51mm Belt - 138 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 138 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_139_name">
+        <Original>7.62x51mm Belt - 139 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 139 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_140_name">
+        <Original>7.62x51mm Belt - 140 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 140 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_141_name">
+        <Original>7.62x51mm Belt - 141 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 141 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_142_name">
+        <Original>7.62x51mm Belt - 142 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 142 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_143_name">
+        <Original>7.62x51mm Belt - 143 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 143 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_144_name">
+        <Original>7.62x51mm Belt - 144 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 144 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_145_name">
+        <Original>7.62x51mm Belt - 145 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 145 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_146_name">
+        <Original>7.62x51mm Belt - 146 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 146 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_147_name">
+        <Original>7.62x51mm Belt - 147 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 147 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_148_name">
+        <Original>7.62x51mm Belt - 148 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 148 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_149_name">
+        <Original>7.62x51mm Belt - 149 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 149 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_150_name">
+        <Original>7.62x51mm Belt - 150 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 150 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_151_name">
+        <Original>7.62x51mm Belt - 151 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 151 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_152_name">
+        <Original>7.62x51mm Belt - 152 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 152 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_153_name">
+        <Original>7.62x51mm Belt - 153 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 153 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_154_name">
+        <Original>7.62x51mm Belt - 154 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 154 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_155_name">
+        <Original>7.62x51mm Belt - 155 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 155 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_156_name">
+        <Original>7.62x51mm Belt - 156 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 156 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_157_name">
+        <Original>7.62x51mm Belt - 157 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 157 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_158_name">
+        <Original>7.62x51mm Belt - 158 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 158 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_159_name">
+        <Original>7.62x51mm Belt - 159 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 159 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_160_name">
+        <Original>7.62x51mm Belt - 160 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 160 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_161_name">
+        <Original>7.62x51mm Belt - 161 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 161 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_162_name">
+        <Original>7.62x51mm Belt - 162 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 162 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_163_name">
+        <Original>7.62x51mm Belt - 163 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 163 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_164_name">
+        <Original>7.62x51mm Belt - 164 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 164 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_165_name">
+        <Original>7.62x51mm Belt - 165 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 165 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_166_name">
+        <Original>7.62x51mm Belt - 166 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 166 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_167_name">
+        <Original>7.62x51mm Belt - 167 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 167 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_168_name">
+        <Original>7.62x51mm Belt - 168 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 168 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_169_name">
+        <Original>7.62x51mm Belt - 169 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 169 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_170_name">
+        <Original>7.62x51mm Belt - 170 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 170 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_171_name">
+        <Original>7.62x51mm Belt - 171 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 171 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_172_name">
+        <Original>7.62x51mm Belt - 172 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 172 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_173_name">
+        <Original>7.62x51mm Belt - 173 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 173 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_174_name">
+        <Original>7.62x51mm Belt - 174 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 174 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_175_name">
+        <Original>7.62x51mm Belt - 175 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 175 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_176_name">
+        <Original>7.62x51mm Belt - 176 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 176 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_177_name">
+        <Original>7.62x51mm Belt - 177 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 177 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_178_name">
+        <Original>7.62x51mm Belt - 178 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 178 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_179_name">
+        <Original>7.62x51mm Belt - 179 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 179 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_180_name">
+        <Original>7.62x51mm Belt - 180 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 180 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_181_name">
+        <Original>7.62x51mm Belt - 181 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 181 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_182_name">
+        <Original>7.62x51mm Belt - 182 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 182 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_183_name">
+        <Original>7.62x51mm Belt - 183 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 183 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_184_name">
+        <Original>7.62x51mm Belt - 184 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 184 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_185_name">
+        <Original>7.62x51mm Belt - 185 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 185 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_186_name">
+        <Original>7.62x51mm Belt - 186 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 186 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_187_name">
+        <Original>7.62x51mm Belt - 187 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 187 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_188_name">
+        <Original>7.62x51mm Belt - 188 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 188 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_189_name">
+        <Original>7.62x51mm Belt - 189 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 189 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_190_name">
+        <Original>7.62x51mm Belt - 190 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 190 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_191_name">
+        <Original>7.62x51mm Belt - 191 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 191 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_192_name">
+        <Original>7.62x51mm Belt - 192 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 192 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_193_name">
+        <Original>7.62x51mm Belt - 193 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 193 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_194_name">
+        <Original>7.62x51mm Belt - 194 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 194 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_195_name">
+        <Original>7.62x51mm Belt - 195 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 195 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_196_name">
+        <Original>7.62x51mm Belt - 196 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 196 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_197_name">
+        <Original>7.62x51mm Belt - 197 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 197 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_198_name">
+        <Original>7.62x51mm Belt - 198 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 198 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_199_name">
+        <Original>7.62x51mm Belt - 199 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 199 птр. [Снайп.]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_beltlinked_762x51_Match_200_name">
+        <Original>7.62x51mm Belt - 200 Rnd [Match]</Original>
+        <Russian>7.62x51мм лента - 200 птр. [Снайп.]</Russian>
       </Key>
     </Container>
     <Container name="Belt 7.62x51 Tracer">

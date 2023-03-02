@@ -1,5 +1,5 @@
 class AMMO_CLASS(545x39_Subsonic_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
-	displayName = CESTRING(ammo,545x39_7T3M_1Rnd,name);
+	displayName = CESTRING(ammo,545x39_Subsonic_1Rnd,name);
 	descriptionShort = CESTRING(ammo,545x39_Subsonic,desc);
 
 	picture = "\z\greenmag\addons\main\data\556mm.paa";
