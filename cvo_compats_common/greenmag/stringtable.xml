@@ -718,8 +718,8 @@
         <Russian>7.62x39мм - 60 птр. [БП]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x39_AP_desc">
-        <Original>Cartridge: 7.62x39mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: 7N23</Original>
-        <Russian>Калибр: 7.62x39мм&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: 7Н23</Russian>
+        <Original>Cartridge: 7.62x39mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: 7N23, M82</Original>
+        <Russian>Калибр: 7.62x39мм&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: 7Н23, M82</Russian>
       </Key>
     </Container>
     <Container name="Ammo 7.62x39 EP">
@@ -786,8 +786,8 @@
         <Russian>7.62x39мм - 60 птр. [ПС]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x39_FMJ_desc">
-        <Original>Cartridge: 7.62x39mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: 57-N-231</Original>
-        <Russian>Калибр: 7.62x39мм&lt;br/&gt;Тип пули: суррогатрованная (оболочечная)&lt;br/&gt;Аналогичен: 57-Н-231</Russian>
+        <Original>Cartridge: 7.62x39mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: 57-N-231, M67</Original>
+        <Russian>Калибр: 7.62x39мм&lt;br/&gt;Тип пули: суррогатрованная (оболочечная)&lt;br/&gt;Аналогичен: 57-Н-231, M67</Russian>
       </Key>
     </Container>
     <Container name="Ammo 7.62x39 JHP">
