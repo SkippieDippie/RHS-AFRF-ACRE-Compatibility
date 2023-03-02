@@ -412,37 +412,30 @@
     <Container name="Ammo 5.56 Blank">
       <Key ID="STR_CVO_greenmag_ammo_556x45_Blank_1Rnd_name">
         <Original>5.56x45mm - 1 Rnd [Blank]</Original>
-        <English>5.56x45mm - 1 Rnd [Blank]</English>
         <Russian>5.56x45мм - 1 птр. [Холост.]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_556x45_Blank_10Rnd_name">
         <Original>5.56x45mm - 10 Rnd [Blank]</Original>
-        <English>5.56x45mm - 10 Rnd [Blank]</English>
         <Russian>5.56x45мм - 10 птр. [Холост.]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_556x45_Blank_20Rnd_name">
         <Original>5.56x45mm - 20 Rnd [Blank]</Original>
-        <English>5.56x45mm - 20 Rnd [Blank]</English>
         <Russian>5.56x45мм - 20 птр. [Холост.]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_556x45_Blank_30Rnd_name">
         <Original>5.56x45mm - 30 Rnd [Blank]</Original>
-        <English>5.56x45mm - 30 Rnd [Blank]</English>
         <Russian>5.56x45мм - 30 птр. [Холост.]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_556x45_Blank_40Rnd_name">
         <Original>5.56x45mm - 40 Rnd [Blank]</Original>
-        <English>5.56x45mm - 40 Rnd [Blank]</English>
         <Russian>5.56x45мм - 40 птр. [Холост.]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_556x45_Blank_50Rnd_name">
         <Original>5.56x45mm - 50 Rnd [Blank]</Original>
-        <English>5.56x45mm - 50 Rnd [Blank]</English>
         <Russian>5.56x45мм - 50 птр. [Холост.]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_556x45_Blank_60Rnd_name">
         <Original>5.56x45mm - 60 Rnd [Blank]</Original>
-        <English>5.56x45mm - 60 Rnd [Blank]</English>
         <Russian>5.56x45мм - 60 птр. [Холост.]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_556x45_Blank_desc">
