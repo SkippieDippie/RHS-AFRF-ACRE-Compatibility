@@ -1,17 +1,11 @@
-class rhs_30Rnd_545x39_AK : CA_Magazine {
+class rhs_30Rnd_545x39_AK;
+
+class rhs_30Rnd_545x39_7N6_AK : rhs_30Rnd_545x39_AK {
 	greenmag_ammo = QAMMO_CLASS(545x39_FMJ_1Rnd);
 	greenmag_basicammo = "greenmag_ammo_545x39_basic_1Rnd";
 	
 	greenmag_needBelt = 0;
 	greenmag_canSpeedload = 1;
-};
-
-class rhs_30Rnd_545x39_7N6_AK : rhs_30Rnd_545x39_AK {
-	greenmag_ammo = QAMMO_CLASS(545x39_FMJ_1Rnd);
-};
-
-class rhs_30Rnd_545x39_7N6M_AK : rhs_30Rnd_545x39_7N6_AK {
-	greenmag_ammo = QAMMO_CLASS(545x39_FMJ_1Rnd);
 };
 
 class rhs_30Rnd_545x39_7N10_AK : rhs_30Rnd_545x39_7N6_AK {

@@ -1118,8 +1118,8 @@
         <Russian>7.62x54мм - 60 птр. [БП]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_762x51_AP_desc">
-        <Original>Cartridge: 7.62x54mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: 7N26</Original>
-        <Russian>Калибр: 7.62x54мм&lt;br/&gt;Тип пули: бронебойный&lt;br/&gt;Аналогичен: 7Н26</Russian>
+        <Original>Cartridge: 7.62x54mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: 7N26, 7BZ3</Original>
+        <Russian>Калибр: 7.62x54мм&lt;br/&gt;Тип пули: бронебойный&lt;br/&gt;Аналогичен: 7Н26, 7БЗ3</Russian>
       </Key>
     </Container>
     <Container name="Ammo 762x54 EP">
