@@ -1470,38 +1470,106 @@
         <Russian>Калибр: .320ACP</Russian>
       </Key>
     </Container>
+    <Container name="Ammo 7.92x33 Basic">
+      <Key ID="STR_CVO_greenmag_ammo_792x33_Basic_1Rnd_name">
+        <Original>7.92x33mm - 1 Rnd</Original>
+        <Russian>7.92x33мм - 1 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x33_Basic_10Rnd_name">
+        <Original>7.92x33mm - 10 Rnd</Original>
+        <Russian>7.92x33мм - 10 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x33_Basic_20Rnd_name">
+        <Original>7.92x33mm - 20 Rnd</Original>
+        <Russian>7.92x33мм - 20 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x33_Basic_30Rnd_name">
+        <Original>7.92x33mm - 30 Rnd</Original>
+        <Russian>7.92x33мм - 30 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x33_Basic_40Rnd_name">
+        <Original>7.92x33mm - 40 Rnd</Original>
+        <Russian>7.92x33мм - 40 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x33_Basic_50Rnd_name">
+        <Original>7.92x33mm - 50 Rnd</Original>
+        <Russian>7.92x33мм - 50 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x33_Basic_60Rnd_name">
+        <Original>7.92x33mm - 60 Rnd</Original>
+        <Russian>7.92x33мм - 60 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x33_Basic_desc">
+        <Original>Cartridge: 7.92x33 Kurz</Original>
+        <Russian>Калибр: 7.92x33 Kurz</Russian>
+      </Key>
+    </Container>
     <Container name="Ammo 7.92x57 Basic">
       <Key ID="STR_CVO_greenmag_ammo_792x57_Basic_1Rnd_name">
-        <Original>7.92x57 - 1 Rnd</Original>
-        <Russian>7.92x57 - 1 птр.</Russian>
+        <Original>7.92x57mm - 1 Rnd</Original>
+        <Russian>7.92x57мм - 1 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_792x57_Basic_10Rnd_name">
-        <Original>7.92x57 - 10 Rnd</Original>
-        <Russian>7.92x57 - 10 птр.</Russian>
+        <Original>7.92x57mm - 10 Rnd</Original>
+        <Russian>7.92x57мм - 10 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_792x57_Basic_20Rnd_name">
-        <Original>7.92x57 - 20 Rnd</Original>
-        <Russian>7.92x57 - 20 птр.</Russian>
+        <Original>7.92x57mm - 20 Rnd</Original>
+        <Russian>7.92x57мм - 20 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_792x57_Basic_30Rnd_name">
-        <Original>7.92x57 - 30 Rnd</Original>
-        <Russian>7.92x57 - 30 птр.</Russian>
+        <Original>7.92x57mm - 30 Rnd</Original>
+        <Russian>7.92x57мм - 30 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_792x57_Basic_40Rnd_name">
-        <Original>7.92x57 - 40 Rnd</Original>
-        <Russian>7.92x57 - 40 птр.</Russian>
+        <Original>7.92x57mm - 40 Rnd</Original>
+        <Russian>7.92x57мм - 40 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_792x57_Basic_50Rnd_name">
-        <Original>7.92x57 - 50 Rnd</Original>
-        <Russian>7.92x57 - 50 птр.</Russian>
+        <Original>7.92x57mm - 50 Rnd</Original>
+        <Russian>7.92x57мм - 50 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_792x57_Basic_60Rnd_name">
-        <Original>7.92x57 - 60 Rnd</Original>
-        <Russian>7.92x57 - 60 птр.</Russian>
+        <Original>7.92x57mm - 60 Rnd</Original>
+        <Russian>7.92x57мм - 60 птр.</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_792x57_Basic_desc">
         <Original>Cartridge: 7.92x57 Mauser</Original>
         <Russian>Калибр: 7.92x57 Mauser</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 7.92x57 AP">
+      <Key ID="STR_CVO_greenmag_ammo_792x57_AP_1Rnd_name">
+        <Original>7.92x57mm - 1 Rnd [AP]</Original>
+        <Russian>7.92x57мм - 1 птр. [БП]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x57_AP_10Rnd_name">
+        <Original>7.92x57mm - 10 Rnd [AP]</Original>
+        <Russian>7.92x57мм - 10 птр. [БП]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x57_AP_20Rnd_name">
+        <Original>7.92x57mm - 20 Rnd [AP]</Original>
+        <Russian>7.92x57мм - 20 птр. [БП]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x57_AP_30Rnd_name">
+        <Original>7.92x57mm - 30 Rnd [AP]</Original>
+        <Russian>7.92x57мм - 30 птр. [БП]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x57_AP_40Rnd_name">
+        <Original>7.92x57mm - 40 Rnd [AP]</Original>
+        <Russian>7.92x57мм - 40 птр. [БП]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x57_AP_50Rnd_name">
+        <Original>7.92x57mm - 50 Rnd [AP]</Original>
+        <Russian>7.92x57мм - 50 птр. [БП]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x57_AP_60Rnd_name">
+        <Original>7.92x57mm - 60 Rnd [AP]</Original>
+        <Russian>7.92x57мм - 60 птр. [БП]</Russian>
+      </Key>
+      <Key ID="STR_CVO_greenmag_ammo_792x57_AP_desc">
+        <Original>Cartridge: 7.92x57 Mauser&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: SmK</Original>
+        <Russian>Калибр: 7.92x57 Mauser&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: SmK</Russian>
       </Key>
     </Container>
     <Container name="Ammo 7.92x57 FMJ">
@@ -1534,8 +1602,8 @@
         <Russian>7.92x57 - 60 птр. [ПС]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_792x57_FMJ_desc">
-        <Original>Cartridge: 7.92x57 Mauser&lt;br/&gt;Bullet type: FMJ&lt;br/&gt;Identical to: Tracer</Original>
-        <Russian>Калибр: 7.92x57 Mauser&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: Tracer</Russian>
+        <Original>Cartridge: 7.92x57 Mauser&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: M70, SmE</Original>
+        <Russian>Калибр: 7.92x57 Mauser&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: M70, SmE</Russian>
       </Key>
     </Container>
     <Container name="Ammo 7.92x57 Tracer">
@@ -1568,8 +1636,8 @@
         <Russian>7.92x57 - 60 птр. [Трассер]</Russian>
       </Key>
       <Key ID="STR_CVO_greenmag_ammo_792x57_Tracer_desc">
-        <Original>Cartridge: 7.92x57 Mauser&lt;br/&gt;Bullet type: Tracer&lt;br/&gt;Identical to: M70</Original>
-        <Russian>Калибр: 7.92x57 Mauser&lt;br/&gt;Тип пули: трассирующая&lt;br/&gt;Аналогичен: M70</Russian>
+        <Original>Cartridge: 7.92x57 Mauser&lt;br/&gt;Bullet type: Tracer&lt;br/&gt;Identical to: M75</Original>
+        <Russian>Калибр: 7.92x57 Mauser&lt;br/&gt;Тип пули: трассирующая&lt;br/&gt;Аналогичен: M75</Russian>
       </Key>
     </Container>
     <Container name="Ammo 8x22 Basic">
