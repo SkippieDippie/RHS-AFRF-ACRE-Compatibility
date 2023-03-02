@@ -338,7 +338,7 @@ class CfgWeapons {
 
 	// 7.5x55
 	#include "ammo\75x55_Basic.hpp"
-	#include "ammo\75x55_FMJ"
+	#include "ammo\75x55_FMJ.hpp"
 
 
 	// 7.62x25
