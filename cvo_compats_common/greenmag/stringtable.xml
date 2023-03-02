@@ -82,7 +82,7 @@
             <Key ID="STR_CVO_greenmag_ammo_127x99_Match_desc">
                 <Original>Cartridge: 12.7x99mm&lt;br/&gt;Bullet type: Match Grade&lt;br/&gt;Identical to: M33</Original>
                 <Russian>Калибр: 12.7x99мм&lt;br/&gt;Тип пули: снайперская&lt;br/&gt;Аналогичен: M33</Russian>
-                <German>$Patrone: 12.7x99mm&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: M33</German>    
+                <German>Patrone: 12.7x99mm&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: M33</German>    
             </Key>
         </Container>
         <Container name="Ammo 4.6x30 Basic">
@@ -124,7 +124,7 @@
             <Key ID="STR_CVO_greenmag_ammo_46x30_Basic_desc">
                 <Original>Cartridge: 4.6x30mm</Original>
                 <Russian>Калибр: 4.6x30мм</Russian>
-                <German>$Patrone: 4.6x30mm</German> 
+                <German>Patrone: 4.6x30mm</German> 
             </Key>
         </Container>
         <Container name="Ammo 4.6x30 AP">
@@ -166,7 +166,7 @@
             <Key ID="STR_CVO_greenmag_ammo_46x30_AP_desc">
                 <Original>Cartridge: 4.6x30mm&lt;br/&gt;Bullet type: Armour Piercing</Original>
                 <Russian>Калибр: 4.6x30мм&lt;br/&gt;Тип пули: бронебойный</Russian>
-                <German>$Patrone: 4.6x30mm&lt;br/&gt;Art des Geschoss: Panzerbrechend</German>   
+                <German>Patrone: 4.6x30mm&lt;br/&gt;Art des Geschoss: Panzerbrechend</German>   
             </Key>
         </Container>
         <Container name="Ammo 4.6x30 FMJ">
@@ -208,7 +208,7 @@
             <Key ID="STR_CVO_greenmag_ammo_46x30_FMJ_desc">
                 <Original>Cartridge: 4.6x30mm&lt;br/&gt;Bullet type: Full Metal Jacket</Original>
                 <Russian>Калибр: 4.6x30мм&lt;br/&gt;Тип пули: суррогатированная (оболочечная)</Russian>
-                <German>$Patrone: 4.6x30mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss</German>   
+                <German>Patrone: 4.6x30mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss</German>   
             </Key>
         </Container>
         <Container name="Ammo 4.6x30 JHP">
@@ -250,7 +250,7 @@
             <Key ID="STR_CVO_greenmag_ammo_46x30_JHP_desc">
                 <Original>Cartridge: 4.6x30mm&lt;br/&gt;Bullet type: Hollow Point</Original>
                 <Russian>Калибр: 4.6x30мм&lt;br/&gt;Тип пули: экспансивная</Russian>
-                <German>$Patrone: 4.6x30mm&lt;br/&gt;Art des Geschoss: Hohlspitzgeschoss</German>   
+                <German>Patrone: 4.6x30mm&lt;br/&gt;Art des Geschoss: Hohlspitzgeschoss</German>   
             </Key>
         </Container>
         <Container name="Ammo 5.45 AP">
@@ -292,7 +292,7 @@
             <Key ID="STR_CVO_greenmag_ammo_545x39_AP_desc">
                 <Original>Cartridge: 5.45x39mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: 7N22</Original>
                 <Russian>Калибр: 5.45x39мм&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: 7Н22</Russian>
-                <German>$Patrone: 5.45x39mm&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: 7N22</German>    
+                <German>Patrone: 5.45x39mm&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: 7N22</German>    
             </Key>
         </Container>
         <Container name="Ammo 5.45 EP">
@@ -334,7 +334,7 @@
             <Key ID="STR_CVO_greenmag_ammo_545x39_EP_desc">
                 <Original>Cartridge: 5.45x39mm&lt;br/&gt;Bullet type: Enhanced Penetration&lt;br/&gt;Identical to: FMJ0.</Original>
                 <Russian>Калибр: 5.45x39мм&lt;br/&gt;Тип пули: повышенной пробиваемости&lt;br/&gt;Аналогичен: ПС0.</Russian>
-                <German>$Patrone: 5.45x39mm&lt;br/&gt;Art des Geschoss: Verbesserte Penetration&lt;br/&gt;Identisch zu: FMJ0.</German>    
+                <German>Patrone: 5.45x39mm&lt;br/&gt;Art des Geschoss: Verbesserte Penetration&lt;br/&gt;Identisch zu: FMJ0.</German>    
             </Key>
         </Container>
         <Container name="Ammo 5.45 FMJ">
@@ -376,7 +376,7 @@
             <Key ID="STR_CVO_greenmag_ammo_545x39_FMJ_desc">
                 <Original>Cartridge: 5.45x39mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: 7N6, 7N6M</Original>
                 <Russian>Калибр: 5.45x39мм&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: 7Н6, 7Н6М</Russian>
-                <German>$Patrone: 5.45x39mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: 7N6, 7N6M</German>    
+                <German>Patrone: 5.45x39mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: 7N6, 7N6M</German>    
             </Key>
         </Container>
         <Container name="Ammo 5.45 Subsonic">
@@ -418,7 +418,7 @@
             <Key ID="STR_CVO_greenmag_ammo_545x39_Subsonic_desc">
                 <Original>Cartridge: 5.45x39mm&lt;br/&gt;Bullet type: Subsonic&lt;br/&gt;Identical to: 7U1</Original>
                 <Russian>Калибр: 5.45x39мм&lt;br/&gt;Тип пули: с уменьшенной скоростью&lt;br/&gt;Аналогичен: 7У1</Russian>
-                <German>$Patrone: 5.45x39mm&lt;br/&gt;Art des Geschoss: Unterschallmunition&lt;br/&gt;Identisch zu: 7U1</German>    
+                <German>Patrone: 5.45x39mm&lt;br/&gt;Art des Geschoss: Unterschallmunition&lt;br/&gt;Identisch zu: 7U1</German>    
             </Key>
         </Container>
         <Container name="Ammo 5.45 Tracer">
@@ -460,7 +460,7 @@
             <Key ID="STR_CVO_greenmag_ammo_545x39_Tracer_desc">
                 <Original>Cartridge: 5.45x39mm&lt;br/&gt;Bullet type: Tracer&lt;br/&gt;Identical to: 7T3M</Original>
                 <Russian>Калибр: 5.45x39мм&lt;br/&gt;Тип пули: трассирующая&lt;br/&gt;Аналогичен: 7Т3М</Russian>
-                <German>$Patrone: 5.45x39mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: 7T3M</German>     
+                <German>Patrone: 5.45x39mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: 7T3M</German>     
             </Key>
         </Container>
         <Container name="Ammo 5.56 AP">
@@ -502,7 +502,7 @@
             <Key ID="STR_CVO_greenmag_ammo_556x45_AP_desc">
                 <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: M995</Original>
                 <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: M995</Russian>
-                <German>$Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: M995</German>    
+                <German>Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: M995</German>    
             </Key>
         </Container>
         <Container name="Ammo 5.56 Blank">
@@ -544,7 +544,7 @@
             <Key ID="STR_CVO_greenmag_ammo_556x45_Blank_desc">
                 <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Blank&lt;br/&gt;Identical to: M200</Original>
                 <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: Холостой&lt;br/&gt;Аналогичен: M200</Russian>
-                <German>$Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Platzpatrone&lt;br/&gt;Identisch zu: M200</German>     
+                <German>Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Platzpatrone&lt;br/&gt;Identisch zu: M200</German>     
             </Key>
         </Container>
         <Container name="Ammo 5.56 EP">
@@ -586,7 +586,7 @@
             <Key ID="STR_CVO_greenmag_ammo_556x45_EP_desc">
                 <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Enhanced Penetration&lt;br/&gt;Identical to: M855A1</Original>
                 <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: повышенной пробиваемости&lt;br/&gt;Аналогичен: M855A1</Russian>
-                <German>$Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Verbesserte Penetration&lt;br/&gt;Identisch zu: M855A1</German>    
+                <German>Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Verbesserte Penetration&lt;br/&gt;Identisch zu: M855A1</German>    
             </Key>
         </Container>
         <Container name="Ammo 5.56 FMJ">
@@ -628,7 +628,7 @@
             <Key ID="STR_CVO_greenmag_ammo_556x45_FMJ_desc">
                 <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: M193, M855</Original>
                 <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: M193, M855</Russian>
-                <German>$Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: M193, M855</German>    
+                <German>Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: M193, M855</German>    
             </Key>
         </Container>
         <Container name="Ammo 5.56 JHP">
@@ -670,7 +670,7 @@
             <Key ID="STR_CVO_greenmag_ammo_556x45_JHP_desc">
                 <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Hollow Point&lt;br/&gt;Identical to: Mk318</Original>
                 <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: экспансиваня&lt;br/&gt;Аналогичен: Mk318</Russian>
-                <German>$Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Hohlspitzgeschoss&lt;br/&gt;Identisch zu: Mk318</German>    
+                <German>Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Hohlspitzgeschoss&lt;br/&gt;Identisch zu: Mk318</German>    
             </Key>
         </Container>
         <Container name="Ammo 5.56 Match">
@@ -712,7 +712,7 @@
             <Key ID="STR_CVO_greenmag_ammo_556x45_Match_desc">
                 <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Match Grade&lt;br/&gt;Identical to: Mk262</Original>
                 <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: снайперская&lt;br/&gt;Аналогичен: Mk262</Russian>
-                <German>$Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: Mk262</German>    
+                <German>Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: Mk262</German>    
             </Key>
         </Container>
         <Container name="Ammo 5.56 Subsonic">
@@ -754,7 +754,7 @@
             <Key ID="STR_CVO_greenmag_ammo_556x45_Subsonic_desc">
                 <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Subsonic</Original>
                 <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: с уменьшенной скоростью</Russian>
-                <German>$Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Unterschallmunition</German>   
+                <German>Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Unterschallmunition</German>   
             </Key>
         </Container>
         <Container name="Ammo 5.56 Tracer">
@@ -796,7 +796,7 @@
             <Key ID="STR_CVO_greenmag_ammo_556x45_Tracer_desc">
                 <Original>Cartridge: 5.56x45mm&lt;br/&gt;Bullet type: Tracer&lt;br/&gt;Identical to: M196, M856, M856A1</Original>
                 <Russian>Калибр: 5.56x45мм&lt;br/&gt;Тип пули: трассирующая&lt;br/&gt;Аналогичен: M196, M856, M856A1</Russian>
-                <German>$Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: M196, M856, M856A1</German>     
+                <German>Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: M196, M856, M856A1</German>     
             </Key>
         </Container>
         <Container name="Ammo 7.5x55 ">
@@ -838,7 +838,7 @@
             <Key ID="STR_CVO_greenmag_ammo_75x55_Basic_desc">
                 <Original>Cartridge: 7.5x55mm</Original>
                 <Russian>Калибр: 7.5x55мм</Russian>
-                <German>$Patrone: 7.5x55mm</German> 
+                <German>Patrone: 7.5x55mm</German> 
             </Key>
         </Container>
         <Container name="Ammo 7.5x55 FMJ">
@@ -880,7 +880,7 @@
             <Key ID="STR_CVO_greenmag_ammo_75x55_FMJ_desc">
                 <Original>Cartridge: 7.5x55mm&lt;br/&gt;Bullet type: Full Metal Jacket</Original>
                 <Russian>Калибр: 7.5x55мм&lt;br/&gt;Тип пули: суррогатированная (оболочечная)</Russian>
-                <German>$Patrone: 7.5x55mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss</German>   
+                <German>Patrone: 7.5x55mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss</German>   
             </Key>
         </Container>
         <Container name="Ammo 7.62x25 AP">
@@ -922,7 +922,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x25_Basic_desc">
                 <Original>Cartridge: 7.62x25mm</Original>
                 <Russian>Калибр: 7.62x25мм</Russian>
-                <German>$Patrone: 7.62x25mm</German> 
+                <German>Patrone: 7.62x25mm</German> 
             </Key>
         </Container>
         <Container name="Ammo 7.62x39 AP">
@@ -964,7 +964,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x39_AP_desc">
                 <Original>Cartridge: 7.62x39mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: 7N23, M82</Original>
                 <Russian>Калибр: 7.62x39мм&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: 7Н23, M82</Russian>
-                <German>$Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: 7N23, M82</German>    
+                <German>Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: 7N23, M82</German>    
             </Key>
         </Container>
         <Container name="Ammo 7.62x39 EP">
@@ -1006,7 +1006,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x39_EP_desc">
                 <Original>Cartridge: 7.62x39mm&lt;br/&gt;Bullet type: Enhanced Penetration</Original>
                 <Russian>Калибр: 7.62x39мм&lt;br/&gt;Тип пули: повышенной пробиваемости</Russian>
-                <German>$Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Verbesserte Penetration</German>   
+                <German>Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Verbesserte Penetration</German>   
             </Key>
         </Container>
         <Container name="Ammo 7.62x39 FMJ">
@@ -1048,7 +1048,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x39_FMJ_desc">
                 <Original>Cartridge: 7.62x39mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: 57-N-231, M67</Original>
                 <Russian>Калибр: 7.62x39мм&lt;br/&gt;Тип пули: суррогатрованная (оболочечная)&lt;br/&gt;Аналогичен: 57-Н-231, M67</Russian>
-                <German>$Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: 57-N-231, M67</German>    
+                <German>Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: 57-N-231, M67</German>    
             </Key>
         </Container>
         <Container name="Ammo 7.62x39 JHP">
@@ -1090,7 +1090,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x39_JHP_desc">
                 <Original>Cartridge: 7.62x39mm&lt;br/&gt;Bullet type: Hollow Point</Original>
                 <Russian>Калибр: 7.62x39мм&lt;br/&gt;Тип пули: экспансиваня</Russian>
-                <German>$Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Hohlspitzgeschoss</German>   
+                <German>Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Hohlspitzgeschoss</German>   
             </Key>
         </Container>
         <Container name="Ammo 7.62x39 Subsonic">
@@ -1132,7 +1132,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x39_Subsonic_desc">
                 <Original>Cartridge: 7.62x39mm&lt;br/&gt;Bullet type: Subsonic&lt;br/&gt;Identical to: 7U1</Original>
                 <Russian>Калибр: 7.62x39мм&lt;br/&gt;Тип пули: с уменьшенной скоростью&lt;br/&gt;Аналогичен: 7У1</Russian>
-                <German>$Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Unterschallmunition&lt;br/&gt;Identisch zu: 7U1</German>    
+                <German>Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Unterschallmunition&lt;br/&gt;Identisch zu: 7U1</German>    
             </Key>
         </Container>
         <Container name="Ammo 7.62x39 Tracer">
@@ -1174,7 +1174,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x39_Tracer_desc">
                 <Original>Cartridge: 7.62x39mm&lt;br/&gt;Bullet type: Tracer</Original>
                 <Russian>Калибр: 7.62x39мм&lt;br/&gt;Тип пули: трассирующая</Russian>
-                <German>$Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition</German>    
+                <German>Patrone: 7.62x39mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition</German>    
             </Key>
         </Container>
         <Container name="Ammo 7.62x51 AP">
@@ -1216,7 +1216,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x51_AP_desc">
                 <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: M61, M993</Original>
                 <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: M61, M993</Russian>
-                <German>$Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: M61, M993</German>    
+                <German>Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: M61, M993</German>    
             </Key>
         </Container>
         <Container name="Ammo 7.62x51 Blank">
@@ -1258,7 +1258,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x51_Blank_desc">
                 <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Blank&lt;br/&gt;Identical to: M82</Original>
                 <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: холостой&lt;br/&gt;Аналогичен: M82</Russian>
-                <German>$Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Platzpatrone&lt;br/&gt;Identisch zu: M82</German>     
+                <German>Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Platzpatrone&lt;br/&gt;Identisch zu: M82</German>     
             </Key>
         </Container>
         <Container name="Ammo 7.62x51 EP">
@@ -1300,7 +1300,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x51_EP_desc">
                 <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Enhanced Penetration&lt;br/&gt;Identical to: M80A1</Original>
                 <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: повышенной пробиваемости&lt;br/&gt;Аналогичен: M80A1</Russian>
-                <German>$Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Verbesserte Penetration&lt;br/&gt;Identisch zu: M80A1</German>    
+                <German>Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Verbesserte Penetration&lt;br/&gt;Identisch zu: M80A1</German>    
             </Key>
         </Container>
         <Container name="Ammo 7.62x51 FMJ">
@@ -1342,7 +1342,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x51_FMJ_desc">
                 <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: M80</Original>
                 <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: M80</Russian>
-                <German>$Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: M80</German>    
+                <German>Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: M80</German>    
             </Key>
         </Container>
         <Container name="Ammo 7.62x51 Match">
@@ -1384,7 +1384,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x51_Match_desc">
                 <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Match Grade&lt;br/&gt;Identical to: M118, Mk316</Original>
                 <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: снайперский&lt;br/&gt;Аналогичен: M118, Mk316</Russian>
-                <German>$Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: M118, Mk316</German>    
+                <German>Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: M118, Mk316</German>    
             </Key>
         </Container>
         <Container name="Ammo 7.62x51 Tracer">
@@ -1426,7 +1426,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x51_Tracer_desc">
                 <Original>Cartridge: 7.62x51mm&lt;br/&gt;Bullet type: Tracer&lt;br/&gt;Identical to: M61</Original>
                 <Russian>Калибр: 7.62x51мм&lt;br/&gt;Тип пули: трассирующий&lt;br/&gt;Аналогичен: M61</Russian>
-                <German>$Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: M61</German>     
+                <German>Patrone: 7.62x51mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: M61</German>     
             </Key>
         </Container>
         <Container name="Ammo 762x54 AP">
@@ -1468,7 +1468,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x54_AP_desc">
                 <Original>Cartridge: 7.62x54mm&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: 7N26, 7BZ3</Original>
                 <Russian>Калибр: 7.62x54мм&lt;br/&gt;Тип пули: бронебойный&lt;br/&gt;Аналогичен: 7Н26, 7БЗ3</Russian>
-                <German>$Patrone: 7.62x54mm&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: 7N26, 7BZ3</German>    
+                <German>Patrone: 7.62x54mm&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: 7N26, 7BZ3</German>    
             </Key>
         </Container>
         <Container name="Ammo 762x54 EP">
@@ -1510,7 +1510,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x54_EP_desc">
                 <Original>Cartridge: 7.62x54mm&lt;br/&gt;Bullet type: Enhanced Penetration&lt;br/&gt;Identical to: 7N13, 7BZ3</Original>
                 <Russian>Калибр: 7.62x54мм&lt;br/&gt;Тип пули: повышенной пробиваемости&lt;br/&gt;Аналогичен: 7Н13, 7БЗ3</Russian>
-                <German>$Patrone: 7.62x54mm&lt;br/&gt;Art des Geschoss: Verbesserte Penetration&lt;br/&gt;Identisch zu: 7N13, 7BZ3</German>    
+                <German>Patrone: 7.62x54mm&lt;br/&gt;Art des Geschoss: Verbesserte Penetration&lt;br/&gt;Identisch zu: 7N13, 7BZ3</German>    
             </Key>
         </Container>
         <Container name="Ammo 762x54 FMJ">
@@ -1552,7 +1552,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x54_FMJ_desc">
                 <Original>Cartridge: 7.62x54mm&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: 57-N-323S, M30</Original>
                 <Russian>Калибр: 7.62x54мм&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: 57-Н-323С, M30</Russian>
-                <German>$Patrone: 7.62x54mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: 57-N-323S, M30</German>    
+                <German>Patrone: 7.62x54mm&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: 57-N-323S, M30</German>    
             </Key>
         </Container>
         <Container name="Ammo 762x54 Match">
@@ -1594,7 +1594,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x54_Match_desc">
                 <Original>Cartridge: 7.62x54mm&lt;br/&gt;Bullet type: Match Grade&lt;br/&gt;Identical to: 7N1, 7N14</Original>
                 <Russian>Калибр: 7.62x54мм&lt;br/&gt;Тип пули: снайперский&lt;br/&gt;Аналогичен: 7N1, 7Н14</Russian>
-                <German>$Patrone: 7.62x54mm&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: 7N1, 7N14</German>    
+                <German>Patrone: 7.62x54mm&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: 7N1, 7N14</German>    
             </Key>
         </Container>
         <Container name="Ammo 762x54 Tracer">
@@ -1636,7 +1636,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x54_Tracer_desc">
                 <Original>Cartridge: 7.62x54mm&lt;br/&gt;Bullet type: Tracer&lt;br/&gt;Identical to: 7T2</Original>
                 <Russian>Калибр: 7.62x54мм&lt;br/&gt;Тип пули: трассирующая&lt;br/&gt;Аналогичен: 7Т2</Russian>
-                <German>$Patrone: 7.62x54mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: 7T2</German>     
+                <German>Patrone: 7.62x54mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: 7T2</German>     
             </Key>
         </Container>
         <Container name="Ammo .30-06 Basic">
@@ -1678,7 +1678,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x63_Basic_desc">
                 <Original>Cartridge: .30-06</Original>
                 <Russian>Калибр: .30-06</Russian>
-                <German>$Patrone: .30-06</German> 
+                <German>Patrone: .30-06</German> 
             </Key>
         </Container>
         <Container name="Ammo .30-06 AP">
@@ -1720,7 +1720,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x63_AP_desc">
                 <Original>Cartridge: .30-06&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: M2</Original>
                 <Russian>Калибр: .30-06&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: M2</Russian>
-                <German>$Patrone: .30-06&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: M2</German>    
+                <German>Patrone: .30-06&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: M2</German>    
             </Key>
         </Container>
         <Container name="Ammo .30-06 FMJ">
@@ -1762,7 +1762,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x63_FMJ_desc">
                 <Original>Cartridge: .30-06&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: M1</Original>
                 <Russian>Калибр: .30-06&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: M1</Russian>
-                <German>$Patrone: .30-06&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: M1</German>    
+                <German>Patrone: .30-06&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: M1</German>    
             </Key>
         </Container>
         <Container name="Ammo .300WM Basic">
@@ -1804,7 +1804,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x67_Basic_desc">
                 <Original>Cartridge: .300 Winchester Magnum</Original>
                 <Russian>Калибр: .300 Winchester Magnum</Russian>
-                <German>$Patrone: .300 Winchester Magnum</German> 
+                <German>Patrone: .300 Winchester Magnum</German> 
             </Key>
         </Container>
         <Container name="Ammo .300WM Match">
@@ -1846,7 +1846,7 @@
             <Key ID="STR_CVO_greenmag_ammo_762x67_Match_desc">
                 <Original>Cartridge: .30-06&lt;br/&gt;Bullet type: Match Grade&lt;br/&gt;Identical to: Mk248</Original>
                 <Russian>Калибр: .30-06&lt;br/&gt;Тип пули: снайперский&lt;br/&gt;Аналогичен: Mk248</Russian>
-                <German>$Patrone: .30-06&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: Mk248</German>    
+                <German>Patrone: .30-06&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: Mk248</German>    
             </Key>
         </Container>
         <Container name="Ammo .32ACP Basic">
@@ -1888,7 +1888,7 @@
             <Key ID="STR_CVO_greenmag_ammo_765x17_Basic_desc">
                 <Original>Cartridge: .320ACP</Original>
                 <Russian>Калибр: .320ACP</Russian>
-                <German>$Patrone: .320ACP</German> 
+                <German>Patrone: .320ACP</German> 
             </Key>
         </Container>
         <Container name="Ammo 7.92x33 Basic">
@@ -1930,7 +1930,7 @@
             <Key ID="STR_CVO_greenmag_ammo_792x33_Basic_desc">
                 <Original>Cartridge: 7.92x33 Kurz</Original>
                 <Russian>Калибр: 7.92x33 Kurz</Russian>
-                <German>$Patrone: 7.92x33 Kurz</German> 
+                <German>Patrone: 7.92x33 Kurz</German> 
             </Key>
         </Container>
         <Container name="Ammo 7.92x57 Basic">
@@ -1972,7 +1972,7 @@
             <Key ID="STR_CVO_greenmag_ammo_792x57_Basic_desc">
                 <Original>Cartridge: 7.92x57 Mauser</Original>
                 <Russian>Калибр: 7.92x57 Mauser</Russian>
-                <German>$Patrone: 7.92x57 Mauser</German> 
+                <German>Patrone: 7.92x57 Mauser</German> 
             </Key>
         </Container>
         <Container name="Ammo 7.92x57 AP">
@@ -2014,7 +2014,7 @@
             <Key ID="STR_CVO_greenmag_ammo_792x57_AP_desc">
                 <Original>Cartridge: 7.92x57 Mauser&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: SmK</Original>
                 <Russian>Калибр: 7.92x57 Mauser&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: SmK</Russian>
-                <German>$Patrone: 7.92x57 Mauser&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: SmK</German>    
+                <German>Patrone: 7.92x57 Mauser&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: SmK</German>    
             </Key>
         </Container>
         <Container name="Ammo 7.92x57 FMJ">
@@ -2056,7 +2056,7 @@
             <Key ID="STR_CVO_greenmag_ammo_792x57_FMJ_desc">
                 <Original>Cartridge: 7.92x57 Mauser&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: M70, SmE</Original>
                 <Russian>Калибр: 7.92x57 Mauser&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: M70, SmE</Russian>
-                <German>$Patrone: 7.92x57 Mauser&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: M70, SmE</German>    
+                <German>Patrone: 7.92x57 Mauser&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: M70, SmE</German>    
             </Key>
         </Container>
         <Container name="Ammo 7.92x57 Tracer">
@@ -2098,7 +2098,7 @@
             <Key ID="STR_CVO_greenmag_ammo_792x57_Tracer_desc">
                 <Original>Cartridge: 7.92x57 Mauser&lt;br/&gt;Bullet type: Tracer&lt;br/&gt;Identical to: M75</Original>
                 <Russian>Калибр: 7.92x57 Mauser&lt;br/&gt;Тип пули: трассирующая&lt;br/&gt;Аналогичен: M75</Russian>
-                <German>$Patrone: 7.92x57 Mauser&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: M75</German>     
+                <German>Patrone: 7.92x57 Mauser&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: M75</German>     
             </Key>
         </Container>
         <Container name="Ammo 8x22 Basic">
@@ -2140,7 +2140,7 @@
             <Key ID="STR_CVO_greenmag_ammo_8x22_Basic_desc">
                 <Original>Cartridge: 8x22</Original>
                 <Russian>Калибр: 8x22</Russian>
-                <German>$Patrone: 8x22</German> 
+                <German>Patrone: 8x22</German> 
             </Key>
         </Container>
         <Container name="Ammo 9x18 Basic">
@@ -2182,7 +2182,7 @@
             <Key ID="STR_CVO_greenmag_ammo_9x18_Basic_desc">
                 <Original>Cartridge: 9x18</Original>
                 <Russian>Калибр: 9x18</Russian>
-                <German>$Patrone: 9x18</German> 
+                <German>Patrone: 9x18</German> 
             </Key>
         </Container>
         <Container name="Ammo 9x19 AP">
@@ -2224,7 +2224,7 @@
             <Key ID="STR_CVO_greenmag_ammo_9x19_AP_desc">
                 <Original>Cartridge: 9x19&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: 7N31</Original>
                 <Russian>Калибр: 9x19&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: 7Н31</Russian>
-                <German>$Patrone: 9x19&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: 7N31</German>    
+                <German>Patrone: 9x19&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: 7N31</German>    
             </Key>
         </Container>
         <Container name="Ammo 9x19 FMJ">
@@ -2266,7 +2266,7 @@
             <Key ID="STR_CVO_greenmag_ammo_9x19_FMJ_desc">
                 <Original>Cartridge: 9x19&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: 7N21, M882</Original>
                 <Russian>Калибр: 9x19&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: 7Н21, M882</Russian>
-                <German>$Patrone: 9x19&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: 7N21, M882</German>    
+                <German>Patrone: 9x19&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: 7N21, M882</German>    
             </Key>
         </Container>
         <Container name="Ammo 9x19 JHP">
@@ -2308,7 +2308,7 @@
             <Key ID="STR_CVO_greenmag_ammo_9x19_JHP_desc">
                 <Original>Cartridge: 9x19&lt;br/&gt;Bullet type: Hollow Point&lt;br/&gt;Identical to: Mk243</Original>
                 <Russian>Калибр: 9x19&lt;br/&gt;Тип пули: экспансивная&lt;br/&gt;Аналогичен: Mk243</Russian>
-                <German>$Patrone: 9x19&lt;br/&gt;Art des Geschoss: Hohlspitzgeschoss&lt;br/&gt;Identisch zu: Mk243</German>    
+                <German>Patrone: 9x19&lt;br/&gt;Art des Geschoss: Hohlspitzgeschoss&lt;br/&gt;Identisch zu: Mk243</German>    
             </Key>
         </Container>
         <Container name="Ammo 9x21 AP">
@@ -2350,7 +2350,7 @@
             <Key ID="STR_CVO_greenmag_ammo_9x21_AP_desc">
                 <Original>Cartridge: 9x21&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: 7N29</Original>
                 <Russian>Калибр: 9x21&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: 7Н29</Russian>
-                <German>$Patrone: 9x21&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: 7N29</German>    
+                <German>Patrone: 9x21&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: 7N29</German>    
             </Key>
         </Container>
         <Container name="Ammo 9x21 FMJ">
@@ -2392,7 +2392,7 @@
             <Key ID="STR_CVO_greenmag_ammo_9x21_FMJ_desc">
                 <Original>Cartridge: 9x21&lt;br/&gt;Bullet type: Full Metal Jacket&lt;br/&gt;Identical to: 7N28</Original>
                 <Russian>Калибр: 9x21&lt;br/&gt;Тип пули: суррогатированная (оболочечная)&lt;br/&gt;Аналогичен: 7Н28</Russian>
-                <German>$Patrone: 9x21&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: 7N28</German>    
+                <German>Patrone: 9x21&lt;br/&gt;Art des Geschoss: Vollmantelgeschoss&lt;br/&gt;Identisch zu: 7N28</German>    
             </Key>
         </Container>
         <Container name="Ammo 9x21 Tracer">
@@ -2434,7 +2434,7 @@
             <Key ID="STR_CVO_greenmag_ammo_9x21_Tracer_desc">
                 <Original>Cartridge: 9x21&lt;br/&gt;Bullet type: Tracer&lt;br/&gt;Identical to: 7BT3</Original>
                 <Russian>Калибр: 9x21&lt;br/&gt;Тип пули: трасирующая&lt;br/&gt;Аналогичен: 7БТ3</Russian>
-                <German>$Patrone: 9x21&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: 7BT3</German>     
+                <German>Patrone: 9x21&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: 7BT3</German>     
             </Key>
         </Container>
         <Container name="Ammo 9x39 AP">
@@ -2476,7 +2476,7 @@
             <Key ID="STR_CVO_greenmag_ammo_9x39_AP_desc">
                 <Original>Cartridge: 9x39&lt;br/&gt;Bullet type: Armour Piercing&lt;br/&gt;Identical to: SP-5</Original>
                 <Russian>Калибр: 9x39&lt;br/&gt;Тип пули: бронебойная&lt;br/&gt;Аналогичен: СП-5</Russian>
-                <German>$Patrone: 9x39&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: SP-5</German>    
+                <German>Patrone: 9x39&lt;br/&gt;Art des Geschoss: Panzerbrechend&lt;br/&gt;Identisch zu: SP-5</German>    
             </Key>
         </Container>
         <Container name="Ammo 9x39 Match">
@@ -2518,7 +2518,7 @@
             <Key ID="STR_CVO_greenmag_ammo_9x39_Match_desc">
                 <Original>Cartridge: 9x39&lt;br/&gt;Bullet type: Match Grade&lt;br/&gt;Identical to: SP-6</Original>
                 <Russian>Калибр: 9x39&lt;br/&gt;Тип пули: снайперская&lt;br/&gt;Аналогичен: СП-6</Russian>
-                <German>$Patrone: 9x39&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: SP-6</German>    
+                <German>Patrone: 9x39&lt;br/&gt;Art des Geschoss: Präzisionsmunition&lt;br/&gt;Identisch zu: SP-6</German>    
             </Key>
         </Container>
         <Container name="Ammo 9x39 Basic">
@@ -2560,7 +2560,7 @@
             <Key ID="STR_CVO_greenmag_ammo_9x39_Basic_desc">
                 <Original>Cartridge: 9x39</Original>
                 <Russian>Калибр: 9x39</Russian>
-                <German>$Patrone: 9x39</German> 
+                <German>Patrone: 9x39</German> 
             </Key>
         </Container>
         <Container name="Belt 5.56x45 AP">
