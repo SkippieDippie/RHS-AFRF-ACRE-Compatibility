@@ -21,6 +21,14 @@ class CfgPatches {
 class CfgMagazines {
 	// External Classes
 	class CA_Magazine;
+	class 20Rnd_762x51_Mag;
+	class 30Rnd_556x45_Stanag;
+	class rhs_30Rnd_762x39mm;
+	class rhs_30Rnd_762x39mm_tracer;
+	class rhsusf_5Rnd_300winmag_xm2010;
+	class rhsusf_mag_17Rnd_9x19_FMJ;
+
+
 
 	
 };
