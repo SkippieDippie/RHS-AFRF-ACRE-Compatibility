@@ -2129,106 +2129,106 @@
                 <German>Patrone: .320ACP</German> 
             </Key>
         </Container>
-        <Container name="Ammo 7.7x56mm Basic">
+        <Container name="Ammo .303 British Basic">
             <Key ID="STR_CVO_greenmag_ammo_77x56_Basic_1Rnd_name">
-                <Original>7.7x56mm - 1 Rnd</Original>
-                <Russian>7.7x56мм - 1 птр.</Russian>
+                <Original>.303 British - 1 Rnd</Original>
+                <Russian>.303 British - 1 птр.</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Basic_10Rnd_name">
-                <Original>7.7x56mm - 10 Rnd</Original>
-                <Russian>7.7x56мм - 10 птр.</Russian>
+                <Original>.303 British - 10 Rnd</Original>
+                <Russian>.303 British - 10 птр.</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Basic_20Rnd_name">
-                <Original>7.7x56mm - 20 Rnd</Original>
-                <Russian>7.7x56мм - 20 птр.</Russian>
+                <Original>.303 British - 20 Rnd</Original>
+                <Russian>.303 British - 20 птр.</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Basic_30Rnd_name">
-                <Original>7.7x56mm - 30 Rnd</Original>
-                <Russian>7.7x56мм - 30 птр.</Russian>
+                <Original>.303 British - 30 Rnd</Original>
+                <Russian>.303 British - 30 птр.</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Basic_40Rnd_name">
-                <Original>7.7x56mm - 40 Rnd</Original>
-                <Russian>7.7x56мм - 40 птр.</Russian>
+                <Original>.303 British - 40 Rnd</Original>
+                <Russian>.303 British - 40 птр.</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Basic_50Rnd_name">
-                <Original>7.7x56mm - 50 Rnd</Original>
-                <Russian>7.7x56мм - 50 птр.</Russian>
+                <Original>.303 British - 50 Rnd</Original>
+                <Russian>.303 British - 50 птр.</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Basic_60Rnd_name">
-                <Original>7.7x56mm - 60 Rnd</Original>
-                <Russian>7.7x56мм - 60 птр.</Russian>
+                <Original>.303 British - 60 Rnd</Original>
+                <Russian>.303 British - 60 птр.</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Basic_desc">
-                <Original>Cartridge: 7.7x56mm</Original>
-                <Russian>Калибр: 7.7x56мм</Russian>   
+                <Original>Cartridge: .303 British</Original>
+                <Russian>Калибр: .303 British</Russian>   
             </Key>
         </Container>
-        <Container name="Ammo 7.7x56mm FMJ">
+        <Container name="Ammo .303 British FMJ">
             <Key ID="STR_CVO_greenmag_ammo_77x56_FMJ_1Rnd_name">
-                <Original>7.7x56mm - 1 Rnd [FMJ]</Original>
-                <Russian>7.7x56мм - 1 птр. [ПС]</Russian>
+                <Original>.303 British - 1 Rnd [FMJ]</Original>
+                <Russian>.303 British - 1 птр. [ПС]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_FMJ_10Rnd_name">
-                <Original>7.7x56mm - 10 Rnd [FMJ]</Original>
-                <Russian>7.7x56мм - 10 птр. [ПС]</Russian>
+                <Original>.303 British - 10 Rnd [FMJ]</Original>
+                <Russian>.303 British - 10 птр. [ПС]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_FMJ_20Rnd_name">
-                <Original>7.7x56mm - 20 Rnd [FMJ]</Original>
-                <Russian>7.7x56мм - 20 птр. [ПС]</Russian>
+                <Original>.303 British - 20 Rnd [FMJ]</Original>
+                <Russian>.303 British - 20 птр. [ПС]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_FMJ_30Rnd_name">
-                <Original>7.7x56mm - 30 Rnd [FMJ]</Original>
-                <Russian>7.7x56мм - 30 птр. [ПС]</Russian>
+                <Original>.303 British - 30 Rnd [FMJ]</Original>
+                <Russian>.303 British - 30 птр. [ПС]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_FMJ_40Rnd_name">
-                <Original>7.7x56mm - 40 Rnd [FMJ]</Original>
-                <Russian>7.7x56мм - 40 птр. [ПС]</Russian>
+                <Original>.303 British - 40 Rnd [FMJ]</Original>
+                <Russian>.303 British - 40 птр. [ПС]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_FMJ_50Rnd_name">
-                <Original>7.7x56mm - 50 Rnd [FMJ]</Original>
-                <Russian>7.7x56мм - 50 птр. [ПС]</Russian>
+                <Original>.303 British - 50 Rnd [FMJ]</Original>
+                <Russian>.303 British - 50 птр. [ПС]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_FMJ_60Rnd_name">
-                <Original>7.7x56mm - 60 Rnd [FMJ]</Original>
-                <Russian>7.7x56мм - 60 птр. [ПС]</Russian>
+                <Original>.303 British - 60 Rnd [FMJ]</Original>
+                <Russian>.303 British - 60 птр. [ПС]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_FMJ_desc">
-                <Original>Cartridge: 7.7x56mm&lt;br/&gt;Bullet type: Full Metal Jacket</Original>
-                <Russian>Калибр: 7.7x56мм&lt;br/&gt;Тип пули: суррогатировання (оболочечная)</Russian>   
+                <Original>Cartridge: .303 British&lt;br/&gt;Bullet type: Full Metal Jacket</Original>
+                <Russian>Калибр: .303 British&lt;br/&gt;Тип пули: суррогатировання (оболочечная)</Russian>   
             </Key>
         </Container>
-        <Container name="Ammo 7.7x56mm Tracer">
+        <Container name="Ammo .303 British Tracer">
             <Key ID="STR_CVO_greenmag_ammo_77x56_Tracer_1Rnd_name">
-                <Original>7.7x56mm - 1 Rnd [Tracer]</Original>
-                <Russian>7.7x56мм - 1 птр. [Трассер]</Russian>
+                <Original>.303 British - 1 Rnd [Tracer]</Original>
+                <Russian>.303 British - 1 птр. [Трассер]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Tracer_10Rnd_name">
-                <Original>7.7x56mm - 10 Rnd [Tracer]</Original>
-                <Russian>7.7x56мм - 10 птр. [Трассер]</Russian>
+                <Original>.303 British - 10 Rnd [Tracer]</Original>
+                <Russian>.303 British - 10 птр. [Трассер]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Tracer_20Rnd_name">
-                <Original>7.7x56mm - 20 Rnd [Tracer]</Original>
-                <Russian>7.7x56мм - 20 птр. [Трассер]</Russian>
+                <Original>.303 British - 20 Rnd [Tracer]</Original>
+                <Russian>.303 British - 20 птр. [Трассер]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Tracer_30Rnd_name">
-                <Original>7.7x56mm - 30 Rnd [Tracer]</Original>
-                <Russian>7.7x56мм - 30 птр. [Трассер]</Russian>
+                <Original>.303 British - 30 Rnd [Tracer]</Original>
+                <Russian>.303 British - 30 птр. [Трассер]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Tracer_40Rnd_name">
-                <Original>7.7x56mm - 40 Rnd [Tracer]</Original>
-                <Russian>7.7x56мм - 40 птр. [Трассер]</Russian>
+                <Original>.303 British - 40 Rnd [Tracer]</Original>
+                <Russian>.303 British - 40 птр. [Трассер]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Tracer_50Rnd_name">
-                <Original>7.7x56mm - 50 Rnd [Tracer]</Original>
-                <Russian>7.7x56мм - 50 птр. [Трассер]</Russian>
+                <Original>.303 British - 50 Rnd [Tracer]</Original>
+                <Russian>.303 British - 50 птр. [Трассер]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Tracer_60Rnd_name">
-                <Original>7.7x56mm - 60 Rnd [Tracer]</Original>
-                <Russian>7.7x56мм - 60 птр. [Трассер]</Russian>
+                <Original>.303 British - 60 Rnd [Tracer]</Original>
+                <Russian>.303 British - 60 птр. [Трассер]</Russian>
             </Key>
             <Key ID="STR_CVO_greenmag_ammo_77x56_Tracer_desc">
-                <Original>Cartridge: 7.7x56mm&lt;br/&gt;Bullet type: Tracer</Original>
-                <Russian>Калибр: 7.7x56мм&lt;br/&gt;Тип пули: трассирующая</Russian>   
+                <Original>Cartridge: .303 British&lt;br/&gt;Bullet type: Tracer</Original>
+                <Russian>Калибр: .303 British&lt;br/&gt;Тип пули: трассирующая</Russian>   
             </Key>
         </Container>
         <Container name="Ammo 7.92x33 Basic">
