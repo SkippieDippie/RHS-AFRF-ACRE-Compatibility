@@ -901,6 +901,74 @@
                 <German>Patrone: 5.56x45mm&lt;br/&gt;Art des Geschoss: Leuchtspurmunition&lt;br/&gt;Identisch zu: M196, M856, M856A1</German>     
             </Key>
         </Container>
+        <Container name="Ammo 5.7x28mm FMJ">
+            <Key ID="STR_CVO_greenmag_ammo_570x28_FMJ_1Rnd_name">
+                <Original>5.7x28mm - 1 Rnd [FMJ]</Original>
+                <Russian>5.7x28мм - 1 птр. [ПС]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_FMJ_10Rnd_name">
+                <Original>5.7x28mm - 10 Rnd [FMJ]</Original>
+                <Russian>5.7x28мм - 10 птр. [ПС]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_FMJ_20Rnd_name">
+                <Original>5.7x28mm - 20 Rnd [FMJ]</Original>
+                <Russian>5.7x28мм - 20 птр. [ПС]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_FMJ_30Rnd_name">
+                <Original>5.7x28mm - 30 Rnd [FMJ]</Original>
+                <Russian>5.7x28мм - 30 птр. [ПС]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_FMJ_40Rnd_name">
+                <Original>5.7x28mm - 40 Rnd [FMJ]</Original>
+                <Russian>5.7x28мм - 40 птр. [ПС]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_FMJ_50Rnd_name">
+                <Original>5.7x28mm - 50 Rnd [FMJ]</Original>
+                <Russian>5.7x28мм - 50 птр. [ПС]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_FMJ_60Rnd_name">
+                <Original>5.7x28mm - 60 Rnd [FMJ]</Original>
+                <Russian>5.7x28мм - 60 птр. [ПС]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_FMJ_desc">
+                <Original>Cartridge: 5.7x28mm&lt;br/&gt;Bullet type: Full Metal Jacket</Original>
+                <Russian>Калибр: 5.7x28мм&lt;br/&gt;Тип пули: суррогатировання (оболочечная)</Russian>   
+            </Key>
+        </Container>
+        <Container name="Ammo 5.7x28mm Tracer">
+            <Key ID="STR_CVO_greenmag_ammo_570x28_Tracer_1Rnd_name">
+                <Original>5.7x28mm - 1 Rnd [Tracer]</Original>
+                <Russian>5.7x28мм - 1 птр. [Трассер]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_Tracer_10Rnd_name">
+                <Original>5.7x28mm - 10 Rnd [Tracer]</Original>
+                <Russian>5.7x28мм - 10 птр. [Трассер]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_Tracer_20Rnd_name">
+                <Original>5.7x28mm - 20 Rnd [Tracer]</Original>
+                <Russian>5.7x28мм - 20 птр. [Трассер]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_Tracer_30Rnd_name">
+                <Original>5.7x28mm - 30 Rnd [Tracer]</Original>
+                <Russian>5.7x28мм - 30 птр. [Трассер]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_Tracer_40Rnd_name">
+                <Original>5.7x28mm - 40 Rnd [Tracer]</Original>
+                <Russian>5.7x28мм - 40 птр. [Трассер]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_Tracer_50Rnd_name">
+                <Original>5.7x28mm - 50 Rnd [Tracer]</Original>
+                <Russian>5.7x28мм - 50 птр. [Трассер]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_Tracer_60Rnd_name">
+                <Original>5.7x28mm - 60 Rnd [Tracer]</Original>
+                <Russian>5.7x28мм - 60 птр. [Трассер]</Russian>
+            </Key>
+            <Key ID="STR_CVO_greenmag_ammo_570x28_Tracer_desc">
+                <Original>Cartridge: 5.7x28mm&lt;br/&gt;Bullet type: Tracer</Original>
+                <Russian>Калибр: 5.7x28мм&lt;br/&gt;Тип пули: трассирующая</Russian>   
+            </Key>
+        </Container>
         <Container name="Ammo 7.5x55 ">
             <Key ID="STR_CVO_greenmag_ammo_75x55_Basic_1Rnd_name">
                 <Original>7.5x55mm - 1 Rnd</Original>
