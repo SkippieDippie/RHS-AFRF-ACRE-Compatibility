@@ -1,5 +1,5 @@
 // Lee-Enfield Magazines
-class UK3CB_Enfield_10rnd_Mag : rhsusf_5Rnd_300winmag_xm2010 {
+class uk3cb_no4_enfield_303_10Rnd_magazine: 20Rnd_762x51_Mag {
 	greenmag_ammo = QAMMO_CLASS(77x56_FMJ_1Rnd);
 	greenmag_basicammo = QAMMO_CLASS(77x56_Basic_1Rnd);
 
@@ -7,68 +7,18 @@ class UK3CB_Enfield_10rnd_Mag : rhsusf_5Rnd_300winmag_xm2010 {
 	greenmag_needBelt = 0;
 };
 
-
-class UK3CB_Enfield_10rnd_Mag_R : rhsusf_5Rnd_300winmag_xm2010 {
-	greenmag_ammo = QAMMO_CLASS(77x56_FMJ_1Rnd);
-	greenmag_basicammo = QAMMO_CLASS(77x56_Basic_1Rnd);
-
-	greenmag_canSpeedload = 0;
-	greenmag_needBelt = 0;
-};
-
-class UK3CB_Enfield_10rnd_Mag_Y : rhsusf_5Rnd_300winmag_xm2010 {
-	greenmag_ammo = QAMMO_CLASS(77x56_FMJ_1Rnd);
-	greenmag_basicammo = QAMMO_CLASS(77x56_Basic_1Rnd);
-
-	greenmag_canSpeedload = 0;
-	greenmag_needBelt = 0;
-};
-
-class UK3CB_Enfield_10rnd_Mag_G : rhsusf_5Rnd_300winmag_xm2010 {
-	greenmag_ammo = QAMMO_CLASS(77x56_FMJ_1Rnd);
-	greenmag_basicammo = QAMMO_CLASS(77x56_Basic_1Rnd);
-
-	greenmag_canSpeedload = 0;
-	greenmag_needBelt = 0;
-};
-
-class UK3CB_Enfield_10rnd_Mag_W : rhsusf_5Rnd_300winmag_xm2010 {
-	greenmag_ammo = QAMMO_CLASS(77x56_FMJ_1Rnd);
-	greenmag_basicammo = QAMMO_CLASS(77x56_Basic_1Rnd);
-
-	greenmag_canSpeedload = 0;
-	greenmag_needBelt = 0;
-};
-
-
-class UK3CB_Enfield_10rnd_Mag_RT : rhsusf_5Rnd_300winmag_xm2010 {
+class uk3cb_no4_enfield_303_10Rnd_magazine_RT: uk3cb_no4_enfield_303_10Rnd_magazine {
 	greenmag_ammo = QAMMO_CLASS(77x56_Tracer_1Rnd);
-	greenmag_basicammo = QAMMO_CLASS(77x56_Basic_1Rnd);
-
-	greenmag_canSpeedload = 0;
-	greenmag_needBelt = 0;
 };
 
-class UK3CB_Enfield_10rnd_Mag_YT : rhsusf_5Rnd_300winmag_xm2010 {
+class uk3cb_no4_enfield_303_10Rnd_magazine_YT: uk3cb_no4_enfield_303_10Rnd_magazine {
 	greenmag_ammo = QAMMO_CLASS(77x56_Tracer_1Rnd);
-	greenmag_basicammo = QAMMO_CLASS(77x56_Basic_1Rnd);
-
-	greenmag_canSpeedload = 0;
-	greenmag_needBelt = 0;
 };
 
-class UK3CB_Enfield_10rnd_Mag_GT : rhsusf_5Rnd_300winmag_xm2010 {
+class uk3cb_no4_enfield_303_10Rnd_magazine_GT: uk3cb_no4_enfield_303_10Rnd_magazine {
 	greenmag_ammo = QAMMO_CLASS(77x56_Tracer_1Rnd);
-	greenmag_basicammo = QAMMO_CLASS(77x56_Basic_1Rnd);
-
-	greenmag_canSpeedload = 0;
-	greenmag_needBelt = 0;
 };
 
-class UK3CB_Enfield_10rnd_Mag_WT : rhsusf_5Rnd_300winmag_xm2010 {
+class uk3cb_no4_enfield_303_10Rnd_magazine_WT: uk3cb_no4_enfield_303_10Rnd_magazine {
 	greenmag_ammo = QAMMO_CLASS(77x56_Tracer_1Rnd);
-	greenmag_basicammo = QAMMO_CLASS(77x56_Basic_1Rnd);
-
-	greenmag_canSpeedload = 0;
-	greenmag_needBelt = 0;
 };

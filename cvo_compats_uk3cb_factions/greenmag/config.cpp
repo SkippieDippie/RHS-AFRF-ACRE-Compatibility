@@ -25,6 +25,7 @@ class CfgMagazines {
 	class 30Rnd_556x45_Stanag;
 	class 30Rnd_9x21_Mag;
 	class 30Rnd_9x21_Mag_SMG_02;
+	class 50Rnd_570x28_SMG_03;
 	class rhs_10Rnd_762x54mmR_7N1;
 	class rhs_30Rnd_545x39_AK;
 	class rhs_30Rnd_545x39_AK_green;
@@ -39,6 +40,7 @@ class CfgMagazines {
 	#include "magazines\uk3cb_factions_10x25.hpp"
 	#include "magazines\uk3cb_factions_545x39.hpp"
 	#include "magazines\uk3cb_factions_556x45.hpp"
+	#include "magazines\uk3cb_factions_570x28.hpp"
 	#include "magazines\uk3cb_factions_75x55.hpp"
 	#include "magazines\uk3cb_factions_762x25.hpp"
 	#include "magazines\uk3cb_factions_762x39.hpp"

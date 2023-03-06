@@ -1,5 +1,5 @@
 // CZ-550 Magazines
-class UK3CB_CZ550_5rnd_Mag : UK3CB_Enfield_10rnd_Mag {
+class UK3CB_CZ550_5rnd_Mag : rhsusf_5Rnd_300winmag_xm2010 {
 	greenmag_ammo = QAMMO_CLASS(93x62_FMJ_1Rnd);
 	greenmag_basicammo = QAMMO_CLASS(93x62_Tracer_1Rnd);
 
