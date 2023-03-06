@@ -75,6 +75,34 @@ class UK3CB_Bren_30Rnd_762x51_Magazine_WT : 20Rnd_762x51_Mag {
 
 
 
+// Lee-Enfield L42 Magazines
+class uk3cb_l42_enfield_762_10Rnd_magazine: 20Rnd_762x51_Mag {
+	greenmag_ammo = QAMMO_CLASS(762x51_FMJ_1Rnd);
+	greenmag_basicammo = "greenmag_ammo_762x51_basic_1Rnd";
+
+	greenmag_canSpeedload = 1;
+	greenmag_needBelt = 0;
+};
+
+
+class uk3cb_l42_enfield_762_10Rnd_magazine_RT: uk3cb_l42_enfield_762_10Rnd_magazine {
+	greenmag_ammo = QAMMO_CLASS(762x51_Tracer_1Rnd);
+};
+
+class uk3cb_l42_enfield_762_10Rnd_magazine_YT: uk3cb_l42_enfield_762_10Rnd_magazine {
+	greenmag_ammo = QAMMO_CLASS(762x51_Tracer_1Rnd);
+};
+
+class uk3cb_l42_enfield_762_10Rnd_magazine_GT: uk3cb_l42_enfield_762_10Rnd_magazine {
+	greenmag_ammo = QAMMO_CLASS(762x51_Tracer_1Rnd);
+};
+
+class uk3cb_l42_enfield_762_10Rnd_magazine_WT: uk3cb_l42_enfield_762_10Rnd_magazine {
+	greenmag_ammo = QAMMO_CLASS(762x51_Tracer_1Rnd);
+};
+
+
+
 // FN FAL Magazines
 class UK3CB_FNFAL_20rnd_762x51 : 30Rnd_556x45_Stanag {
 	greenmag_ammo = QAMMO_CLASS(762x51_FMJ_1Rnd);

@@ -66,6 +66,13 @@ class CfgPatches {
 			QAMMO_CLASS(556x45_Tracer_1Rnd),
 			QAMMO_CLASS(556x45_Tracer_30Rnd),
 			QAMMO_CLASS(556x45_Tracer_60Rnd),
+			// 5.7x28 Ammo
+			QAMMO_CLASS(570x28_FMJ_1Rnd),
+			QAMMO_CLASS(570x28_FMJ_30Rnd),
+			QAMMO_CLASS(570x28_FMJ_60Rnd),
+			QAMMO_CLASS(570x28_Tracer_1Rnd),
+			QAMMO_CLASS(570x28_Tracer_30Rnd),
+			QAMMO_CLASS(570x28_Tracer_60Rnd),
 			// 7.62x25 Ammo
 			QAMMO_CLASS(762x25_Basic_1Rnd),
 			QAMMO_CLASS(762x25_Basic_30Rnd),
@@ -334,6 +341,11 @@ class CfgWeapons {
 	#include "ammo\556x45_Blank.hpp"
 	#include "ammo\556x45_Subsonic.hpp"
 	#include "ammo\556x45_Tracer.hpp"
+
+
+	// 5.7x28
+	#include "ammo\570x28_FMJ.hpp"
+	#include "ammo\570x28_Tracer.hpp"
 
 
 	// 7.5x55
