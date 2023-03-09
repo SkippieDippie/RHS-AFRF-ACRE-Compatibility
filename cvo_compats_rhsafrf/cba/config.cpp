@@ -9,7 +9,8 @@ class CfgPatches {
 
 		requiredAddons[] = {
 			"rhs_c_weapons",
-			"cba_main"
+			"cba_main",
+			"CVO_Compats_Common"
 		};
 		requiredVersion = 1.00;
 
@@ -18,6 +19,10 @@ class CfgPatches {
 	};
 };
 
+
+#include "CfgAmmo.hpp"
+#include "CfgEventHandlers.hpp"
+#include "CfgMagazines.hpp"
 #include "CfgWeapons.hpp"
 
 

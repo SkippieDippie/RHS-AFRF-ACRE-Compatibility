@@ -1,42 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="CVO Everything Compats - RHS AFRF">
   <Package name="CBA">
-    <Container name="Weapon Accessories" />
-        <Key ID="STR_CVO_CBA_accessories_reticle_dot">
-            <Original>Dot</Original>
-            <Russian>Точка</Russian>
+    <Container name="Explosives">
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC75_Throwable_name">
+            <Original>TNT charge 75g. (Throwable)</Original>
+            <Russian>Тротиловая шашка 75г (Метательная)</Russian>
         </Key>
-        <Key ID="STR_CVO_CBA_accessories_reticle_vbar">
-            <Original>V-bar</Original>
-            <Russian>Пика</Russian>
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC200_Throwable_name">
+            <Original>TNT charge 200g. (Throwable)</Original>
+            <Russian>Тротиловая шашка 200г (Метательная)</Russian>
         </Key>
-        <Key ID="STR_CVO_CBA_accessories_reticle_vbar_dot">
-            <Original>V-bar with dot</Original>
-            <Russian>Пика с точкой</Russian>
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC400_Throwable_name">
+            <Original>TNT charge 400g. (Throwable)</Original>
+            <Russian>Тротиловая шашка 400г (Метательная)</Russian>
         </Key>
-        <Key ID="STR_CVO_CBA_accessories_reticle_tbar">
-            <Original>T-bar</Original>
-            <Russian>Т-образная</Russian>
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC75_nameShort">
+            <Original>TNT 75g.</Original>
+            <Russian>Тротил 75г</Russian>
         </Key>
-        <Key ID="STR_CVO_CBA_accessories_side_ir_laser">
-            <Original>IR Laser</Original>
-            <Russian>ИК лазер</Russian>
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC200_nameShort">
+            <Original>TNT 200g.</Original>
+            <Russian>Тротил 75г</Russian>
         </Key>
-        <Key ID="STR_CVO_CBA_accessories_side_ir_flash">
-            <Original>IR Illuminator</Original>
-            <Russian>ИК осветитель</Russian>
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC400_nameShort">
+            <Original>TNT 400g.</Original>
+            <Russian>Тротил 75г</Russian>
         </Key>
-        <Key ID="STR_CVO_CBA_accessories_side_ir_flash_laser">
-            <Original>IR Laser + Illuminator</Original>
-            <Russian>ИК лазер + осветитель</Russian>
-        </Key>
-        <Key ID="STR_CVO_CBA_accessories_side_vis_laser">
-            <Original>Visible Laser</Original>
-            <Russian>Видимый лазер</Russian>
-        </Key>
-        <Key ID="STR_CVO_CBA_accessories_side_vis_flash">
-            <Original>Flashlight</Original>
-            <Russian>Фонарик</Russian>
-        </Key>
+    </Container>
   </Package>
 </Project>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="CVO Everything Compats - Common">
+  <Package name="CBA">
+    <Container name="Weapon Accessories">
+        <Key ID="STR_CVO_CBA_Accessories_Reticle_Dot">
+            <Original>Dot</Original>
+            <Russian>Точка</Russian>
+        </Key>
+        <Key ID="STR_CVO_CBA_Accessories_Reticle_VBar">
+            <Original>V-bar</Original>
+            <Russian>Пика</Russian>
+        </Key>
+        <Key ID="STR_CVO_CBA_Accessories_Reticle_VBarDot">
+            <Original>V-bar with dot</Original>
+            <Russian>Пика с точкой</Russian>
+        </Key>
+        <Key ID="STR_CVO_CBA_Accessories_Reticle_TBar">
+            <Original>T-bar</Original>
+            <Russian>Т-образная</Russian>
+        </Key>
+        <Key ID="STR_CVO_CBA_Accessories_Side_IR_Laser">
+            <Original>IR Laser</Original>
+            <Russian>ИК лазер</Russian>
+        </Key>
+        <Key ID="STR_CVO_CBA_Accessories_Side_IR_Light">
+            <Original>IR Illuminator</Original>
+            <Russian>ИК осветитель</Russian>
+        </Key>
+        <Key ID="STR_CVO_CBA_Accessories_Side_IR_LightLaser">
+            <Original>IR Laser + Illuminator</Original>
+            <Russian>ИК лазер + осветитель</Russian>
+        </Key>
+        <Key ID="STR_CVO_CBA_Accessories_Side_Vis_Laser">
+            <Original>Visible Laser</Original>
+            <Russian>Видимый лазер</Russian>
+        </Key>
+        <Key ID="STR_CVO_CBA_Accessories_Side_Vis_Light">
+            <Original>Flashlight</Original>
+            <Russian>Фонарик</Russian>
+        </Key>
+        <Key ID="STR_CVO_CBA_Accessories_Side_Vis_LightLaser">
+            <Original>Visible Laser + Flashlight</Original>
+            <Russian>Видимый лазер + фонарик</Russian>
+        </Key>
+    </Container>
+    <Container name="Explosives">
+        <Key ID="STR_CVO_CBA_Explosives_ConvertFuse">
+            <Original>Convert to short fuse</Original>
+            <Russian>Поставить фитиль</Russian>
+        </Key>
+        <Key ID="STR_CVO_CBA_Explosives_RemoveFuse">
+            <Original>Remove short fuse</Original>
+            <Russian>Убрать фитиль</Russian>
+        </Key>
+    </Container>
+  </Package>
+</Project>
