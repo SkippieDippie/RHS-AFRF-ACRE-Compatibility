@@ -7,7 +7,10 @@
 #define QUADRUPLES(var1,var2,var3,var4) var1##_##var2##_##var3##_##var4
 
 
+#define CBA_LOADED __has_include("\x\cba\addons\main\script_component.hpp")
+
 #define GREENMAG_LOADED __has_include("\z\greenmag\addons\main\script_component.hpp")
+
 
 #define RHS_AFRF_LOADED __has_include("\rhsafrf\addons\rhs_main\script_component.hpp")
 
