@@ -1,6 +1,6 @@
 class AMMO_CLASS(792x57_Tracer_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
-	displayName = CESTRING(ammo,792x57_Tracer_1Rnd,name);
-	descriptionShort = CESTRING(ammo,792x57_Tracer,desc);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "7.92x57", 1, LSTRING(Ammo_Tracer_Short)]);
+	descriptionShort = __EVAL(format [LSTRING(Ammo_Complex_mm_Desc), "7.92x57 Mauser", LSTRING(Ammo_Tracer_Full)]);
 
 	picture = "\z\greenmag\addons\main\data\762mm.paa";
 
@@ -12,7 +12,7 @@ class AMMO_CLASS(792x57_Tracer_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
 };
 
 class AMMO_CLASS(792x57_Tracer_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
-	displayName = CESTRING(ammo,792x57_Tracer_10Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "7.92x57", 10, LSTRING(Ammo_Tracer_Short)]);
 
 	scope = 2;
 
@@ -24,7 +24,7 @@ class AMMO_CLASS(792x57_Tracer_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
 };
 
 class AMMO_CLASS(792x57_Tracer_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
-	displayName = CESTRING(ammo,792x57_Tracer_20Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "7.92x57", 20, LSTRING(Ammo_Tracer_Short)]);
 
 	scope = 2;
 
@@ -36,7 +36,7 @@ class AMMO_CLASS(792x57_Tracer_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
 };
 
 class AMMO_CLASS(792x57_Tracer_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
-	displayName = CESTRING(ammo,792x57_Tracer_30Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "7.92x57", 30, LSTRING(Ammo_Tracer_Short)]);
 
 	scope = 2;
 	scopeArsenal=2;
@@ -50,7 +50,7 @@ class AMMO_CLASS(792x57_Tracer_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
 };
 
 class AMMO_CLASS(792x57_Tracer_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
-	displayName = CESTRING(ammo,792x57_Tracer_40Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "7.92x57", 40, LSTRING(Ammo_Tracer_Short)]);
 
 	scope = 2;
 
@@ -62,7 +62,7 @@ class AMMO_CLASS(792x57_Tracer_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
 };
 
 class AMMO_CLASS(792x57_Tracer_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
-	displayName = CESTRING(ammo,792x57_Tracer_50Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "7.92x57", 50, LSTRING(Ammo_Tracer_Short)]);
 
 	scope = 2;
 
@@ -74,7 +74,7 @@ class AMMO_CLASS(792x57_Tracer_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
 };
 
 class AMMO_CLASS(792x57_Tracer_60Rnd) : CVO_GreenMag_Ammo_Core_60Rnd {
-	displayName = CESTRING(ammo,792x57_Tracer_60Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "7.92x57", 60, LSTRING(Ammo_Tracer_Short)]);
 
 	scope = 2;
 	scopeArsenal=2;

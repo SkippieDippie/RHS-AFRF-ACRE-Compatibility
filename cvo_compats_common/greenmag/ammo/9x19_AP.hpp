@@ -1,6 +1,6 @@
 class AMMO_CLASS(9x19_AP_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
-	displayName = CESTRING(ammo,9x19_AP_1Rnd,name);
-	descriptionShort = CESTRING(ammo,9x19_AP,desc);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "9x19", 1, LSTRING(Ammo_AP_Short)]);
+	descriptionShort = __EVAL(format [LSTRING(Ammo_Complex_mm_Desc), "9x19", LSTRING(Ammo_AP_Full)]);
 
 	picture = "\z\greenmag\addons\main\data\9mm.paa";
 
@@ -12,7 +12,7 @@ class AMMO_CLASS(9x19_AP_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
 };
 
 class AMMO_CLASS(9x19_AP_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
-	displayName = CESTRING(ammo,9x19_AP_10Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "9x19", 10, LSTRING(Ammo_AP_Short)]);
 
 	scope = 2;
 
@@ -24,7 +24,7 @@ class AMMO_CLASS(9x19_AP_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
 };
 
 class AMMO_CLASS(9x19_AP_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
-	displayName = CESTRING(ammo,9x19_AP_20Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "9x19", 20, LSTRING(Ammo_AP_Short)]);
 
 	scope = 2;
 
@@ -36,7 +36,7 @@ class AMMO_CLASS(9x19_AP_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
 };
 
 class AMMO_CLASS(9x19_AP_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
-	displayName = CESTRING(ammo,9x19_AP_30Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "9x19", 30, LSTRING(Ammo_AP_Short)]);
 
 	scope = 2;
 	scopeArsenal=2;
@@ -50,7 +50,7 @@ class AMMO_CLASS(9x19_AP_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
 };
 
 class AMMO_CLASS(9x19_AP_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
-	displayName = CESTRING(ammo,9x19_AP_40Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "9x19", 40, LSTRING(Ammo_AP_Short)]);
 
 	scope = 2;
 
@@ -62,7 +62,7 @@ class AMMO_CLASS(9x19_AP_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
 };
 
 class AMMO_CLASS(9x19_AP_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
-	displayName = CESTRING(ammo,9x19_AP_50Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "9x19", 50, LSTRING(Ammo_AP_Short)]);
 
 	scope = 2;
 
@@ -74,7 +74,7 @@ class AMMO_CLASS(9x19_AP_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
 };
 
 class AMMO_CLASS(9x19_AP_60Rnd) : CVO_GreenMag_Ammo_Core_60Rnd {
-	displayName = CESTRING(ammo,9x19_AP_60Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "9x19", 60, LSTRING(Ammo_AP_Short)]);
 
 	scope = 2;
 	scopeArsenal=2;

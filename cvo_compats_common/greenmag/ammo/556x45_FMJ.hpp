@@ -1,5 +1,5 @@
 class AMMO_CLASS(556x45_FMJ_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
-	displayName = CESTRING(ammo,556x45_FMJ_1Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "5.56x45", 1, LSTRING(Ammo_FMJ_Short)]);
 	picture = "\z\greenmag\addons\main\data\556mm.paa";
 
 	scope = 2;
@@ -10,7 +10,7 @@ class AMMO_CLASS(556x45_FMJ_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
 };
 
 class AMMO_CLASS(556x45_FMJ_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
-	displayName = CESTRING(ammo,556x45_FMJ_10Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "5.56x45", 10, LSTRING(Ammo_FMJ_Short)]);
 
 	scope = 2;
 
@@ -22,7 +22,7 @@ class AMMO_CLASS(556x45_FMJ_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
 };
 
 class AMMO_CLASS(556x45_FMJ_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
-	displayName = CESTRING(ammo,556x45_FMJ_20Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "5.56x45", 20, LSTRING(Ammo_FMJ_Short)]);
 
 	scope = 2;
 
@@ -34,7 +34,7 @@ class AMMO_CLASS(556x45_FMJ_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
 };
 
 class AMMO_CLASS(556x45_FMJ_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
-	displayName = CESTRING(ammo,556x45_FMJ_30Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "5.56x45", 30, LSTRING(Ammo_FMJ_Short)]);
 
 	scope = 2;
 	scopeArsenal=2;
@@ -48,7 +48,7 @@ class AMMO_CLASS(556x45_FMJ_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
 };
 
 class AMMO_CLASS(556x45_FMJ_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
-	displayName = CESTRING(ammo,556x45_FMJ_40Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "5.56x45", 40, LSTRING(Ammo_FMJ_Short)]);
 
 	scope = 2;
 
@@ -60,7 +60,7 @@ class AMMO_CLASS(556x45_FMJ_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
 };
 
 class AMMO_CLASS(556x45_FMJ_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
-	displayName = CESTRING(ammo,556x45_FMJ_50Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "5.56x45", 50, LSTRING(Ammo_FMJ_Short)]);
 
 	scope = 2;
 
@@ -72,7 +72,7 @@ class AMMO_CLASS(556x45_FMJ_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
 };
 
 class AMMO_CLASS(556x45_FMJ_60Rnd) : CVO_GreenMag_Ammo_Core_60Rnd {
-	displayName = CESTRING(ammo,556x45_FMJ_60Rnd,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Complex_mm_Name), "5.56x45", 60, LSTRING(Ammo_FMJ_Short)]);
 
 	scope = 2;
 	scopeArsenal=2;
