@@ -66,6 +66,13 @@ class CfgPatches {
 			QAMMO_CLASS(556x45_Tracer_1Rnd),
 			QAMMO_CLASS(556x45_Tracer_30Rnd),
 			QAMMO_CLASS(556x45_Tracer_60Rnd),
+			// 5.7x28 Ammo
+			QAMMO_CLASS(570x28_FMJ_1Rnd),
+			QAMMO_CLASS(570x28_FMJ_30Rnd),
+			QAMMO_CLASS(570x28_FMJ_60Rnd),
+			QAMMO_CLASS(570x28_Tracer_1Rnd),
+			QAMMO_CLASS(570x28_Tracer_30Rnd),
+			QAMMO_CLASS(570x28_Tracer_60Rnd),
 			// 7.62x25 Ammo
 			QAMMO_CLASS(762x25_Basic_1Rnd),
 			QAMMO_CLASS(762x25_Basic_30Rnd),
@@ -336,13 +343,21 @@ class CfgWeapons {
 	#include "ammo\556x45_Tracer.hpp"
 
 
+	// 5.7x28
+	#include "ammo\570x28_FMJ.hpp"
+	#include "ammo\570x28_Tracer.hpp"
+
+
 	// 7.5x55
 	#include "ammo\75x55_Basic.hpp"
 	#include "ammo\75x55_FMJ.hpp"
+	#include "ammo\75x55_Tracer.hpp"
 
 
 	// 7.62x25
 	#include "ammo\762x25_Basic.hpp"
+	#include "ammo\762x25_FMJ.hpp"
+	#include "ammo\762x25_Tracer.hpp"
 
 
 	// 7.62x39
@@ -373,6 +388,7 @@ class CfgWeapons {
 	#include "ammo\762x63_Basic.hpp"
 	#include "ammo\762x63_AP.hpp"
 	#include "ammo\762x63_FMJ.hpp"
+	#include "ammo\762x63_Tracer.hpp"
 
 
 	// .300 Winchester
@@ -382,6 +398,12 @@ class CfgWeapons {
 
 	// .32ACP
 	#include "ammo\765x17_Basic.hpp"
+
+
+	// .303 British (7.7x56)
+	#include "ammo\77x56_Basic.hpp"
+	#include "ammo\77x56_FMJ.hpp"
+	#include "ammo\77x56_Tracer.hpp"
 
 
 	// 7.92x33 Kurz
@@ -419,6 +441,18 @@ class CfgWeapons {
 	#include "ammo\9x39_Basic.hpp"
 	#include "ammo\9x39_AP.hpp"
 	#include "ammo\9x39_Match.hpp"
+
+
+	// 9.3x62
+	#include "ammo\93x62_Basic.hpp"
+	#include "ammo\93x62_FMJ.hpp"
+	#include "ammo\93x62_Tracer.hpp"
+
+
+	// 10x25
+	#include "ammo\10x25_Basic.hpp"
+	#include "ammo\10x25_FMJ.hpp"
+	#include "ammo\10x25_Tracer.hpp"
 
 
 	// .50BMG

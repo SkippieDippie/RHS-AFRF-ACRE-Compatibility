@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="CVO Everything Compats - RHS AFRF">
+  <Package name="CBA">
+    <Container name="Explosives">
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC75_Throwable_name">
+            <Original>TNT charge 75g. (Throwable)</Original>
+            <Russian>Тротиловая шашка 75г (Метательная)</Russian>
+        </Key>
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC200_Throwable_name">
+            <Original>TNT charge 200g. (Throwable)</Original>
+            <Russian>Тротиловая шашка 200г (Метательная)</Russian>
+        </Key>
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC400_Throwable_name">
+            <Original>TNT charge 400g. (Throwable)</Original>
+            <Russian>Тротиловая шашка 400г (Метательная)</Russian>
+        </Key>
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC75_nameShort">
+            <Original>TNT 75g.</Original>
+            <Russian>Тротил 75г</Russian>
+        </Key>
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC200_nameShort">
+            <Original>TNT 200g.</Original>
+            <Russian>Тротил 75г</Russian>
+        </Key>
+        <Key ID="STR_CVO_RHSAFRF_Explosives_EC400_nameShort">
+            <Original>TNT 400g.</Original>
+            <Russian>Тротил 75г</Russian>
+        </Key>
+    </Container>
+  </Package>
+</Project>
