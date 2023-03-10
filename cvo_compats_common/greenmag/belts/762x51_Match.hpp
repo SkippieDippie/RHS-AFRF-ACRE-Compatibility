@@ -1,5 +1,5 @@
 class CVO_AFRF_greenmag_CoreBelt_762x51_Match : CVO_GreenMag_Belt_Core {
-	displayName = CESTRING(beltlinked,762x51_Match_Core,name);
+	displayName = "7.62x51 Match Belt Core";
 
 	greenmag_ammo = QAMMO_CLASS(762x51_Match_1Rnd);
 	greenmag_basicammo = "greenmag_ammo_762x51_basic_1Rnd";
@@ -15,7 +15,7 @@ class CVO_AFRF_greenmag_CoreBelt_762x51_Match : CVO_GreenMag_Belt_Core {
 
 
 class BELT_CLASS(762x51_Match_1) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_1,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 1, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 1;
 
@@ -25,7 +25,7 @@ class BELT_CLASS(762x51_Match_1) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_2) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_2,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 2, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 2;
 
@@ -35,7 +35,7 @@ class BELT_CLASS(762x51_Match_2) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_3) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_3,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 3, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 3;
 
@@ -45,7 +45,7 @@ class BELT_CLASS(762x51_Match_3) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_4) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_4,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 4, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 4;
 
@@ -55,7 +55,7 @@ class BELT_CLASS(762x51_Match_4) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_5) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_5,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 5, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 5;
 
@@ -65,7 +65,7 @@ class BELT_CLASS(762x51_Match_5) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_6) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_6,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 6, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 6;
 
@@ -75,7 +75,7 @@ class BELT_CLASS(762x51_Match_6) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_7) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_7,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 7, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 7;
 
@@ -85,7 +85,7 @@ class BELT_CLASS(762x51_Match_7) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_8) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_8,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 8, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 8;
 
@@ -95,7 +95,7 @@ class BELT_CLASS(762x51_Match_8) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_9) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_9,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 9, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 9;
 
@@ -105,7 +105,7 @@ class BELT_CLASS(762x51_Match_9) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_10) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_10,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 10, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 10;
 
@@ -115,7 +115,7 @@ class BELT_CLASS(762x51_Match_10) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_11) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_11,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 11, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 11;
 
@@ -125,7 +125,7 @@ class BELT_CLASS(762x51_Match_11) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_12) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_12,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 12, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 12;
 
@@ -135,7 +135,7 @@ class BELT_CLASS(762x51_Match_12) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_13) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_13,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 13, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 13;
 
@@ -145,7 +145,7 @@ class BELT_CLASS(762x51_Match_13) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_14) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_14,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 14, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 14;
 
@@ -155,7 +155,7 @@ class BELT_CLASS(762x51_Match_14) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_15) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_15,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 15, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 15;
 
@@ -165,7 +165,7 @@ class BELT_CLASS(762x51_Match_15) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_16) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_16,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 16, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 16;
 
@@ -175,7 +175,7 @@ class BELT_CLASS(762x51_Match_16) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_17) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_17,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 17, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 17;
 
@@ -185,7 +185,7 @@ class BELT_CLASS(762x51_Match_17) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_18) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_18,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 18, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 18;
 
@@ -195,7 +195,7 @@ class BELT_CLASS(762x51_Match_18) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_19) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_19,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 19, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 19;
 
@@ -205,7 +205,7 @@ class BELT_CLASS(762x51_Match_19) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_20) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_20,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 20, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 20;
 
@@ -215,7 +215,7 @@ class BELT_CLASS(762x51_Match_20) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_21) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_21,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 21, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 21;
 
@@ -225,7 +225,7 @@ class BELT_CLASS(762x51_Match_21) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_22) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_22,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 22, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 22;
 
@@ -235,7 +235,7 @@ class BELT_CLASS(762x51_Match_22) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_23) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_23,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 23, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 23;
 
@@ -245,7 +245,7 @@ class BELT_CLASS(762x51_Match_23) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_24) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_24,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 24, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 24;
 
@@ -255,7 +255,7 @@ class BELT_CLASS(762x51_Match_24) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_25) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_25,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 25, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 25;
 
@@ -265,7 +265,7 @@ class BELT_CLASS(762x51_Match_25) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_26) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_26,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 26, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 26;
 
@@ -275,7 +275,7 @@ class BELT_CLASS(762x51_Match_26) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_27) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_27,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 27, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 27;
 
@@ -285,7 +285,7 @@ class BELT_CLASS(762x51_Match_27) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_28) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_28,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 28, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 28;
 
@@ -295,7 +295,7 @@ class BELT_CLASS(762x51_Match_28) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_29) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_29,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 29, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 29;
 
@@ -305,7 +305,7 @@ class BELT_CLASS(762x51_Match_29) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_30) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_30,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 30, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 30;
 
@@ -315,7 +315,7 @@ class BELT_CLASS(762x51_Match_30) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_31) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_31,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 31, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 31;
 
@@ -325,7 +325,7 @@ class BELT_CLASS(762x51_Match_31) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_32) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_32,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 32, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 32;
 
@@ -335,7 +335,7 @@ class BELT_CLASS(762x51_Match_32) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_33) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_33,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 33, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 33;
 
@@ -345,7 +345,7 @@ class BELT_CLASS(762x51_Match_33) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_34) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_34,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 34, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 34;
 
@@ -355,7 +355,7 @@ class BELT_CLASS(762x51_Match_34) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_35) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_35,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 35, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 35;
 
@@ -365,7 +365,7 @@ class BELT_CLASS(762x51_Match_35) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_36) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_36,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 36, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 36;
 
@@ -375,7 +375,7 @@ class BELT_CLASS(762x51_Match_36) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_37) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_37,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 37, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 37;
 
@@ -385,7 +385,7 @@ class BELT_CLASS(762x51_Match_37) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_38) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_38,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 38, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 38;
 
@@ -395,7 +395,7 @@ class BELT_CLASS(762x51_Match_38) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_39) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_39,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 39, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 39;
 
@@ -405,7 +405,7 @@ class BELT_CLASS(762x51_Match_39) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_40) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_40,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 40, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 40;
 
@@ -415,7 +415,7 @@ class BELT_CLASS(762x51_Match_40) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_41) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_41,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 41, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 41;
 
@@ -425,7 +425,7 @@ class BELT_CLASS(762x51_Match_41) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_42) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_42,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 42, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 42;
 
@@ -435,7 +435,7 @@ class BELT_CLASS(762x51_Match_42) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_43) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_43,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 43, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 43;
 
@@ -445,7 +445,7 @@ class BELT_CLASS(762x51_Match_43) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_44) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_44,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 44, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 44;
 
@@ -455,7 +455,7 @@ class BELT_CLASS(762x51_Match_44) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_45) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_45,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 45, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 45;
 
@@ -465,7 +465,7 @@ class BELT_CLASS(762x51_Match_45) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_46) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_46,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 46, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 46;
 
@@ -475,7 +475,7 @@ class BELT_CLASS(762x51_Match_46) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_47) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_47,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 47, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 47;
 
@@ -485,7 +485,7 @@ class BELT_CLASS(762x51_Match_47) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_48) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_48,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 48, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 48;
 
@@ -495,7 +495,7 @@ class BELT_CLASS(762x51_Match_48) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_49) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_49,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 49, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 49;
 
@@ -505,7 +505,7 @@ class BELT_CLASS(762x51_Match_49) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_50) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_50,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 50, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 50;
 
@@ -519,7 +519,7 @@ class BELT_CLASS(762x51_Match_50) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_51) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_51,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 51, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 51;
 
@@ -529,7 +529,7 @@ class BELT_CLASS(762x51_Match_51) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_52) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_52,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 52, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 52;
 
@@ -539,7 +539,7 @@ class BELT_CLASS(762x51_Match_52) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_53) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_53,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 53, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 53;
 
@@ -549,7 +549,7 @@ class BELT_CLASS(762x51_Match_53) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_54) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_54,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 54, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 54;
 
@@ -559,7 +559,7 @@ class BELT_CLASS(762x51_Match_54) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_55) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_55,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 55, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 55;
 
@@ -569,7 +569,7 @@ class BELT_CLASS(762x51_Match_55) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_56) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_56,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 56, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 56;
 
@@ -579,7 +579,7 @@ class BELT_CLASS(762x51_Match_56) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_57) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_57,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 57, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 57;
 
@@ -589,7 +589,7 @@ class BELT_CLASS(762x51_Match_57) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_58) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_58,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 58, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 58;
 
@@ -599,7 +599,7 @@ class BELT_CLASS(762x51_Match_58) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_59) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_59,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 59, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 59;
 
@@ -609,7 +609,7 @@ class BELT_CLASS(762x51_Match_59) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_60) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_60,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 60, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 60;
 
@@ -619,7 +619,7 @@ class BELT_CLASS(762x51_Match_60) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_61) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_61,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 61, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 61;
 
@@ -629,7 +629,7 @@ class BELT_CLASS(762x51_Match_61) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_62) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_62,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 62, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 62;
 
@@ -639,7 +639,7 @@ class BELT_CLASS(762x51_Match_62) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_63) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_63,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 63, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 63;
 
@@ -649,7 +649,7 @@ class BELT_CLASS(762x51_Match_63) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_64) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_64,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 64, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 64;
 
@@ -659,7 +659,7 @@ class BELT_CLASS(762x51_Match_64) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_65) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_65,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 65, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 65;
 
@@ -669,7 +669,7 @@ class BELT_CLASS(762x51_Match_65) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_66) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_66,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 66, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 66;
 
@@ -679,7 +679,7 @@ class BELT_CLASS(762x51_Match_66) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_67) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_67,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 67, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 67;
 
@@ -689,7 +689,7 @@ class BELT_CLASS(762x51_Match_67) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_68) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_68,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 68, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 68;
 
@@ -699,7 +699,7 @@ class BELT_CLASS(762x51_Match_68) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_69) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_69,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 69, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 69;
 
@@ -709,7 +709,7 @@ class BELT_CLASS(762x51_Match_69) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_70) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_70,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 70, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 70;
 
@@ -719,7 +719,7 @@ class BELT_CLASS(762x51_Match_70) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_71) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_71,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 71, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 71;
 
@@ -729,7 +729,7 @@ class BELT_CLASS(762x51_Match_71) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_72) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_72,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 72, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 72;
 
@@ -739,7 +739,7 @@ class BELT_CLASS(762x51_Match_72) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_73) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_73,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 73, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 73;
 
@@ -749,7 +749,7 @@ class BELT_CLASS(762x51_Match_73) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_74) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_74,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 74, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 74;
 
@@ -759,7 +759,7 @@ class BELT_CLASS(762x51_Match_74) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_75) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_75,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 75, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 75;
 
@@ -769,7 +769,7 @@ class BELT_CLASS(762x51_Match_75) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_76) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_76,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 76, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 76;
 
@@ -779,7 +779,7 @@ class BELT_CLASS(762x51_Match_76) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_77) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_77,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 77, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 77;
 
@@ -789,7 +789,7 @@ class BELT_CLASS(762x51_Match_77) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_78) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_78,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 78, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 78;
 
@@ -799,7 +799,7 @@ class BELT_CLASS(762x51_Match_78) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_79) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_79,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 79, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 79;
 
@@ -809,7 +809,7 @@ class BELT_CLASS(762x51_Match_79) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_80) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_80,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 80, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 80;
 
@@ -819,7 +819,7 @@ class BELT_CLASS(762x51_Match_80) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_81) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_81,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 81, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 81;
 
@@ -829,7 +829,7 @@ class BELT_CLASS(762x51_Match_81) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_82) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_82,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 82, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 82;
 
@@ -839,7 +839,7 @@ class BELT_CLASS(762x51_Match_82) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_83) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_83,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 83, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 83;
 
@@ -849,7 +849,7 @@ class BELT_CLASS(762x51_Match_83) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_84) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_84,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 84, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 84;
 
@@ -859,7 +859,7 @@ class BELT_CLASS(762x51_Match_84) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_85) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_85,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 85, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 85;
 
@@ -869,7 +869,7 @@ class BELT_CLASS(762x51_Match_85) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_86) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_86,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 86, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 86;
 
@@ -879,7 +879,7 @@ class BELT_CLASS(762x51_Match_86) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_87) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_87,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 87, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 87;
 
@@ -889,7 +889,7 @@ class BELT_CLASS(762x51_Match_87) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_88) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_88,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 88, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 88;
 
@@ -899,7 +899,7 @@ class BELT_CLASS(762x51_Match_88) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_89) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_89,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 89, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 89;
 
@@ -909,7 +909,7 @@ class BELT_CLASS(762x51_Match_89) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_90) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_90,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 90, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 90;
 
@@ -919,7 +919,7 @@ class BELT_CLASS(762x51_Match_90) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_91) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_91,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 91, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 91;
 
@@ -929,7 +929,7 @@ class BELT_CLASS(762x51_Match_91) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_92) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_92,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 92, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 92;
 
@@ -939,7 +939,7 @@ class BELT_CLASS(762x51_Match_92) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_93) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_93,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 93, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 93;
 
@@ -949,7 +949,7 @@ class BELT_CLASS(762x51_Match_93) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_94) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_94,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 94, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 94;
 
@@ -959,7 +959,7 @@ class BELT_CLASS(762x51_Match_94) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_95) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_95,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 95, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 95;
 
@@ -969,7 +969,7 @@ class BELT_CLASS(762x51_Match_95) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_96) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_96,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 96, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 96;
 
@@ -979,7 +979,7 @@ class BELT_CLASS(762x51_Match_96) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_97) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_97,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 97, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 97;
 
@@ -989,7 +989,7 @@ class BELT_CLASS(762x51_Match_97) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_98) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_98,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 98, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 98;
 
@@ -999,7 +999,7 @@ class BELT_CLASS(762x51_Match_98) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_99) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_99,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 99, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 99;
 
@@ -1009,7 +1009,7 @@ class BELT_CLASS(762x51_Match_99) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_100) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_100,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 100, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 100;
 
@@ -1022,7 +1022,7 @@ class BELT_CLASS(762x51_Match_100) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 	};
 };
 class BELT_CLASS(762x51_Match_101) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_101,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 101, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 101;
 
@@ -1032,7 +1032,7 @@ class BELT_CLASS(762x51_Match_101) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_102) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_102,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 102, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 102;
 
@@ -1042,7 +1042,7 @@ class BELT_CLASS(762x51_Match_102) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_103) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_103,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 103, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 103;
 
@@ -1052,7 +1052,7 @@ class BELT_CLASS(762x51_Match_103) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_104) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_104,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 104, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 104;
 
@@ -1062,7 +1062,7 @@ class BELT_CLASS(762x51_Match_104) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_105) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_105,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 105, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 105;
 
@@ -1072,7 +1072,7 @@ class BELT_CLASS(762x51_Match_105) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_106) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_106,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 106, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 106;
 
@@ -1082,7 +1082,7 @@ class BELT_CLASS(762x51_Match_106) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_107) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_107,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 107, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 107;
 
@@ -1092,7 +1092,7 @@ class BELT_CLASS(762x51_Match_107) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_108) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_108,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 108, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 108;
 
@@ -1102,7 +1102,7 @@ class BELT_CLASS(762x51_Match_108) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_109) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_109,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 109, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 109;
 
@@ -1112,7 +1112,7 @@ class BELT_CLASS(762x51_Match_109) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_110) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_110,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 110, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 110;
 
@@ -1122,7 +1122,7 @@ class BELT_CLASS(762x51_Match_110) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_111) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_111,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 111, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 111;
 
@@ -1132,7 +1132,7 @@ class BELT_CLASS(762x51_Match_111) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_112) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_112,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 112, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 112;
 
@@ -1142,7 +1142,7 @@ class BELT_CLASS(762x51_Match_112) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_113) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_113,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 113, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 113;
 
@@ -1152,7 +1152,7 @@ class BELT_CLASS(762x51_Match_113) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_114) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_114,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 114, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 114;
 
@@ -1162,7 +1162,7 @@ class BELT_CLASS(762x51_Match_114) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_115) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_115,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 115, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 115;
 
@@ -1172,7 +1172,7 @@ class BELT_CLASS(762x51_Match_115) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_116) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_116,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 116, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 116;
 
@@ -1182,7 +1182,7 @@ class BELT_CLASS(762x51_Match_116) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_117) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_117,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 117, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 117;
 
@@ -1192,7 +1192,7 @@ class BELT_CLASS(762x51_Match_117) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_118) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_118,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 118, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 118;
 
@@ -1202,7 +1202,7 @@ class BELT_CLASS(762x51_Match_118) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_119) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_119,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 119, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 119;
 
@@ -1212,7 +1212,7 @@ class BELT_CLASS(762x51_Match_119) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_120) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_120,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 120, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 120;
 
@@ -1222,7 +1222,7 @@ class BELT_CLASS(762x51_Match_120) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_121) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_121,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 121, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 121;
 
@@ -1232,7 +1232,7 @@ class BELT_CLASS(762x51_Match_121) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_122) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_122,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 122, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 122;
 
@@ -1242,7 +1242,7 @@ class BELT_CLASS(762x51_Match_122) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_123) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_123,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 123, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 123;
 
@@ -1252,7 +1252,7 @@ class BELT_CLASS(762x51_Match_123) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_124) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_124,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 124, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 124;
 
@@ -1262,7 +1262,7 @@ class BELT_CLASS(762x51_Match_124) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_125) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_125,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 125, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 125;
 
@@ -1272,7 +1272,7 @@ class BELT_CLASS(762x51_Match_125) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_126) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_126,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 126, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 126;
 
@@ -1282,7 +1282,7 @@ class BELT_CLASS(762x51_Match_126) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_127) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_127,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 127, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 127;
 
@@ -1292,7 +1292,7 @@ class BELT_CLASS(762x51_Match_127) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_128) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_128,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 128, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 128;
 
@@ -1302,7 +1302,7 @@ class BELT_CLASS(762x51_Match_128) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_129) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_129,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 129, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 129;
 
@@ -1312,7 +1312,7 @@ class BELT_CLASS(762x51_Match_129) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_130) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_130,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 130, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 130;
 
@@ -1322,7 +1322,7 @@ class BELT_CLASS(762x51_Match_130) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_131) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_131,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 131, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 131;
 
@@ -1332,7 +1332,7 @@ class BELT_CLASS(762x51_Match_131) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_132) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_132,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 132, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 132;
 
@@ -1342,7 +1342,7 @@ class BELT_CLASS(762x51_Match_132) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_133) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_133,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 133, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 133;
 
@@ -1352,7 +1352,7 @@ class BELT_CLASS(762x51_Match_133) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_134) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_134,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 134, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 134;
 
@@ -1362,7 +1362,7 @@ class BELT_CLASS(762x51_Match_134) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_135) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_135,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 135, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 135;
 
@@ -1372,7 +1372,7 @@ class BELT_CLASS(762x51_Match_135) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_136) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_136,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 136, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 136;
 
@@ -1382,7 +1382,7 @@ class BELT_CLASS(762x51_Match_136) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_137) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_137,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 137, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 137;
 
@@ -1392,7 +1392,7 @@ class BELT_CLASS(762x51_Match_137) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_138) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_138,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 138, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 138;
 
@@ -1402,7 +1402,7 @@ class BELT_CLASS(762x51_Match_138) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_139) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_139,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 139, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 139;
 
@@ -1412,7 +1412,7 @@ class BELT_CLASS(762x51_Match_139) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_140) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_140,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 140, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 140;
 
@@ -1422,7 +1422,7 @@ class BELT_CLASS(762x51_Match_140) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_141) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_141,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 141, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 141;
 
@@ -1432,7 +1432,7 @@ class BELT_CLASS(762x51_Match_141) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_142) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_142,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 142, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 142;
 
@@ -1442,7 +1442,7 @@ class BELT_CLASS(762x51_Match_142) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_143) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_143,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 143, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 143;
 
@@ -1452,7 +1452,7 @@ class BELT_CLASS(762x51_Match_143) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_144) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_144,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 144, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 144;
 
@@ -1462,7 +1462,7 @@ class BELT_CLASS(762x51_Match_144) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_145) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_145,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 145, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 145;
 
@@ -1472,7 +1472,7 @@ class BELT_CLASS(762x51_Match_145) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_146) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_146,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 146, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 146;
 
@@ -1482,7 +1482,7 @@ class BELT_CLASS(762x51_Match_146) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_147) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_147,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 147, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 147;
 
@@ -1492,7 +1492,7 @@ class BELT_CLASS(762x51_Match_147) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_148) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_148,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 148, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 148;
 
@@ -1502,7 +1502,7 @@ class BELT_CLASS(762x51_Match_148) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_149) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_149,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 149, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 149;
 
@@ -1512,7 +1512,7 @@ class BELT_CLASS(762x51_Match_149) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_150) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_150,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 150, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 150;
 
@@ -1526,7 +1526,7 @@ class BELT_CLASS(762x51_Match_150) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_151) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_151,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 151, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 151;
 
@@ -1536,7 +1536,7 @@ class BELT_CLASS(762x51_Match_151) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_152) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_152,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 152, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 152;
 
@@ -1546,7 +1546,7 @@ class BELT_CLASS(762x51_Match_152) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_153) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_153,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 153, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 153;
 
@@ -1556,7 +1556,7 @@ class BELT_CLASS(762x51_Match_153) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_154) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_154,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 154, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 154;
 
@@ -1566,7 +1566,7 @@ class BELT_CLASS(762x51_Match_154) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_155) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_155,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 155, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 155;
 
@@ -1576,7 +1576,7 @@ class BELT_CLASS(762x51_Match_155) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_156) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_156,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 156, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 156;
 
@@ -1586,7 +1586,7 @@ class BELT_CLASS(762x51_Match_156) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_157) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_157,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 157, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 157;
 
@@ -1596,7 +1596,7 @@ class BELT_CLASS(762x51_Match_157) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_158) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_158,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 158, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 158;
 
@@ -1606,7 +1606,7 @@ class BELT_CLASS(762x51_Match_158) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_159) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_159,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 159, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 159;
 
@@ -1616,7 +1616,7 @@ class BELT_CLASS(762x51_Match_159) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_160) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_160,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 160, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 160;
 
@@ -1626,7 +1626,7 @@ class BELT_CLASS(762x51_Match_160) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_161) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_161,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 161, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 161;
 
@@ -1636,7 +1636,7 @@ class BELT_CLASS(762x51_Match_161) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_162) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_162,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 162, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 162;
 
@@ -1646,7 +1646,7 @@ class BELT_CLASS(762x51_Match_162) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_163) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_163,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 163, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 163;
 
@@ -1656,7 +1656,7 @@ class BELT_CLASS(762x51_Match_163) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_164) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_164,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 164, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 164;
 
@@ -1666,7 +1666,7 @@ class BELT_CLASS(762x51_Match_164) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_165) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_165,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 165, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 165;
 
@@ -1676,7 +1676,7 @@ class BELT_CLASS(762x51_Match_165) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_166) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_166,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 166, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 166;
 
@@ -1686,7 +1686,7 @@ class BELT_CLASS(762x51_Match_166) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_167) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_167,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 167, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 167;
 
@@ -1696,7 +1696,7 @@ class BELT_CLASS(762x51_Match_167) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_168) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_168,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 168, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 168;
 
@@ -1706,7 +1706,7 @@ class BELT_CLASS(762x51_Match_168) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_169) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_169,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 169, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 169;
 
@@ -1716,7 +1716,7 @@ class BELT_CLASS(762x51_Match_169) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_170) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_170,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 170, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 170;
 
@@ -1726,7 +1726,7 @@ class BELT_CLASS(762x51_Match_170) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_171) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_171,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 171, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 171;
 
@@ -1736,7 +1736,7 @@ class BELT_CLASS(762x51_Match_171) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_172) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_172,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 172, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 172;
 
@@ -1746,7 +1746,7 @@ class BELT_CLASS(762x51_Match_172) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_173) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_173,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 173, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 173;
 
@@ -1756,7 +1756,7 @@ class BELT_CLASS(762x51_Match_173) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_174) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_174,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 174, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 174;
 
@@ -1766,7 +1766,7 @@ class BELT_CLASS(762x51_Match_174) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_175) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_175,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 175, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 175;
 
@@ -1776,7 +1776,7 @@ class BELT_CLASS(762x51_Match_175) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_176) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_176,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 176, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 176;
 
@@ -1786,7 +1786,7 @@ class BELT_CLASS(762x51_Match_176) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_177) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_177,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 177, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 177;
 
@@ -1796,7 +1796,7 @@ class BELT_CLASS(762x51_Match_177) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_178) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_178,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 178, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 178;
 
@@ -1806,7 +1806,7 @@ class BELT_CLASS(762x51_Match_178) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_179) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_179,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 179, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 179;
 
@@ -1816,7 +1816,7 @@ class BELT_CLASS(762x51_Match_179) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_180) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_180,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 180, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 180;
 
@@ -1826,7 +1826,7 @@ class BELT_CLASS(762x51_Match_180) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_181) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_181,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 181, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 181;
 
@@ -1836,7 +1836,7 @@ class BELT_CLASS(762x51_Match_181) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_182) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_182,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 182, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 182;
 
@@ -1846,7 +1846,7 @@ class BELT_CLASS(762x51_Match_182) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_183) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_183,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 183, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 183;
 
@@ -1856,7 +1856,7 @@ class BELT_CLASS(762x51_Match_183) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_184) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_184,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 184, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 184;
 
@@ -1866,7 +1866,7 @@ class BELT_CLASS(762x51_Match_184) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_185) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_185,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 185, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 185;
 
@@ -1876,7 +1876,7 @@ class BELT_CLASS(762x51_Match_185) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_186) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_186,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 186, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 186;
 
@@ -1886,7 +1886,7 @@ class BELT_CLASS(762x51_Match_186) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_187) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_187,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 187, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 187;
 
@@ -1896,7 +1896,7 @@ class BELT_CLASS(762x51_Match_187) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_188) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_188,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 188, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 188;
 
@@ -1906,7 +1906,7 @@ class BELT_CLASS(762x51_Match_188) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_189) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_189,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 189, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 189;
 
@@ -1916,7 +1916,7 @@ class BELT_CLASS(762x51_Match_189) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_190) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_190,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 190, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 190;
 
@@ -1926,7 +1926,7 @@ class BELT_CLASS(762x51_Match_190) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_191) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_191,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 191, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 191;
 
@@ -1936,7 +1936,7 @@ class BELT_CLASS(762x51_Match_191) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_192) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_192,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 192, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 192;
 
@@ -1946,7 +1946,7 @@ class BELT_CLASS(762x51_Match_192) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_193) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_193,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 193, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 193;
 
@@ -1956,7 +1956,7 @@ class BELT_CLASS(762x51_Match_193) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_194) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_194,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 194, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 194;
 
@@ -1966,7 +1966,7 @@ class BELT_CLASS(762x51_Match_194) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_195) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_195,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 195, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 195;
 
@@ -1976,7 +1976,7 @@ class BELT_CLASS(762x51_Match_195) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_196) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_196,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 196, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 196;
 
@@ -1986,7 +1986,7 @@ class BELT_CLASS(762x51_Match_196) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_197) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_197,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 197, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 197;
 
@@ -1996,7 +1996,7 @@ class BELT_CLASS(762x51_Match_197) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_198) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_198,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 198, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 198;
 
@@ -2006,7 +2006,7 @@ class BELT_CLASS(762x51_Match_198) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_199) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_199,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 199, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 199;
 
@@ -2016,7 +2016,7 @@ class BELT_CLASS(762x51_Match_199) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
 };
 
 class BELT_CLASS(762x51_Match_200) : CVO_AFRF_greenmag_CoreBelt_762x51_Match {
-	displayName = CESTRING(beltlinked,762x51_Match_200,name);
+	displayName = __EVAL(format [LSTRING(Ammo_Belt_Basic_mm_Name), "7.62x51", 200, LSTRING(Ammo_Match_Short)]);
 	
 	greenmag_bullets = 200;
 
