@@ -8,8 +8,12 @@ class CfgPatches {
 		name = "CVO Compatibilities - RHS GREF";
 		url = "https://github.com/SkippieDippie/CVO-Everything-Compats";
 
-		requiredAddons[] = {"CVO_Compats_Common"};
+		requiredAddons[] = {
+			"rhsgref_main",
+			"CVO_Compats_Common"
+		};
 		requiredVersion = 1.00;
+		skipWhenMissingDependencies = 1;
 
 		units[] = {};
 		weapons[] = {};

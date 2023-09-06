@@ -1,6 +1,5 @@
 #include "macros_greenmag.hpp"
 
-#if GREENMAG_LOADED
 class CfgPatches {
 	class CVO_Compats_Common_GreenMag {
 		addonRootClass = "CVO_Compats_Common";
@@ -9,6 +8,7 @@ class CfgPatches {
 			"greenmag_main"
 		};
 		requiredVersion = 1.00;
+		skipWhenMissingDependencies = 1;
 
 		units[] = {};
 		weapons[] = {
@@ -487,4 +487,3 @@ class CfgWeapons {
 	#include "belts\792x57_Tracer.hpp"
 	
 };
-#endif

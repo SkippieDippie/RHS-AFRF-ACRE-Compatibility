@@ -1,7 +1,3 @@
-#include "\cvo\compats\cvo_compats_common\greenmag\macros_greenmag.hpp"
-
-#if RHS_AFRF_LOADED
-#if GREENMAG_LOADED
 
 class CfgPatches {
 	class CVO_Compats_RHSAFRF_GreenMag {
@@ -12,6 +8,7 @@ class CfgPatches {
 			"greenmag_main"
 		};
 		requiredVersion = 1.00;
+		skipWhenMissingDependencies = 1;
 
 		units[] = {};
 		weapons[] = {};
@@ -32,6 +29,3 @@ class CfgMagazines {
 	#include "magazines\rhs_afrf_338.hpp"
 
 };
-
-#endif
-#endif
