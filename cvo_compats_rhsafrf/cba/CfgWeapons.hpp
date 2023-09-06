@@ -120,7 +120,7 @@ class CfgWeapons {
 					start = 0.1;
 					constant = 2;
 					linear = 2;
-					quadratic = 25;
+					quadratic = 1;
 
 					hardLimitStart = 100;
 					hardLimitEnd = 200;
@@ -166,7 +166,7 @@ class CfgWeapons {
 					start = 0.1;
 					constant = 2;
 					linear = 2;
-					quadratic = 25;
+					quadratic = 1;
 
 					hardLimitStart = 100;
 					hardLimitEnd = 200;
@@ -255,7 +255,7 @@ class CfgWeapons {
 					start = 0.1;
 					constant = 2;
 					linear = 2;
-					quadratic = 25;
+					quadratic = 1;
 
 					hardLimitStart = 100;
 					hardLimitEnd = 200;
@@ -301,7 +301,7 @@ class CfgWeapons {
 					start = 0.1;
 					constant = 2;
 					linear = 2;
-					quadratic = 25;
+					quadratic = 1;
 
 					hardLimitStart = 100;
 					hardLimitEnd = 200;
@@ -388,7 +388,7 @@ class CfgWeapons {
 					start = 0.1;
 					constant = 2;
 					linear = 2;
-					quadratic = 25;
+					quadratic = 1;
 
 					hardLimitStart = 100;
 					hardLimitEnd = 200;
@@ -434,7 +434,7 @@ class CfgWeapons {
 					start = 0.1;
 					constant = 2;
 					linear = 2;
-					quadratic = 25;
+					quadratic = 1;
 
 					hardLimitStart = 100;
 					hardLimitEnd = 200;
@@ -520,7 +520,7 @@ class CfgWeapons {
 					start = 0.1;
 					constant = 2;
 					linear = 2;
-					quadratic = 25;
+					quadratic = 1;
 
 					hardLimitStart = 100;
 					hardLimitEnd = 200;
@@ -562,7 +562,7 @@ class CfgWeapons {
 					start = 0.1;
 					constant = 2;
 					linear = 2;
-					quadratic = 25;
+					quadratic = 1;
 
 					hardLimitStart = 100;
 					hardLimitEnd = 200;
@@ -638,7 +638,7 @@ class CfgWeapons {
 					start=0;
 					constant=2;
 					linear=1;
-					quadratic=75;
+					quadratic=1;
 				};
 				scale[]={0};
 			};
@@ -699,7 +699,7 @@ class CfgWeapons {
 					start = 0.1;
 					constant = 2;
 					linear = 2;
-					quadratic = 25;
+					quadratic = 1;
 
 					hardLimitStart = 100;
 					hardLimitEnd = 200;
@@ -744,7 +744,7 @@ class CfgWeapons {
 					start = 0.1;
 					constant = 2;
 					linear = 2;
-					quadratic = 25;
+					quadratic = 1;
 
 					hardLimitStart = 100;
 					hardLimitEnd = 200;
@@ -826,7 +826,7 @@ class CfgWeapons {
 					start=0;
 					constant=2;
 					linear=1;
-					quadratic=75;
+					quadratic=1;
 				};
 				scale[]={0};
 			};
