@@ -1,7 +1,3 @@
-#include "\cvo\compats\cvo_compats_common\greenmag\macros_greenmag.hpp"
-
-#if UK3CB_FACTIONS_LOADED
-#if GREENMAG_LOADED
 
 class CfgPatches {
 	class CVO_Compats_UK3CB_Factions_GreenMag {
@@ -12,6 +8,8 @@ class CfgPatches {
 			"greenmag_main"
 		};
 		requiredVersion = 1.00;
+		skipWhenMissingDependencies = 1;
+		
 
 		units[] = {};
 		weapons[] = {};
@@ -52,6 +50,3 @@ class CfgMagazines {
 	#include "magazines\uk3cb_factions_9x19.hpp"
 
 };
-
-#endif
-#endif

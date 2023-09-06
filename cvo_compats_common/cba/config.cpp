@@ -1,6 +1,4 @@
-#include "\cvo\compats\cvo_compats_common\macros.hpp"
 
-#if CBA_LOADED
 class CfgPatches {
 	class CVO_Compats_Common_CBA {
 		addonRootClass = "CVO_Compats_Common";
@@ -9,6 +7,7 @@ class CfgPatches {
 			"cba_main"
 		};
 		requiredVersion = 1.00;
+		skipWhenMissingDependencies = 1;
 
 		units[] = {};
 		weapons[] = {};
@@ -65,5 +64,3 @@ class CfgWeapons {
 		isIR = 0;
 	};
 };
-
-#endif

@@ -1,4 +1,3 @@
-#include "macros.hpp"
 
 class CfgPatches {
 	class CVO_Compats_Common {
