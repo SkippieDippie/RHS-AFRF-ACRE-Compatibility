@@ -1,6 +1,6 @@
 # CVO-Everything-Compats
 
-## Note: at the moment I'm unable to put out any regular or big/meaningful updates, don't worry though, I will come back either in the next spring or sooner if I'm lucky.
+#### Note: at the moment I'm unable to put out any regular or big/meaningful updates, don't worry though, I will come back either in the next spring or sooner if I'm lucky.
 
 This mod aims to make certain mods compatible with mods like ACRE, GreenMag and possibly other.
 
