@@ -40,7 +40,7 @@ class CfgWeapons {
 			start = 0.1;
 			constant = 2;
 			linear = 2;
-			quadratic = 25;
+			quadratic = 1;
 
 			hardLimitStart = 100;
 			hardLimitEnd = 200;
