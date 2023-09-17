@@ -1,0 +1,26 @@
+name = "CVO Everything Compats"
+
+mainprefix = "cvo"
+prefix = "compats"
+
+[files]
+include = [
+    "mod.cpp",
+    "LICENSE",
+    "cvo_logo.paa",
+    "cvo_logo_small.paa",
+    "cvo_picture.paa"
+]
+
+exclude = [
+]
+
+[properties]
+author = "24th CVO"
+url = "https://github.com/SkippieDippie/CVO-Everything-Compats"
+
+[version]
+major = 1
+minor = 0
+patch = 0
+git_hash = 0
